@@ -9,9 +9,9 @@ This project explores trends in the video game industry using Steam game data. I
 - Git/GitHub
 
 ## 📁 Project Structure
-- `data/`: Cleaned dataset
-- `notebooks/`: Jupyter notebook for EDA
-- `powerbi_dashboard/`: PBIX file with custom KPIs
+- `data`: Cleaned dataset
+- `notebooks`: Jupyter notebook for EDA
+- `powerbi_dashboard`: PBIX file with custom KPIs
 
 ## 🔍 Key Insights
 - Most popular genres over time
