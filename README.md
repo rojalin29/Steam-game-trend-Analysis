@@ -26,11 +26,6 @@ This project explores trends in the video game industry using Steam game data. I
 - Year-over-year growth
 - Top genres
 
-## 🚀 How to Use
-1. Open `notebooks/analysis.ipynb` to see data analysis.
-2. Open `Steam_Game_Analysis.pbix` in Power BI Desktop.
-3. Use slicers to explore different KPIs.
-
 ## 📦 Requirements
 ```bash
 pip install pandas matplotlib seaborn
