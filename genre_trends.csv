@@ -1,0 +1,3762 @@
+year,genre,count
+1997,Action;Indie;Racing,1
+1998,Action,1
+1999,Action,2
+2000,Action,2
+2001,Action,2
+2001,Action;RPG,1
+2001,Strategy;RPG;Indie,1
+2002,Violent;Action;Adventure,1
+2003,Action,1
+2003,Action;Casual;Indie,1
+2003,Strategy;RPG;Indie,1
+2004,Action,6
+2005,Action,1
+2005,Indie,1
+2005,Indie;Strategy,1
+2005,RPG,2
+2005,Strategy;RPG;Indie,1
+2006,Action,13
+2006,Action;Indie,1
+2006,Action;Indie;RPG,1
+2006,Action;RPG,1
+2006,Casual,2
+2006,Casual;Indie,2
+2006,Casual;Strategy;Indie,1
+2006,Indie;Simulation,1
+2006,Indie;Strategy,2
+2006,Racing,3
+2006,Strategy,19
+2006,Strategy;RPG;Indie,1
+2006,Violent;Action;Strategy,1
+2007,Action,45
+2007,Action;Adventure,3
+2007,Action;Adventure;RPG,1
+2007,Action;Free to Play,1
+2007,Action;Indie;Strategy,1
+2007,Action;RPG,1
+2007,Action;Strategy,5
+2007,Adventure,2
+2007,Adventure;Casual,1
+2007,Adventure;RPG,1
+2007,Casual,7
+2007,Indie,1
+2007,Indie;Simulation;Strategy,1
+2007,RPG,4
+2007,Racing,4
+2007,Strategy,14
+2007,Violent;Action;Strategy,1
+2008,Action,36
+2008,Action;Adventure,10
+2008,Action;Adventure;Strategy,1
+2008,Action;Casual;Indie,1
+2008,Action;Free to Play;Indie,1
+2008,Action;Free to Play;Strategy,1
+2008,Action;Indie,1
+2008,Action;Indie;Strategy,3
+2008,Action;RPG,4
+2008,Action;Racing,1
+2008,Action;Simulation;Strategy,1
+2008,Adventure,7
+2008,Adventure;Indie,1
+2008,Adventure;RPG,3
+2008,Casual,15
+2008,Casual;Indie,3
+2008,Casual;Indie;Racing,1
+2008,Casual;Simulation,5
+2008,Casual;Strategy,2
+2008,Indie,3
+2008,Indie;Casual,3
+2008,Indie;Casual;Sports,1
+2008,Indie;RPG,1
+2008,Indie;Racing;Sports,1
+2008,Indie;Strategy,1
+2008,RPG,2
+2008,RPG;Casual;Adventure,1
+2008,RPG;Strategy,1
+2008,Racing,8
+2008,Simulation,5
+2008,Simulation;Strategy,4
+2008,Strategy,12
+2008,Strategy;Action;Indie,1
+2008,Strategy;Casual,1
+2008,Strategy;RPG;Indie,1
+2008,Strategy;Simulation,2
+2009,Action,53
+2009,Action;Adventure,14
+2009,Action;Adventure;Casual;Indie;RPG;Strategy,1
+2009,Action;Adventure;Indie,1
+2009,Action;Adventure;RPG,1
+2009,Action;Adventure;Racing;Simulation;Strategy,1
+2009,Action;Adventure;Strategy,1
+2009,Action;Casual,2
+2009,Action;Free to Play;Indie,1
+2009,Action;Indie,10
+2009,Action;Indie;RPG,5
+2009,Action;Indie;Racing;Sports,1
+2009,Action;Indie;Sports,1
+2009,Action;RPG,2
+2009,Action;RPG;Indie,1
+2009,Action;Racing,2
+2009,Action;Simulation,6
+2009,Action;Simulation;Strategy,1
+2009,Action;Strategy,2
+2009,Action;Strategy;Indie,1
+2009,Adventure,34
+2009,Adventure;Casual,2
+2009,Adventure;Casual;Indie,3
+2009,Adventure;Casual;Strategy,1
+2009,Adventure;Indie,4
+2009,Adventure;RPG,3
+2009,Casual,23
+2009,Casual;Indie,4
+2009,Casual;Indie;Simulation;Strategy,1
+2009,Casual;Indie;Strategy,2
+2009,Casual;RPG,1
+2009,Casual;Simulation,2
+2009,Casual;Strategy,1
+2009,Gore;Action;Adventure;Indie,1
+2009,Indie,4
+2009,Indie;Casual,7
+2009,Indie;RPG,1
+2009,Indie;Racing;Sports,1
+2009,Indie;Simulation,1
+2009,Indie;Simulation;Sports,1
+2009,Indie;Simulation;Strategy,2
+2009,Indie;Strategy,2
+2009,Nudity;Action;Adventure,1
+2009,Nudity;Gore;Action;Adventure;Indie,1
+2009,Nudity;Violent;Action;Adventure;RPG,1
+2009,RPG,14
+2009,RPG;Indie;Casual,1
+2009,RPG;Strategy,6
+2009,Racing,4
+2009,Simulation,22
+2009,Simulation;Strategy,5
+2009,Sports,2
+2009,Sports;Casual,1
+2009,Strategy,37
+2009,Strategy;Indie,1
+2009,Strategy;Simulation,1
+2010,Action,31
+2010,Action;Adventure,13
+2010,Action;Adventure;Casual,1
+2010,Action;Adventure;Casual;Indie,1
+2010,Action;Adventure;Indie,3
+2010,Action;Adventure;Strategy,2
+2010,Action;Casual,1
+2010,Action;Casual;Indie,5
+2010,Action;Casual;Indie;Strategy,1
+2010,Action;Free to Play;Indie,1
+2010,Action;Free to Play;Massively Multiplayer;RPG;Strategy,1
+2010,Action;Indie,8
+2010,Action;Indie;RPG,2
+2010,Action;Indie;Racing,1
+2010,Action;Indie;Racing;Sports,1
+2010,Action;RPG,6
+2010,Action;RPG;Indie,1
+2010,Action;Racing,1
+2010,Action;Simulation;Strategy,1
+2010,Adventure,10
+2010,Adventure;Casual,5
+2010,Adventure;Casual;Indie,2
+2010,Adventure;Casual;Indie;Simulation,1
+2010,Adventure;Casual;Simulation,1
+2010,Adventure;Indie,5
+2010,Adventure;Indie;RPG,1
+2010,Adventure;Indie;RPG;Strategy,1
+2010,Adventure;Indie;Strategy,1
+2010,Adventure;Simulation;Strategy,1
+2010,Casual,33
+2010,Casual;Indie,12
+2010,Casual;Indie;Strategy,1
+2010,Casual;RPG,1
+2010,Casual;Simulation,1
+2010,Indie,4
+2010,Indie;Casual,1
+2010,Indie;RPG,1
+2010,Indie;RPG;Strategy,2
+2010,Indie;Racing,1
+2010,Indie;Simulation,1
+2010,Indie;Simulation;Strategy,1
+2010,Indie;Strategy,2
+2010,RPG,7
+2010,RPG;Indie,1
+2010,RPG;Simulation;Strategy,1
+2010,RPG;Strategy,7
+2010,Racing,4
+2010,Simulation,10
+2010,Simulation;Strategy,9
+2010,Sports;Strategy,1
+2010,Strategy,23
+2010,Strategy;Casual,2
+2010,Strategy;Indie,2
+2010,Strategy;RPG,1
+2011,Action,23
+2011,Action;Adventure,7
+2011,Action;Adventure;Casual,1
+2011,Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;RPG,1
+2011,Action;Adventure;Free to Play;Massively Multiplayer;RPG,1
+2011,Action;Adventure;Indie,3
+2011,Action;Adventure;Indie;RPG,2
+2011,Action;Adventure;Indie;Strategy,1
+2011,Action;Adventure;RPG,2
+2011,Action;Adventure;Simulation,1
+2011,Action;Casual;Indie,2
+2011,Action;Casual;Indie;Simulation;Strategy,1
+2011,Action;Casual;Indie;Strategy,3
+2011,Action;Free to Play,1
+2011,Action;Free to Play;Massively Multiplayer,2
+2011,Action;Indie,24
+2011,Action;Indie;RPG,3
+2011,Action;Indie;RPG;Strategy,2
+2011,Action;Indie;Racing;Strategy,1
+2011,Action;Indie;Sports,1
+2011,Action;Indie;Strategy,5
+2011,Action;Massively Multiplayer;Simulation,1
+2011,Action;RPG,3
+2011,Action;RPG;Indie,1
+2011,Action;Racing,2
+2011,Action;Simulation,1
+2011,Action;Simulation;Strategy,2
+2011,Action;Strategy,2
+2011,Action;Strategy;Indie,1
+2011,Action;Strategy;Indie;Sports,1
+2011,Adventure,14
+2011,Adventure;Casual,5
+2011,Adventure;Casual;Free to Play;Massively Multiplayer;Strategy,1
+2011,Adventure;Casual;Indie,5
+2011,Adventure;Casual;RPG,1
+2011,Adventure;Indie,4
+2011,Adventure;Indie;Casual,1
+2011,Adventure;Indie;RPG,1
+2011,Adventure;Indie;RPG;Strategy,1
+2011,Adventure;Simulation,1
+2011,Adventure;Strategy,1
+2011,Casual,3
+2011,Casual;Indie,5
+2011,Casual;Indie;RPG,1
+2011,Casual;Indie;Simulation;Strategy,1
+2011,Casual;Indie;Strategy,2
+2011,Casual;Simulation;Strategy,1
+2011,Casual;Strategy,1
+2011,Free to Play;Indie,1
+2011,Free to Play;Massively Multiplayer;RPG,3
+2011,Indie,4
+2011,Indie;Casual,6
+2011,Indie;RPG,1
+2011,Indie;Racing,2
+2011,Indie;Simulation,1
+2011,Indie;Strategy,6
+2011,Nudity;Violent;Action;RPG;Strategy,1
+2011,Nudity;Violent;RPG,1
+2011,RPG,5
+2011,RPG;Indie,2
+2011,RPG;Simulation;Strategy,2
+2011,RPG;Strategy,3
+2011,Racing,4
+2011,Racing;Simulation,1
+2011,Racing;Simulation;Sports,1
+2011,Simulation,8
+2011,Simulation;Sports,1
+2011,Simulation;Strategy,3
+2011,Sports;Strategy,1
+2011,Strategy,31
+2011,Strategy;Indie;Casual,1
+2012,Action,27
+2012,Action;Adventure,21
+2012,Action;Adventure;Casual;Indie;RPG,1
+2012,Action;Adventure;Free to Play;Massively Multiplayer;RPG,2
+2012,Action;Adventure;Indie,14
+2012,Action;Adventure;Indie;RPG,2
+2012,Action;Adventure;Indie;RPG;Simulation,2
+2012,Action;Adventure;Indie;RPG;Strategy,1
+2012,Action;Adventure;Indie;Simulation,1
+2012,Action;Adventure;RPG,2
+2012,Action;Adventure;Racing,1
+2012,Action;Casual,1
+2012,Action;Casual;Indie,3
+2012,Action;Casual;Indie;Strategy,1
+2012,Action;Casual;RPG,1
+2012,Action;Casual;Simulation;Strategy,1
+2012,Action;Free to Play,3
+2012,Action;Free to Play;Indie,1
+2012,Action;Free to Play;Indie;Massively Multiplayer;RPG,1
+2012,Action;Free to Play;Indie;Strategy,1
+2012,Action;Free to Play;Massively Multiplayer,1
+2012,Action;Free to Play;Massively Multiplayer;RPG,1
+2012,Action;Indie,29
+2012,Action;Indie;Casual,4
+2012,Action;Indie;RPG,5
+2012,Action;Indie;Simulation,3
+2012,Action;Indie;Simulation;Strategy,1
+2012,Action;Indie;Strategy,11
+2012,Action;RPG,5
+2012,Action;RPG;Strategy,1
+2012,Action;Racing,1
+2012,Action;Simulation,4
+2012,Action;Simulation;Strategy,3
+2012,Action;Strategy,4
+2012,Adventure,10
+2012,Adventure;Casual,6
+2012,Adventure;Casual;Indie,7
+2012,Adventure;Indie,20
+2012,Adventure;Indie;RPG,4
+2012,Adventure;Indie;Strategy,2
+2012,Animation & Modeling,1
+2012,Animation & Modeling;Video Production,1
+2012,Casual,1
+2012,Casual;Free to Play;Indie;Strategy,1
+2012,Casual;Free to Play;Massively Multiplayer;RPG,1
+2012,Casual;Indie,5
+2012,Casual;Indie;RPG,1
+2012,Casual;Indie;Racing,1
+2012,Casual;Indie;Simulation,1
+2012,Casual;Indie;Strategy,4
+2012,Casual;Simulation,2
+2012,Casual;Strategy,2
+2012,Design & Illustration;Web Publishing,1
+2012,Free to Play;Massively Multiplayer;RPG,4
+2012,Free to Play;Massively Multiplayer;Strategy,1
+2012,Indie,7
+2012,Indie;Casual,5
+2012,Indie;RPG,1
+2012,Indie;RPG;Simulation;Strategy,1
+2012,Indie;RPG;Strategy,1
+2012,Indie;Simulation,3
+2012,Indie;Simulation;Sports,1
+2012,Indie;Simulation;Strategy,3
+2012,Indie;Strategy,9
+2012,RPG,8
+2012,RPG;Indie,3
+2012,RPG;Simulation,1
+2012,RPG;Simulation;Strategy,3
+2012,RPG;Strategy,4
+2012,Racing,5
+2012,Racing;Simulation;Sports,3
+2012,Racing;Sports,1
+2012,Simulation,2
+2012,Simulation;Strategy,2
+2012,Sports;Strategy,2
+2012,Strategy,10
+2012,Strategy;Casual,2
+2012,Strategy;Indie;Casual,1
+2012,Strategy;Indie;Casual;Simulation,1
+2012,Strategy;RPG;Indie,2
+2012,Utilities,1
+2012,Violent;Gore;Action;Adventure;Indie,1
+2012,Violent;Gore;Action;Indie;Racing,1
+2013,Action,21
+2013,Action;Adventure,24
+2013,Action;Adventure;Casual,4
+2013,Action;Adventure;Casual;Indie,4
+2013,Action;Adventure;Casual;Indie;Strategy,1
+2013,Action;Adventure;Casual;Strategy,1
+2013,Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG,1
+2013,Action;Adventure;Free to Play;Massively Multiplayer;RPG,1
+2013,Action;Adventure;Indie,25
+2013,Action;Adventure;Indie;RPG,8
+2013,Action;Adventure;Indie;RPG;Strategy,1
+2013,Action;Adventure;Indie;Strategy,1
+2013,Action;Adventure;RPG,4
+2013,Action;Adventure;RPG;Simulation;Strategy,1
+2013,Action;Adventure;Strategy,1
+2013,Action;Casual,1
+2013,Action;Casual;Indie,3
+2013,Action;Casual;Indie;RPG,1
+2013,Action;Casual;Indie;Racing,2
+2013,Action;Casual;Indie;Strategy,1
+2013,Action;Free to Play,2
+2013,Action;Free to Play;Indie,2
+2013,Action;Free to Play;Massively Multiplayer;RPG,2
+2013,Action;Free to Play;Massively Multiplayer;Simulation,2
+2013,Action;Free to Play;Strategy,1
+2013,Action;Indie,37
+2013,Action;Indie;RPG,4
+2013,Action;Indie;RPG;Early Access,1
+2013,Action;Indie;RPG;Simulation;Early Access,1
+2013,Action;Indie;Racing,3
+2013,Action;Indie;Simulation,4
+2013,Action;Indie;Simulation;Strategy,1
+2013,Action;Indie;Sports,2
+2013,Action;Indie;Strategy,10
+2013,Action;RPG,6
+2013,Action;RPG;Strategy,2
+2013,Action;Racing,1
+2013,Action;Racing;Simulation;Sports,1
+2013,Action;Racing;Sports,1
+2013,Action;Simulation,2
+2013,Action;Simulation;Strategy,1
+2013,Action;Strategy,4
+2013,Action;Strategy;Casual,1
+2013,Adventure,12
+2013,Adventure;Casual,5
+2013,Adventure;Casual;Indie,7
+2013,Adventure;Casual;Indie;RPG,2
+2013,Adventure;Casual;Indie;RPG;Simulation,1
+2013,Adventure;Casual;Indie;RPG;Strategy,1
+2013,Adventure;Casual;Indie;Strategy,1
+2013,Adventure;Casual;Strategy,1
+2013,Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Strategy,1
+2013,Adventure;Free to Play;Massively Multiplayer;RPG,1
+2013,Adventure;Indie,28
+2013,Adventure;Indie;RPG,5
+2013,Adventure;Indie;RPG;Strategy,3
+2013,Adventure;Indie;Simulation,1
+2013,Adventure;RPG,3
+2013,Adventure;Strategy,1
+2013,Animation & Modeling,1
+2013,Animation & Modeling;Design & Illustration;Education;Software Training;Utilities,1
+2013,Animation & Modeling;Education;Utilities;Web Publishing,1
+2013,Casual,2
+2013,Casual;Free to Play;RPG,1
+2013,Casual;Indie,15
+2013,Casual;Indie;RPG;Strategy,1
+2013,Casual;Indie;Racing,1
+2013,Casual;Indie;Simulation,3
+2013,Casual;Indie;Simulation;Sports;Strategy,1
+2013,Casual;Indie;Simulation;Strategy,2
+2013,Casual;Indie;Strategy,8
+2013,Casual;Simulation,3
+2013,Casual;Strategy,2
+2013,Education;Software Training;Utilities;Web Publishing,1
+2013,Free to Play;Indie;Massively Multiplayer;RPG,1
+2013,Free to Play;Indie;RPG;Strategy,1
+2013,Free to Play;Massively Multiplayer,1
+2013,Free to Play;Racing;Simulation;Sports,1
+2013,Free to Play;Simulation,3
+2013,Gore;Indie;Simulation,1
+2013,Indie,8
+2013,Indie;Casual,1
+2013,Indie;RPG,2
+2013,Indie;RPG;Simulation;Early Access,1
+2013,Indie;RPG;Simulation;Strategy,3
+2013,Indie;RPG;Strategy,5
+2013,Indie;Simulation,2
+2013,Indie;Simulation;Sports;Strategy,1
+2013,Indie;Simulation;Strategy,4
+2013,Indie;Strategy,13
+2013,Nudity;Violent;Gore;Action;Adventure,1
+2013,Nudity;Violent;Gore;Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access,1
+2013,RPG,4
+2013,RPG;Strategy,3
+2013,Racing,2
+2013,Racing;Simulation,1
+2013,Racing;Simulation;Sports,1
+2013,Racing;Sports,5
+2013,Sexual Content;Violent;Adventure;Indie,1
+2013,Simulation,12
+2013,Simulation;Strategy,7
+2013,Strategy,14
+2013,Strategy;Casual,3
+2013,Violent;Gore;Indie;RPG,1
+2013,Web Publishing,1
+2014,Action,84
+2014,Action;Adventure,52
+2014,Action;Adventure;Casual,1
+2014,Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer,1
+2014,Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG,1
+2014,Action;Adventure;Casual;Free to Play;RPG;Strategy,1
+2014,Action;Adventure;Casual;Indie,21
+2014,Action;Adventure;Casual;Indie;Early Access,1
+2014,Action;Adventure;Casual;Indie;RPG,5
+2014,Action;Adventure;Casual;Indie;RPG;Early Access,1
+2014,Action;Adventure;Casual;Indie;RPG;Strategy,1
+2014,Action;Adventure;Casual;Indie;Simulation;Sports,1
+2014,Action;Adventure;Casual;Indie;Simulation;Strategy,1
+2014,Action;Adventure;Casual;Indie;Strategy,1
+2014,Action;Adventure;Casual;Racing,1
+2014,Action;Adventure;Early Access;Indie;Strategy,1
+2014,Action;Adventure;Free to Play;Indie,4
+2014,Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Strategy,1
+2014,Action;Adventure;Free to Play;Indie;RPG,1
+2014,Action;Adventure;Free to Play;Simulation;Sports,1
+2014,Action;Adventure;Indie,76
+2014,Action;Adventure;Indie;Early Access,2
+2014,Action;Adventure;Indie;Massively Multiplayer;RPG,1
+2014,Action;Adventure;Indie;RPG,17
+2014,Action;Adventure;Indie;RPG;Early Access,2
+2014,Action;Adventure;Indie;RPG;Simulation;Strategy,1
+2014,Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access,3
+2014,Action;Adventure;Indie;Racing,2
+2014,Action;Adventure;Indie;Simulation,1
+2014,Action;Adventure;Indie;Strategy,1
+2014,Action;Adventure;Massively Multiplayer;Simulation;Early Access,1
+2014,Action;Adventure;RPG,10
+2014,Action;Adventure;RPG;Early Access,1
+2014,Action;Adventure;RPG;Strategy,1
+2014,Action;Adventure;Racing,3
+2014,Action;Adventure;Simulation,4
+2014,Action;Adventure;Strategy,2
+2014,Action;Casual,4
+2014,Action;Casual;Free to Play,1
+2014,Action;Casual;Free to Play;Indie;Massively Multiplayer;Early Access,1
+2014,Action;Casual;Free to Play;Massively Multiplayer,1
+2014,Action;Casual;Indie,33
+2014,Action;Casual;Indie;Early Access,1
+2014,Action;Casual;Indie;Racing;Simulation,1
+2014,Action;Casual;Indie;Racing;Simulation;Sports,1
+2014,Action;Casual;Indie;Simulation,1
+2014,Action;Casual;Indie;Simulation;Strategy,1
+2014,Action;Casual;Indie;Sports,3
+2014,Action;Casual;Indie;Strategy,6
+2014,Action;Casual;Simulation;Sports;Strategy,1
+2014,Action;Casual;Strategy,2
+2014,Action;Free to Play,2
+2014,Action;Free to Play;Early Access,1
+2014,Action;Free to Play;Indie,5
+2014,Action;Free to Play;Indie;Early Access,2
+2014,Action;Free to Play;Indie;Massively Multiplayer,1
+2014,Action;Free to Play;Indie;Massively Multiplayer;RPG,1
+2014,Action;Free to Play;Indie;RPG,1
+2014,Action;Free to Play;Indie;Strategy,1
+2014,Action;Free to Play;Massively Multiplayer,1
+2014,Action;Free to Play;Massively Multiplayer;RPG,2
+2014,Action;Indie,126
+2014,Action;Indie;Early Access,8
+2014,Action;Indie;Massively Multiplayer;Early Access,1
+2014,Action;Indie;Massively Multiplayer;RPG;Early Access,1
+2014,Action;Indie;Massively Multiplayer;RPG;Simulation,1
+2014,Action;Indie;RPG,22
+2014,Action;Indie;RPG;Early Access,1
+2014,Action;Indie;RPG;Simulation;Early Access,1
+2014,Action;Indie;RPG;Sports,1
+2014,Action;Indie;RPG;Strategy,4
+2014,Action;Indie;Racing,8
+2014,Action;Indie;Racing;Simulation,1
+2014,Action;Indie;Racing;Simulation;Early Access,1
+2014,Action;Indie;Racing;Simulation;Sports,1
+2014,Action;Indie;Racing;Simulation;Sports;Early Access,1
+2014,Action;Indie;Simulation,5
+2014,Action;Indie;Simulation;Early Access,1
+2014,Action;Indie;Simulation;Sports,1
+2014,Action;Indie;Simulation;Sports;Early Access,1
+2014,Action;Indie;Simulation;Strategy,3
+2014,Action;Indie;Sports,3
+2014,Action;Indie;Sports;Early Access,1
+2014,Action;Indie;Strategy,18
+2014,Action;Indie;Strategy;Early Access,1
+2014,Action;Massively Multiplayer;Racing,1
+2014,Action;RPG,10
+2014,Action;RPG;Simulation,2
+2014,Action;RPG;Simulation;Strategy,1
+2014,Action;RPG;Strategy,2
+2014,Action;Racing,8
+2014,Action;Racing;Early Access,1
+2014,Action;Racing;RPG,1
+2014,Action;Simulation,10
+2014,Action;Simulation;Sports;Strategy,1
+2014,Action;Simulation;Strategy,4
+2014,Action;Strategy,7
+2014,Adventure,66
+2014,Adventure;Casual,67
+2014,Adventure;Casual;Free to Play;Indie,1
+2014,Adventure;Casual;Free to Play;Indie;RPG,1
+2014,Adventure;Casual;Free to Play;Indie;Simulation,1
+2014,Adventure;Casual;Free to Play;Massively Multiplayer;RPG,1
+2014,Adventure;Casual;Indie,39
+2014,Adventure;Casual;Indie;RPG,10
+2014,Adventure;Casual;Indie;RPG;Early Access,2
+2014,Adventure;Casual;Indie;RPG;Simulation,1
+2014,Adventure;Casual;Indie;RPG;Simulation;Strategy;Early Access,1
+2014,Adventure;Casual;Indie;RPG;Strategy,7
+2014,Adventure;Casual;Indie;Racing;Simulation,1
+2014,Adventure;Casual;Indie;Simulation,1
+2014,Adventure;Casual;RPG,3
+2014,Adventure;Casual;Racing,1
+2014,Adventure;Casual;Simulation,3
+2014,Adventure;Casual;Strategy,3
+2014,Adventure;Free to Play;Indie,1
+2014,Adventure;Free to Play;Indie;RPG,1
+2014,Adventure;Free to Play;Massively Multiplayer;RPG,1
+2014,Adventure;Free to Play;Massively Multiplayer;RPG;Strategy,1
+2014,Adventure;Indie,79
+2014,Adventure;Indie;Early Access,3
+2014,Adventure;Indie;RPG,26
+2014,Adventure;Indie;RPG;Early Access,1
+2014,Adventure;Indie;RPG;Simulation,3
+2014,Adventure;Indie;RPG;Simulation;Strategy,1
+2014,Adventure;Indie;RPG;Strategy,6
+2014,Adventure;Indie;Simulation,5
+2014,Adventure;Indie;Simulation;Early Access,1
+2014,Adventure;Indie;Sports,1
+2014,Adventure;Indie;Strategy,4
+2014,Adventure;RPG,3
+2014,Adventure;RPG;Simulation,1
+2014,Adventure;RPG;Strategy,3
+2014,Adventure;Simulation,5
+2014,Adventure;Strategy,1
+2014,Animation & Modeling;Design & Illustration;Education;Software Training;Utilities,1
+2014,Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Web Publishing,1
+2014,Animation & Modeling;Design & Illustration;Photo Editing,1
+2014,Animation & Modeling;Design & Illustration;Utilities,1
+2014,Animation & Modeling;Design & Illustration;Web Publishing,1
+2014,Audio Production,1
+2014,Audio Production;Utilities,1
+2014,Casual,43
+2014,Casual;Free to Play;Indie,4
+2014,Casual;Free to Play;Indie;Early Access,1
+2014,Casual;Free to Play;Indie;Massively Multiplayer;RPG,1
+2014,Casual;Free to Play;Indie;Massively Multiplayer;Strategy,1
+2014,Casual;Free to Play;Indie;RPG;Strategy,1
+2014,Casual;Free to Play;Indie;Strategy,1
+2014,Casual;Indie,23
+2014,Casual;Indie;Early Access,1
+2014,Casual;Indie;RPG,1
+2014,Casual;Indie;RPG;Simulation,3
+2014,Casual;Indie;RPG;Simulation;Strategy;Early Access,1
+2014,Casual;Indie;Racing,2
+2014,Casual;Indie;Simulation,12
+2014,Casual;Indie;Simulation;Strategy,15
+2014,Casual;Indie;Sports,1
+2014,Casual;Indie;Strategy,20
+2014,Casual;Indie;Strategy;Early Access,1
+2014,Casual;RPG,3
+2014,Casual;Racing,3
+2014,Casual;Simulation,7
+2014,Casual;Simulation;Sports,4
+2014,Casual;Simulation;Strategy,4
+2014,Casual;Sports,3
+2014,Casual;Strategy,9
+2014,Design & Illustration;Photo Editing,1
+2014,Design & Illustration;Utilities,2
+2014,Early Access,1
+2014,Education;Software Training,1
+2014,Education;Software Training;Utilities;Video Production,1
+2014,Free to Play;Indie,1
+2014,Free to Play;Indie;Massively Multiplayer;RPG,1
+2014,Free to Play;Indie;Massively Multiplayer;Racing;RPG;Strategy,1
+2014,Free to Play;Indie;Massively Multiplayer;Strategy,1
+2014,Free to Play;Indie;RPG,1
+2014,Free to Play;Indie;RPG;Simulation,1
+2014,Free to Play;Indie;RPG;Strategy,1
+2014,Free to Play;Indie;Simulation,1
+2014,Free to Play;Indie;Strategy,2
+2014,Free to Play;Massively Multiplayer;RPG,2
+2014,Free to Play;RPG;Strategy,1
+2014,Free to Play;Simulation;Strategy,1
+2014,Free to Play;Strategy,1
+2014,Indie,35
+2014,Indie;Massively Multiplayer;RPG,2
+2014,Indie;Massively Multiplayer;RPG;Early Access,2
+2014,Indie;Massively Multiplayer;Strategy,1
+2014,Indie;RPG,27
+2014,Indie;RPG;Early Access,1
+2014,Indie;RPG;Simulation;Strategy,5
+2014,Indie;RPG;Strategy,17
+2014,Indie;RPG;Strategy;Early Access,1
+2014,Indie;Racing,2
+2014,Indie;Racing;Simulation;Sports,1
+2014,Indie;Racing;Sports,1
+2014,Indie;Racing;Sports;Early Access,1
+2014,Indie;Simulation,10
+2014,Indie;Simulation;Sports,2
+2014,Indie;Simulation;Strategy,13
+2014,Indie;Simulation;Strategy;Early Access,4
+2014,Indie;Sports,2
+2014,Indie;Sports;Strategy,1
+2014,Indie;Strategy,39
+2014,Massively Multiplayer;RPG,1
+2014,Nudity;Indie,1
+2014,RPG,24
+2014,RPG;Early Access,1
+2014,RPG;Simulation;Strategy,2
+2014,RPG;Strategy,11
+2014,Racing,10
+2014,Racing;Simulation;Sports,4
+2014,Racing;Simulation;Sports;Strategy,1
+2014,Racing;Sports,3
+2014,Sexual Content;Action;Casual;Indie,1
+2014,Sexual Content;Nudity;Casual;Indie,1
+2014,Sexual Content;Nudity;Indie,1
+2014,Simulation,40
+2014,Simulation;Sports,1
+2014,Simulation;Sports;Strategy,3
+2014,Simulation;Strategy,28
+2014,Sports,5
+2014,Sports;Strategy,1
+2014,Strategy,47
+2014,Strategy;Early Access,1
+2014,Utilities,5
+2014,Utilities;Video Production,1
+2014,Violent;Action;Adventure;Indie,1
+2014,Violent;Action;Indie;Strategy,1
+2014,Violent;Gore;Action;Indie;Strategy,1
+2015,Action,69
+2015,Action;Adventure,34
+2015,Action;Adventure;Casual,2
+2015,Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,1
+2015,Action;Adventure;Casual;Free to Play;Indie;RPG,1
+2015,Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG,1
+2015,Action;Adventure;Casual;Indie,30
+2015,Action;Adventure;Casual;Indie;Early Access,2
+2015,Action;Adventure;Casual;Indie;Massively Multiplayer;RPG;Simulation;Strategy,1
+2015,Action;Adventure;Casual;Indie;Massively Multiplayer;Racing;RPG;Simulation;Sports;Strategy,1
+2015,Action;Adventure;Casual;Indie;RPG,8
+2015,Action;Adventure;Casual;Indie;RPG;Early Access,2
+2015,Action;Adventure;Casual;Indie;RPG;Simulation,2
+2015,Action;Adventure;Casual;Indie;RPG;Simulation;Early Access,1
+2015,Action;Adventure;Casual;Indie;RPG;Simulation;Strategy,2
+2015,Action;Adventure;Casual;Indie;RPG;Simulation;Strategy;Early Access,1
+2015,Action;Adventure;Casual;Indie;RPG;Strategy,6
+2015,Action;Adventure;Casual;Indie;Racing,2
+2015,Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Sports;Strategy,1
+2015,Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Strategy;Early Access,1
+2015,Action;Adventure;Casual;Indie;Simulation,4
+2015,Action;Adventure;Casual;Indie;Simulation;Early Access,1
+2015,Action;Adventure;Casual;Indie;Simulation;Strategy,1
+2015,Action;Adventure;Casual;Indie;Strategy,9
+2015,Action;Adventure;Casual;Indie;Strategy;Early Access,1
+2015,Action;Adventure;Casual;RPG,1
+2015,Action;Adventure;Casual;Simulation;Strategy,1
+2015,Action;Adventure;Casual;Strategy,1
+2015,Action;Adventure;Free to Play;Indie,1
+2015,Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG,2
+2015,Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,1
+2015,Action;Adventure;Free to Play;Massively Multiplayer,1
+2015,Action;Adventure;Free to Play;RPG;Simulation,1
+2015,Action;Adventure;Free to Play;Sports;Strategy,1
+2015,Action;Adventure;Indie,152
+2015,Action;Adventure;Indie;Early Access,13
+2015,Action;Adventure;Indie;Massively Multiplayer;RPG;Early Access,1
+2015,Action;Adventure;Indie;Massively Multiplayer;Simulation;Early Access,2
+2015,Action;Adventure;Indie;RPG,50
+2015,Action;Adventure;Indie;RPG;Early Access,14
+2015,Action;Adventure;Indie;RPG;Simulation,2
+2015,Action;Adventure;Indie;RPG;Simulation;Early Access,3
+2015,Action;Adventure;Indie;RPG;Simulation;Strategy,2
+2015,Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access,1
+2015,Action;Adventure;Indie;RPG;Strategy,6
+2015,Action;Adventure;Indie;RPG;Strategy;Early Access,2
+2015,Action;Adventure;Indie;Racing,2
+2015,Action;Adventure;Indie;Racing;Simulation;Sports;Early Access,1
+2015,Action;Adventure;Indie;Simulation,9
+2015,Action;Adventure;Indie;Simulation;Early Access,5
+2015,Action;Adventure;Indie;Simulation;Strategy,4
+2015,Action;Adventure;Indie;Simulation;Strategy;Early Access,2
+2015,Action;Adventure;Indie;Strategy,8
+2015,Action;Adventure;Indie;Strategy;Early Access,2
+2015,Action;Adventure;Massively Multiplayer;RPG;Simulation;Strategy,1
+2015,Action;Adventure;Massively Multiplayer;Simulation,1
+2015,Action;Adventure;RPG,14
+2015,Action;Adventure;RPG;Early Access,1
+2015,Action;Adventure;RPG;Simulation;Strategy,1
+2015,Action;Adventure;RPG;Strategy,2
+2015,Action;Adventure;Simulation,3
+2015,Action;Adventure;Simulation;Early Access,1
+2015,Action;Adventure;Sports,1
+2015,Action;Adventure;Strategy,1
+2015,Action;Casual,11
+2015,Action;Casual;Free to Play;Indie,5
+2015,Action;Casual;Free to Play;Indie;RPG,1
+2015,Action;Casual;Free to Play;Indie;RPG;Strategy,1
+2015,Action;Casual;Free to Play;Indie;Simulation,1
+2015,Action;Casual;Free to Play;Indie;Strategy,1
+2015,Action;Casual;Free to Play;Massively Multiplayer,1
+2015,Action;Casual;Free to Play;Massively Multiplayer;Sports,1
+2015,Action;Casual;Free to Play;RPG;Simulation;Strategy,1
+2015,Action;Casual;Free to Play;Strategy,1
+2015,Action;Casual;Indie,77
+2015,Action;Casual;Indie;Early Access,7
+2015,Action;Casual;Indie;Massively Multiplayer;Strategy;Early Access,1
+2015,Action;Casual;Indie;RPG,4
+2015,Action;Casual;Indie;RPG;Early Access,1
+2015,Action;Casual;Indie;RPG;Simulation,1
+2015,Action;Casual;Indie;RPG;Simulation;Strategy,2
+2015,Action;Casual;Indie;RPG;Strategy,1
+2015,Action;Casual;Indie;Racing,4
+2015,Action;Casual;Indie;Racing;Simulation,2
+2015,Action;Casual;Indie;Racing;Simulation;Sports,3
+2015,Action;Casual;Indie;Racing;Sports,1
+2015,Action;Casual;Indie;Simulation,7
+2015,Action;Casual;Indie;Simulation;Sports;Early Access,1
+2015,Action;Casual;Indie;Simulation;Strategy,1
+2015,Action;Casual;Indie;Simulation;Strategy;Early Access,1
+2015,Action;Casual;Indie;Sports,3
+2015,Action;Casual;Indie;Sports;Strategy,1
+2015,Action;Casual;Indie;Strategy,11
+2015,Action;Casual;Simulation,2
+2015,Action;Casual;Simulation;Sports;Strategy,1
+2015,Action;Casual;Strategy,1
+2015,Action;Early Access,1
+2015,Action;Free to Play,5
+2015,Action;Free to Play;Early Access,1
+2015,Action;Free to Play;Indie,10
+2015,Action;Free to Play;Indie;Early Access,2
+2015,Action;Free to Play;Indie;Massively Multiplayer,1
+2015,Action;Free to Play;Indie;Massively Multiplayer;RPG,1
+2015,Action;Free to Play;Indie;Massively Multiplayer;Sports,1
+2015,Action;Free to Play;Indie;RPG,2
+2015,Action;Free to Play;Indie;RPG;Strategy,1
+2015,Action;Free to Play;Indie;Strategy;Early Access,1
+2015,Action;Free to Play;Massively Multiplayer,1
+2015,Action;Free to Play;Massively Multiplayer;RPG,2
+2015,Action;Free to Play;Massively Multiplayer;RPG;Early Access,1
+2015,Action;Free to Play;Massively Multiplayer;RPG;Simulation;Strategy,1
+2015,Action;Free to Play;Massively Multiplayer;Racing;Early Access,1
+2015,Action;Free to Play;Massively Multiplayer;Simulation;Strategy,1
+2015,Action;Free to Play;Massively Multiplayer;Strategy,1
+2015,Action;Free to Play;RPG,1
+2015,Action;Free to Play;RPG;Strategy,1
+2015,Action;Free to Play;Simulation;Strategy,1
+2015,Action;Indie,258
+2015,Action;Indie;Early Access,19
+2015,Action;Indie;Massively Multiplayer,1
+2015,Action;Indie;Massively Multiplayer;Racing;Simulation;Sports,1
+2015,Action;Indie;RPG,30
+2015,Action;Indie;RPG;Early Access,4
+2015,Action;Indie;RPG;Simulation,2
+2015,Action;Indie;RPG;Simulation;Early Access,1
+2015,Action;Indie;RPG;Simulation;Strategy,3
+2015,Action;Indie;RPG;Sports,1
+2015,Action;Indie;RPG;Strategy,5
+2015,Action;Indie;RPG;Strategy;Early Access,2
+2015,Action;Indie;Racing,12
+2015,Action;Indie;Racing;Early Access,1
+2015,Action;Indie;Racing;Simulation,3
+2015,Action;Indie;Racing;Simulation;Sports,1
+2015,Action;Indie;Racing;Sports,1
+2015,Action;Indie;Simulation,20
+2015,Action;Indie;Simulation;Early Access,2
+2015,Action;Indie;Simulation;Strategy,6
+2015,Action;Indie;Simulation;Strategy;Early Access,3
+2015,Action;Indie;Sports,5
+2015,Action;Indie;Sports;Early Access,1
+2015,Action;Indie;Strategy,32
+2015,Action;Indie;Strategy;Early Access,6
+2015,Action;Massively Multiplayer;Early Access,1
+2015,Action;Massively Multiplayer;RPG,1
+2015,Action;Massively Multiplayer;Racing;RPG;Simulation;Early Access,1
+2015,Action;Massively Multiplayer;Strategy;Early Access,1
+2015,Action;RPG,5
+2015,Action;RPG;Early Access,1
+2015,Action;RPG;Simulation,1
+2015,Action;Racing,2
+2015,Action;Racing;Sports,1
+2015,Action;Simulation,7
+2015,Action;Simulation;Early Access,1
+2015,Action;Simulation;Sports,1
+2015,Action;Simulation;Strategy;Early Access,1
+2015,Action;Sports,2
+2015,Action;Strategy,9
+2015,Adventure,59
+2015,Adventure;Casual,63
+2015,Adventure;Casual;Free to Play,1
+2015,Adventure;Casual;Free to Play;Indie,6
+2015,Adventure;Casual;Free to Play;Indie;RPG;Simulation,1
+2015,Adventure;Casual;Free to Play;Indie;RPG;Simulation;Strategy,1
+2015,Adventure;Casual;Free to Play;Indie;Simulation,2
+2015,Adventure;Casual;Indie,64
+2015,Adventure;Casual;Indie;RPG,24
+2015,Adventure;Casual;Indie;RPG;Simulation,2
+2015,Adventure;Casual;Indie;RPG;Simulation;Strategy,2
+2015,Adventure;Casual;Indie;RPG;Strategy,7
+2015,Adventure;Casual;Indie;Simulation,17
+2015,Adventure;Casual;Indie;Simulation;Strategy,4
+2015,Adventure;Casual;Indie;Sports,1
+2015,Adventure;Casual;Indie;Strategy,6
+2015,Adventure;Casual;Racing,1
+2015,Adventure;Casual;Simulation,6
+2015,Adventure;Casual;Simulation;Strategy,11
+2015,Adventure;Casual;Strategy,2
+2015,Adventure;Free to Play,3
+2015,Adventure;Free to Play;Indie,10
+2015,Adventure;Free to Play;Indie;Early Access,1
+2015,Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,1
+2015,Adventure;Free to Play;Indie;RPG,1
+2015,Adventure;Free to Play;Massively Multiplayer;RPG,1
+2015,Adventure;Indie,153
+2015,Adventure;Indie;Early Access,5
+2015,Adventure;Indie;Massively Multiplayer,1
+2015,Adventure;Indie;RPG,42
+2015,Adventure;Indie;RPG;Early Access,5
+2015,Adventure;Indie;RPG;Simulation,2
+2015,Adventure;Indie;RPG;Simulation;Early Access,1
+2015,Adventure;Indie;RPG;Simulation;Strategy,3
+2015,Adventure;Indie;RPG;Simulation;Strategy;Early Access,1
+2015,Adventure;Indie;RPG;Strategy,17
+2015,Adventure;Indie;RPG;Strategy;Early Access,1
+2015,Adventure;Indie;Racing,1
+2015,Adventure;Indie;Simulation,8
+2015,Adventure;Indie;Simulation;Strategy,3
+2015,Adventure;Indie;Simulation;Strategy;Early Access,2
+2015,Adventure;Indie;Strategy,11
+2015,Adventure;Indie;Strategy;Early Access,1
+2015,Adventure;RPG,7
+2015,Adventure;RPG;Simulation;Strategy,2
+2015,Adventure;RPG;Strategy,3
+2015,Adventure;RPG;Strategy;Early Access,1
+2015,Adventure;Racing,2
+2015,Adventure;Simulation,2
+2015,Adventure;Simulation;Strategy,2
+2015,Animation & Modeling;Design & Illustration;Education;Photo Editing;Software Training;Utilities;Video Production,1
+2015,Animation & Modeling;Design & Illustration;Education;Software Training;Utilities,1
+2015,Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Early Access,2
+2015,Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Game Development,1
+2015,Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Video Production;Web Publishing;Game Development,1
+2015,Animation & Modeling;Design & Illustration;Education;Utilities;Early Access,1
+2015,Animation & Modeling;Design & Illustration;Game Development,1
+2015,Animation & Modeling;Design & Illustration;Photo Editing;Software Training;Utilities;Video Production,1
+2015,Animation & Modeling;Design & Illustration;Photo Editing;Utilities;Web Publishing;Game Development,1
+2015,Animation & Modeling;Video Production,1
+2015,Audio Production;Education;Software Training;Video Production;Web Publishing,1
+2015,Audio Production;Utilities,1
+2015,Casual,33
+2015,Casual;Free to Play,2
+2015,Casual;Free to Play;Indie,3
+2015,Casual;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,1
+2015,Casual;Free to Play;Indie;RPG;Simulation;Strategy,1
+2015,Casual;Free to Play;Indie;Simulation,3
+2015,Casual;Free to Play;Indie;Simulation;Sports;Strategy,1
+2015,Casual;Free to Play;Indie;Strategy,4
+2015,Casual;Free to Play;Massively Multiplayer,1
+2015,Casual;Free to Play;Massively Multiplayer;Simulation,1
+2015,Casual;Free to Play;Strategy,1
+2015,Casual;Indie,84
+2015,Casual;Indie;Early Access,2
+2015,Casual;Indie;Massively Multiplayer;Racing,1
+2015,Casual;Indie;Massively Multiplayer;Strategy,1
+2015,Casual;Indie;RPG,10
+2015,Casual;Indie;RPG;Simulation,4
+2015,Casual;Indie;RPG;Simulation;Strategy,2
+2015,Casual;Indie;RPG;Strategy,4
+2015,Casual;Indie;RPG;Strategy;Early Access,1
+2015,Casual;Indie;Racing,3
+2015,Casual;Indie;Simulation,16
+2015,Casual;Indie;Simulation;Early Access,2
+2015,Casual;Indie;Simulation;Sports;Strategy,2
+2015,Casual;Indie;Simulation;Strategy,16
+2015,Casual;Indie;Simulation;Strategy;Early Access,1
+2015,Casual;Indie;Sports,4
+2015,Casual;Indie;Sports;Strategy,2
+2015,Casual;Indie;Strategy,40
+2015,Casual;RPG,2
+2015,Casual;Racing;Sports,1
+2015,Casual;Simulation,5
+2015,Casual;Simulation;Sports,4
+2015,Casual;Simulation;Sports;Strategy,2
+2015,Casual;Simulation;Strategy,10
+2015,Casual;Strategy,15
+2015,Design & Illustration;Education;Utilities,1
+2015,Design & Illustration;Utilities;Web Publishing,1
+2015,Design & Illustration;Web Publishing,1
+2015,Free to Play,2
+2015,Free to Play;Indie,5
+2015,Free to Play;Indie;Massively Multiplayer,1
+2015,Free to Play;Indie;Massively Multiplayer;Strategy,4
+2015,Free to Play;Indie;RPG;Strategy,2
+2015,Free to Play;Indie;Racing;Strategy,1
+2015,Free to Play;Indie;Sports;Strategy,1
+2015,Free to Play;Indie;Strategy,2
+2015,Free to Play;Indie;Strategy;Early Access,1
+2015,Free to Play;Massively Multiplayer;RPG,2
+2015,Free to Play;Massively Multiplayer;RPG;Strategy,1
+2015,Free to Play;Massively Multiplayer;Simulation,1
+2015,Free to Play;Massively Multiplayer;Strategy,3
+2015,Free to Play;RPG,1
+2015,Free to Play;RPG;Strategy,1
+2015,Free to Play;Racing;Simulation;Sports,1
+2015,Free to Play;Simulation,1
+2015,Free to Play;Simulation;Strategy,2
+2015,Free to Play;Sports,1
+2015,Free to Play;Strategy,4
+2015,Free to Play;Strategy;Early Access,1
+2015,Gore;Action;Adventure;Indie,2
+2015,Gore;Adventure;Indie,1
+2015,Indie,85
+2015,Indie;Early Access,5
+2015,Indie;Massively Multiplayer;RPG;Early Access,1
+2015,Indie;Massively Multiplayer;Strategy;Early Access,1
+2015,Indie;RPG,47
+2015,Indie;RPG;Early Access,1
+2015,Indie;RPG;Simulation,4
+2015,Indie;RPG;Simulation;Strategy,4
+2015,Indie;RPG;Simulation;Strategy;Early Access,2
+2015,Indie;RPG;Strategy,23
+2015,Indie;RPG;Strategy;Early Access,3
+2015,Indie;Racing,4
+2015,Indie;Racing;Early Access,1
+2015,Indie;Racing;Simulation;Sports,4
+2015,Indie;Racing;Sports,2
+2015,Indie;Racing;Sports;Early Access,1
+2015,Indie;Simulation,28
+2015,Indie;Simulation;Early Access,5
+2015,Indie;Simulation;Sports,1
+2015,Indie;Simulation;Sports;Early Access,1
+2015,Indie;Simulation;Sports;Strategy,2
+2015,Indie;Simulation;Strategy,32
+2015,Indie;Simulation;Strategy;Early Access,4
+2015,Indie;Sports,3
+2015,Indie;Sports;Strategy,2
+2015,Indie;Strategy,45
+2015,Indie;Strategy;Early Access,2
+2015,Massively Multiplayer;Racing;Simulation;Sports,1
+2015,Photo Editing;Utilities;Video Production,1
+2015,RPG,26
+2015,RPG;Early Access,1
+2015,RPG;Simulation,2
+2015,RPG;Simulation;Strategy,1
+2015,RPG;Simulation;Strategy;Early Access,1
+2015,RPG;Strategy,15
+2015,RPG;Strategy;Early Access,1
+2015,Racing,8
+2015,Racing;Early Access,1
+2015,Racing;Simulation,5
+2015,Racing;Simulation;Early Access,1
+2015,Racing;Simulation;Sports,12
+2015,Racing;Sports,2
+2015,Racing;Sports;Early Access,1
+2015,Sexual Content;Nudity;Adventure;Casual,1
+2015,Sexual Content;Nudity;Casual;Free to Play;Indie,1
+2015,Sexual Content;Nudity;Casual;Indie,5
+2015,Sexual Content;Nudity;Indie;Simulation,1
+2015,Sexual Content;Violent;Gore;Adventure;Free to Play;Indie,1
+2015,Simulation,29
+2015,Simulation;Sports,10
+2015,Simulation;Sports;Early Access,1
+2015,Simulation;Sports;Strategy,2
+2015,Simulation;Strategy,29
+2015,Simulation;Strategy;Early Access,2
+2015,Sports,6
+2015,Sports;Strategy,1
+2015,Strategy,42
+2015,Utilities,4
+2015,Violent;Action;Indie,1
+2015,Violent;Gore;Action,1
+2015,Violent;Gore;Action;Adventure;Indie,1
+2015,Violent;Gore;Action;Indie,1
+2015,Violent;Gore;Indie,1
+2016,Accounting;Animation & Modeling;Audio Production;Design & Illustration;Education;Photo Editing;Software Training;Utilities;Video Production;Web Publishing,1
+2016,Accounting;Education;Software Training;Utilities;Early Access,1
+2016,Action,106
+2016,Action;Adventure,48
+2016,Action;Adventure;Casual,15
+2016,Action;Adventure;Casual;Free to Play;Indie,2
+2016,Action;Adventure;Casual;Free to Play;Indie;Early Access,1
+2016,Action;Adventure;Casual;Free to Play;Indie;Simulation,1
+2016,Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG,1
+2016,Action;Adventure;Casual;Free to Play;Massively Multiplayer;Sports;Early Access,1
+2016,Action;Adventure;Casual;Indie,85
+2016,Action;Adventure;Casual;Indie;Early Access,9
+2016,Action;Adventure;Casual;Indie;Massively Multiplayer;Early Access,1
+2016,Action;Adventure;Casual;Indie;Massively Multiplayer;Racing;Simulation;Sports;Early Access,1
+2016,Action;Adventure;Casual;Indie;Massively Multiplayer;Simulation,2
+2016,Action;Adventure;Casual;Indie;Massively Multiplayer;Simulation;Strategy,1
+2016,Action;Adventure;Casual;Indie;Massively Multiplayer;Strategy,1
+2016,Action;Adventure;Casual;Indie;RPG,17
+2016,Action;Adventure;Casual;Indie;RPG;Early Access,2
+2016,Action;Adventure;Casual;Indie;RPG;Simulation,2
+2016,Action;Adventure;Casual;Indie;RPG;Simulation;Early Access,1
+2016,Action;Adventure;Casual;Indie;RPG;Simulation;Strategy,5
+2016,Action;Adventure;Casual;Indie;RPG;Sports,1
+2016,Action;Adventure;Casual;Indie;RPG;Strategy,4
+2016,Action;Adventure;Casual;Indie;RPG;Strategy;Early Access,3
+2016,Action;Adventure;Casual;Indie;Racing,2
+2016,Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Early Access,1
+2016,Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Sports,1
+2016,Action;Adventure;Casual;Indie;Racing;Simulation,3
+2016,Action;Adventure;Casual;Indie;Racing;Simulation;Early Access,1
+2016,Action;Adventure;Casual;Indie;Racing;Simulation;Sports,1
+2016,Action;Adventure;Casual;Indie;Racing;Sports,1
+2016,Action;Adventure;Casual;Indie;Simulation,12
+2016,Action;Adventure;Casual;Indie;Simulation;Early Access,1
+2016,Action;Adventure;Casual;Indie;Simulation;Strategy,2
+2016,Action;Adventure;Casual;Indie;Simulation;Strategy;Early Access,2
+2016,Action;Adventure;Casual;Indie;Sports,1
+2016,Action;Adventure;Casual;Indie;Sports;Early Access,1
+2016,Action;Adventure;Casual;Indie;Strategy,15
+2016,Action;Adventure;Casual;Indie;Strategy;Early Access,2
+2016,Action;Adventure;Casual;Massively Multiplayer,1
+2016,Action;Adventure;Casual;Massively Multiplayer;RPG;Early Access,1
+2016,Action;Adventure;Casual;RPG;Simulation,1
+2016,Action;Adventure;Casual;RPG;Simulation;Strategy;Early Access,1
+2016,Action;Adventure;Casual;Racing,1
+2016,Action;Adventure;Casual;Racing;RPG;Sports;Strategy,1
+2016,Action;Adventure;Casual;Simulation,2
+2016,Action;Adventure;Casual;Strategy,2
+2016,Action;Adventure;Early Access,3
+2016,Action;Adventure;Free to Play;Indie,7
+2016,Action;Adventure;Free to Play;Indie;Early Access,1
+2016,Action;Adventure;Free to Play;Indie;Massively Multiplayer,1
+2016,Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG,1
+2016,Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,1
+2016,Action;Adventure;Free to Play;Indie;RPG,1
+2016,Action;Adventure;Free to Play;Indie;Simulation;Strategy,1
+2016,Action;Adventure;Free to Play;Massively Multiplayer;RPG,5
+2016,Action;Adventure;Free to Play;Massively Multiplayer;RPG;Strategy,1
+2016,Action;Adventure;Indie,222
+2016,Action;Adventure;Indie;Early Access,19
+2016,Action;Adventure;Indie;Massively Multiplayer;RPG,1
+2016,Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Early Access,2
+2016,Action;Adventure;Indie;Massively Multiplayer;Simulation,2
+2016,Action;Adventure;Indie;Massively Multiplayer;Simulation;Early Access,1
+2016,Action;Adventure;Indie;Massively Multiplayer;Simulation;Strategy;Early Access,1
+2016,Action;Adventure;Indie;RPG,59
+2016,Action;Adventure;Indie;RPG;Early Access,12
+2016,Action;Adventure;Indie;RPG;Simulation,7
+2016,Action;Adventure;Indie;RPG;Simulation;Early Access,3
+2016,Action;Adventure;Indie;RPG;Simulation;Sports,1
+2016,Action;Adventure;Indie;RPG;Simulation;Strategy,3
+2016,Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access,3
+2016,Action;Adventure;Indie;RPG;Sports;Strategy;Early Access,1
+2016,Action;Adventure;Indie;RPG;Strategy,14
+2016,Action;Adventure;Indie;RPG;Strategy;Early Access,2
+2016,Action;Adventure;Indie;Racing,5
+2016,Action;Adventure;Indie;Racing;Simulation,1
+2016,Action;Adventure;Indie;Racing;Simulation;Sports,2
+2016,Action;Adventure;Indie;Racing;Sports;Strategy,1
+2016,Action;Adventure;Indie;Simulation,12
+2016,Action;Adventure;Indie;Simulation;Early Access,6
+2016,Action;Adventure;Indie;Simulation;Strategy,4
+2016,Action;Adventure;Indie;Simulation;Strategy;Early Access,2
+2016,Action;Adventure;Indie;Sports,1
+2016,Action;Adventure;Indie;Sports;Early Access,1
+2016,Action;Adventure;Indie;Strategy,12
+2016,Action;Adventure;Indie;Strategy;Early Access,1
+2016,Action;Adventure;Massively Multiplayer,2
+2016,Action;Adventure;Massively Multiplayer;Simulation;Early Access,1
+2016,Action;Adventure;RPG,10
+2016,Action;Adventure;RPG;Early Access,2
+2016,Action;Adventure;RPG;Strategy,1
+2016,Action;Adventure;Racing;Early Access,1
+2016,Action;Adventure;Racing;RPG;Simulation,1
+2016,Action;Adventure;Simulation,9
+2016,Action;Adventure;Strategy,4
+2016,Action;Adventure;Strategy;Early Access,1
+2016,Action;Casual,18
+2016,Action;Casual;Free to Play,2
+2016,Action;Casual;Free to Play;Indie,6
+2016,Action;Casual;Free to Play;Indie;Early Access,2
+2016,Action;Casual;Free to Play;Indie;RPG,1
+2016,Action;Casual;Free to Play;Indie;RPG;Sports;Early Access,1
+2016,Action;Casual;Free to Play;Indie;Racing;Simulation;Sports;Early Access,1
+2016,Action;Casual;Free to Play;Indie;Simulation;Sports;Early Access,1
+2016,Action;Casual;Free to Play;Indie;Simulation;Strategy,2
+2016,Action;Casual;Free to Play;Indie;Sports,2
+2016,Action;Casual;Free to Play;Indie;Strategy,4
+2016,Action;Casual;Free to Play;Massively Multiplayer,1
+2016,Action;Casual;Indie,169
+2016,Action;Casual;Indie;Early Access,12
+2016,Action;Casual;Indie;Massively Multiplayer,1
+2016,Action;Casual;Indie;Massively Multiplayer;RPG;Simulation,1
+2016,Action;Casual;Indie;Massively Multiplayer;Simulation;Sports,1
+2016,Action;Casual;Indie;Massively Multiplayer;Simulation;Strategy;Early Access,1
+2016,Action;Casual;Indie;RPG,5
+2016,Action;Casual;Indie;Racing,5
+2016,Action;Casual;Indie;Racing;Early Access,2
+2016,Action;Casual;Indie;Racing;RPG;Simulation;Strategy;Early Access,1
+2016,Action;Casual;Indie;Racing;Simulation,1
+2016,Action;Casual;Indie;Racing;Simulation;Sports,4
+2016,Action;Casual;Indie;Racing;Sports,3
+2016,Action;Casual;Indie;Simulation,23
+2016,Action;Casual;Indie;Simulation;Early Access,3
+2016,Action;Casual;Indie;Simulation;Sports,4
+2016,Action;Casual;Indie;Simulation;Sports;Early Access,3
+2016,Action;Casual;Indie;Simulation;Sports;Strategy,1
+2016,Action;Casual;Indie;Simulation;Strategy,10
+2016,Action;Casual;Indie;Simulation;Strategy;Early Access,1
+2016,Action;Casual;Indie;Sports,4
+2016,Action;Casual;Indie;Sports;Early Access,4
+2016,Action;Casual;Indie;Strategy,31
+2016,Action;Casual;Massively Multiplayer,1
+2016,Action;Casual;RPG,1
+2016,Action;Casual;Racing,1
+2016,Action;Casual;Simulation,5
+2016,Action;Casual;Simulation;Early Access,1
+2016,Action;Casual;Simulation;Sports,3
+2016,Action;Casual;Simulation;Sports;Early Access,1
+2016,Action;Casual;Simulation;Sports;Strategy,1
+2016,Action;Casual;Simulation;Strategy,1
+2016,Action;Casual;Sports,7
+2016,Action;Casual;Strategy,2
+2016,Action;Casual;Strategy;Early Access,1
+2016,Action;Early Access,8
+2016,Action;Free to Play,5
+2016,Action;Free to Play;Early Access,2
+2016,Action;Free to Play;Indie,14
+2016,Action;Free to Play;Indie;Early Access,2
+2016,Action;Free to Play;Indie;Massively Multiplayer,3
+2016,Action;Free to Play;Indie;Massively Multiplayer;RPG,1
+2016,Action;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,1
+2016,Action;Free to Play;Indie;Massively Multiplayer;Simulation,1
+2016,Action;Free to Play;Indie;Massively Multiplayer;Strategy;Early Access,1
+2016,Action;Free to Play;Indie;Racing,1
+2016,Action;Free to Play;Indie;Simulation,2
+2016,Action;Free to Play;Indie;Strategy,1
+2016,Action;Free to Play;Indie;Strategy;Early Access,1
+2016,Action;Free to Play;Massively Multiplayer,2
+2016,Action;Free to Play;Massively Multiplayer;RPG,1
+2016,Action;Free to Play;Racing;Sports,1
+2016,Action;Free to Play;Strategy,2
+2016,Action;Indie,344
+2016,Action;Indie;Early Access,48
+2016,Action;Indie;Massively Multiplayer,2
+2016,Action;Indie;Massively Multiplayer;Early Access,2
+2016,Action;Indie;Massively Multiplayer;RPG;Early Access,2
+2016,Action;Indie;Massively Multiplayer;Simulation;Strategy;Early Access,1
+2016,Action;Indie;Massively Multiplayer;Strategy,1
+2016,Action;Indie;RPG,35
+2016,Action;Indie;RPG;Early Access,7
+2016,Action;Indie;RPG;Simulation,1
+2016,Action;Indie;RPG;Simulation;Early Access,1
+2016,Action;Indie;RPG;Strategy,8
+2016,Action;Indie;RPG;Strategy;Early Access,1
+2016,Action;Indie;Racing,13
+2016,Action;Indie;Racing;Early Access,6
+2016,Action;Indie;Racing;Simulation;Sports,3
+2016,Action;Indie;Racing;Simulation;Sports;Strategy,1
+2016,Action;Indie;Racing;Sports,2
+2016,Action;Indie;Racing;Sports;Early Access,1
+2016,Action;Indie;Simulation,24
+2016,Action;Indie;Simulation;Early Access,12
+2016,Action;Indie;Simulation;Sports,4
+2016,Action;Indie;Simulation;Sports;Early Access,4
+2016,Action;Indie;Simulation;Sports;Strategy,1
+2016,Action;Indie;Simulation;Strategy,6
+2016,Action;Indie;Simulation;Strategy;Early Access,4
+2016,Action;Indie;Sports,12
+2016,Action;Indie;Sports;Early Access,3
+2016,Action;Indie;Sports;Strategy,1
+2016,Action;Indie;Strategy,32
+2016,Action;Indie;Strategy;Early Access,6
+2016,Action;Massively Multiplayer,1
+2016,Action;Massively Multiplayer;Simulation,2
+2016,Action;RPG,13
+2016,Action;RPG;Early Access,1
+2016,Action;RPG;Simulation,2
+2016,Action;RPG;Strategy,1
+2016,Action;Racing,2
+2016,Action;Racing;Early Access,1
+2016,Action;Racing;Simulation,1
+2016,Action;Racing;Simulation;Sports,1
+2016,Action;Racing;Sports,2
+2016,Action;Simulation,14
+2016,Action;Simulation;Early Access,1
+2016,Action;Simulation;Sports;Strategy,1
+2016,Action;Simulation;Strategy,3
+2016,Action;Simulation;Strategy;Early Access,1
+2016,Action;Sports,5
+2016,Action;Sports;Early Access,2
+2016,Action;Strategy,12
+2016,Action;Strategy;Early Access,3
+2016,Adventure,95
+2016,Adventure;Casual,106
+2016,Adventure;Casual;Early Access,1
+2016,Adventure;Casual;Free to Play,7
+2016,Adventure;Casual;Free to Play;Indie,6
+2016,Adventure;Casual;Free to Play;Indie;Early Access,1
+2016,Adventure;Casual;Free to Play;Indie;Massively Multiplayer;RPG;Strategy,3
+2016,Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Simulation,1
+2016,Adventure;Casual;Free to Play;Indie;RPG;Simulation;Strategy,1
+2016,Adventure;Casual;Free to Play;Indie;Simulation,2
+2016,Adventure;Casual;Free to Play;Massively Multiplayer;RPG,1
+2016,Adventure;Casual;Free to Play;Simulation,1
+2016,Adventure;Casual;Indie,129
+2016,Adventure;Casual;Indie;Early Access,5
+2016,Adventure;Casual;Indie;RPG,20
+2016,Adventure;Casual;Indie;RPG;Simulation,4
+2016,Adventure;Casual;Indie;RPG;Simulation;Strategy,1
+2016,Adventure;Casual;Indie;RPG;Strategy,6
+2016,Adventure;Casual;Indie;RPG;Strategy;Early Access,1
+2016,Adventure;Casual;Indie;Racing,1
+2016,Adventure;Casual;Indie;Racing;Simulation;Sports,1
+2016,Adventure;Casual;Indie;Simulation,10
+2016,Adventure;Casual;Indie;Simulation;Early Access,1
+2016,Adventure;Casual;Indie;Simulation;Strategy,3
+2016,Adventure;Casual;Indie;Strategy,5
+2016,Adventure;Casual;Indie;Strategy;Early Access,2
+2016,Adventure;Casual;RPG;Early Access,1
+2016,Adventure;Casual;RPG;Simulation;Strategy,1
+2016,Adventure;Casual;RPG;Strategy,1
+2016,Adventure;Casual;Simulation,6
+2016,Adventure;Casual;Simulation;Early Access,1
+2016,Adventure;Casual;Simulation;Strategy,1
+2016,Adventure;Casual;Strategy,3
+2016,Adventure;Free to Play,3
+2016,Adventure;Free to Play;Indie,11
+2016,Adventure;Free to Play;Indie;Early Access,1
+2016,Adventure;Free to Play;Indie;Massively Multiplayer;RPG,1
+2016,Adventure;Free to Play;Indie;RPG,6
+2016,Adventure;Free to Play;Indie;RPG;Early Access,1
+2016,Adventure;Free to Play;Massively Multiplayer;RPG,4
+2016,Adventure;Free to Play;RPG,2
+2016,Adventure;Free to Play;RPG;Strategy,2
+2016,Adventure;Free to Play;Simulation,1
+2016,Adventure;Indie,218
+2016,Adventure;Indie;Early Access,7
+2016,Adventure;Indie;Massively Multiplayer,1
+2016,Adventure;Indie;Massively Multiplayer;RPG;Simulation;Early Access,1
+2016,Adventure;Indie;RPG,76
+2016,Adventure;Indie;RPG;Simulation,6
+2016,Adventure;Indie;RPG;Simulation;Early Access,2
+2016,Adventure;Indie;RPG;Simulation;Strategy,5
+2016,Adventure;Indie;RPG;Strategy,11
+2016,Adventure;Indie;RPG;Strategy;Early Access,1
+2016,Adventure;Indie;Racing,1
+2016,Adventure;Indie;Racing;Early Access,1
+2016,Adventure;Indie;Simulation,21
+2016,Adventure;Indie;Simulation;Early Access,2
+2016,Adventure;Indie;Simulation;Strategy,2
+2016,Adventure;Indie;Strategy,19
+2016,Adventure;Massively Multiplayer,1
+2016,Adventure;Massively Multiplayer;RPG;Strategy,1
+2016,Adventure;RPG,8
+2016,Adventure;RPG;Strategy,1
+2016,Adventure;RPG;Strategy;Early Access,1
+2016,Adventure;Simulation,4
+2016,Adventure;Simulation;Early Access,3
+2016,Adventure;Sports,2
+2016,Adventure;Strategy,6
+2016,Animation & Modeling;Audio Production;Design & Illustration;Education;Early Access,1
+2016,Animation & Modeling;Audio Production;Software Training;Utilities;Video Production,1
+2016,Animation & Modeling;Design & Illustration,1
+2016,Animation & Modeling;Design & Illustration;Education,1
+2016,Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Game Development,1
+2016,Animation & Modeling;Design & Illustration;Utilities,2
+2016,Animation & Modeling;Design & Illustration;Utilities;Video Production,1
+2016,Animation & Modeling;Design & Illustration;Utilities;Video Production;Early Access,1
+2016,Animation & Modeling;Design & Illustration;Video Production,1
+2016,Animation & Modeling;Early Access,1
+2016,Animation & Modeling;Utilities,1
+2016,Audio Production,1
+2016,Audio Production;Early Access,1
+2016,Audio Production;Utilities,2
+2016,Casual,94
+2016,Casual;Early Access,3
+2016,Casual;Free to Play,5
+2016,Casual;Free to Play;Indie,12
+2016,Casual;Free to Play;Indie;Early Access,1
+2016,Casual;Free to Play;Indie;RPG,1
+2016,Casual;Free to Play;Indie;RPG;Simulation;Strategy,1
+2016,Casual;Free to Play;Indie;Racing,1
+2016,Casual;Free to Play;Indie;Racing;Simulation;Early Access,1
+2016,Casual;Free to Play;Indie;Simulation,7
+2016,Casual;Free to Play;Indie;Simulation;Sports,1
+2016,Casual;Free to Play;Indie;Simulation;Strategy,2
+2016,Casual;Free to Play;Indie;Simulation;Strategy;Early Access,1
+2016,Casual;Free to Play;Indie;Strategy,5
+2016,Casual;Free to Play;Indie;Strategy;Early Access,1
+2016,Casual;Free to Play;Massively Multiplayer;RPG;Simulation;Strategy,1
+2016,Casual;Free to Play;Massively Multiplayer;Simulation,2
+2016,Casual;Free to Play;Massively Multiplayer;Simulation;Sports,1
+2016,Casual;Free to Play;Massively Multiplayer;Strategy,1
+2016,Casual;Free to Play;RPG,1
+2016,Casual;Free to Play;Simulation,2
+2016,Casual;Free to Play;Simulation;Early Access,1
+2016,Casual;Free to Play;Sports,1
+2016,Casual;Free to Play;Strategy,1
+2016,Casual;Indie,214
+2016,Casual;Indie;Early Access,9
+2016,Casual;Indie;Massively Multiplayer;RPG;Early Access,1
+2016,Casual;Indie;RPG,6
+2016,Casual;Indie;RPG;Early Access,2
+2016,Casual;Indie;RPG;Simulation,6
+2016,Casual;Indie;RPG;Simulation;Sports;Strategy,1
+2016,Casual;Indie;RPG;Strategy,6
+2016,Casual;Indie;Racing,7
+2016,Casual;Indie;Racing;Early Access,1
+2016,Casual;Indie;Racing;Simulation,3
+2016,Casual;Indie;Racing;Sports,1
+2016,Casual;Indie;Simulation,49
+2016,Casual;Indie;Simulation;Early Access,7
+2016,Casual;Indie;Simulation;Sports,6
+2016,Casual;Indie;Simulation;Sports;Early Access,2
+2016,Casual;Indie;Simulation;Sports;Strategy,7
+2016,Casual;Indie;Simulation;Strategy,21
+2016,Casual;Indie;Simulation;Strategy;Early Access,4
+2016,Casual;Indie;Sports,12
+2016,Casual;Indie;Sports;Early Access,3
+2016,Casual;Indie;Sports;Strategy,1
+2016,Casual;Indie;Strategy,80
+2016,Casual;Indie;Strategy;Early Access,3
+2016,Casual;RPG,2
+2016,Casual;RPG;Simulation,3
+2016,Casual;RPG;Simulation;Strategy,1
+2016,Casual;RPG;Strategy;Early Access,1
+2016,Casual;Racing,2
+2016,Casual;Racing;Sports,1
+2016,Casual;Simulation,34
+2016,Casual;Simulation;Early Access,2
+2016,Casual;Simulation;Sports,3
+2016,Casual;Simulation;Sports;Strategy,4
+2016,Casual;Simulation;Strategy,10
+2016,Casual;Sports,6
+2016,Casual;Strategy,19
+2016,Design & Illustration,1
+2016,Design & Illustration;Photo Editing,1
+2016,Design & Illustration;Utilities,2
+2016,Design & Illustration;Utilities;Video Production,1
+2016,Design & Illustration;Web Publishing,1
+2016,Early Access,1
+2016,Education,2
+2016,Education;Early Access,1
+2016,Education;Software Training,1
+2016,Free to Play,9
+2016,Free to Play;Indie,8
+2016,Free to Play;Indie;Massively Multiplayer;RPG,3
+2016,Free to Play;Indie;Massively Multiplayer;RPG;Simulation;Strategy,1
+2016,Free to Play;Indie;Massively Multiplayer;RPG;Strategy,3
+2016,Free to Play;Indie;Massively Multiplayer;RPG;Strategy;Early Access,1
+2016,Free to Play;Indie;Massively Multiplayer;Simulation,1
+2016,Free to Play;Indie;Massively Multiplayer;Simulation;Sports;Strategy,1
+2016,Free to Play;Indie;Massively Multiplayer;Strategy,2
+2016,Free to Play;Indie;RPG,1
+2016,Free to Play;Indie;RPG;Simulation,1
+2016,Free to Play;Indie;RPG;Strategy;Early Access,1
+2016,Free to Play;Indie;Racing;Simulation,1
+2016,Free to Play;Indie;Racing;Simulation;Sports,1
+2016,Free to Play;Indie;Racing;Simulation;Sports;Early Access,1
+2016,Free to Play;Indie;Racing;Sports,1
+2016,Free to Play;Indie;Simulation,6
+2016,Free to Play;Indie;Simulation;Early Access,1
+2016,Free to Play;Indie;Sports;Strategy,1
+2016,Free to Play;Indie;Strategy,9
+2016,Free to Play;Massively Multiplayer;Early Access,1
+2016,Free to Play;Massively Multiplayer;RPG,5
+2016,Free to Play;Massively Multiplayer;RPG;Early Access,1
+2016,Free to Play;Massively Multiplayer;RPG;Strategy,1
+2016,Free to Play;Massively Multiplayer;RPG;Strategy;Early Access,1
+2016,Free to Play;Massively Multiplayer;Racing,1
+2016,Free to Play;Massively Multiplayer;Simulation;Strategy,3
+2016,Free to Play;Massively Multiplayer;Strategy,2
+2016,Free to Play;RPG,3
+2016,Free to Play;RPG;Early Access,1
+2016,Free to Play;RPG;Strategy,1
+2016,Free to Play;Racing;Simulation;Sports;Early Access,1
+2016,Free to Play;Simulation,2
+2016,Free to Play;Simulation;Early Access,1
+2016,Free to Play;Strategy,2
+2016,Free to Play;Strategy;Early Access,3
+2016,Gore;Action;Adventure;Indie,3
+2016,Gore;Action;Adventure;Strategy,1
+2016,Gore;Action;Indie;RPG;Early Access,1
+2016,Gore;Indie,2
+2016,Indie,127
+2016,Indie;Early Access,8
+2016,Indie;Massively Multiplayer;RPG,2
+2016,Indie;Massively Multiplayer;RPG;Early Access,1
+2016,Indie;Massively Multiplayer;RPG;Simulation,1
+2016,Indie;Massively Multiplayer;Racing;Simulation;Sports,1
+2016,Indie;Massively Multiplayer;Simulation;Strategy,1
+2016,Indie;Massively Multiplayer;Strategy,1
+2016,Indie;RPG,21
+2016,Indie;RPG;Early Access,1
+2016,Indie;RPG;Simulation,5
+2016,Indie;RPG;Simulation;Early Access,1
+2016,Indie;RPG;Simulation;Strategy,8
+2016,Indie;RPG;Simulation;Strategy;Early Access,3
+2016,Indie;RPG;Strategy,24
+2016,Indie;RPG;Strategy;Early Access,2
+2016,Indie;Racing,5
+2016,Indie;Racing;RPG;Simulation,1
+2016,Indie;Racing;RPG;Sports,1
+2016,Indie;Racing;Simulation,2
+2016,Indie;Racing;Simulation;Early Access,1
+2016,Indie;Racing;Simulation;Sports,2
+2016,Indie;Racing;Simulation;Sports;Early Access,1
+2016,Indie;Racing;Simulation;Strategy,1
+2016,Indie;Racing;Sports,1
+2016,Indie;Racing;Sports;Early Access,1
+2016,Indie;Racing;Sports;Strategy;Early Access,1
+2016,Indie;Simulation,39
+2016,Indie;Simulation;Early Access,12
+2016,Indie;Simulation;Sports,6
+2016,Indie;Simulation;Sports;Strategy,6
+2016,Indie;Simulation;Sports;Strategy;Early Access,2
+2016,Indie;Simulation;Strategy,45
+2016,Indie;Simulation;Strategy;Early Access,8
+2016,Indie;Sports,4
+2016,Indie;Sports;Early Access,1
+2016,Indie;Strategy,52
+2016,Indie;Strategy;Early Access,7
+2016,Massively Multiplayer;Racing,1
+2016,Massively Multiplayer;Simulation;Sports;Early Access,1
+2016,Nudity;Action;Casual;Indie,1
+2016,Nudity;Action;Indie;Early Access,1
+2016,Nudity;Adventure,2
+2016,Nudity;Casual;Free to Play,1
+2016,Nudity;Casual;Indie,1
+2016,Nudity;Gore;Adventure;Casual;Indie,1
+2016,Nudity;Indie;RPG,1
+2016,Nudity;Violent;Action;Indie;Early Access,1
+2016,Nudity;Violent;Adventure;Casual,1
+2016,Nudity;Violent;Free to Play;Indie;RPG;Simulation;Strategy,1
+2016,Nudity;Violent;Gore;Action,1
+2016,Nudity;Violent;Gore;Action;Casual;Indie,1
+2016,Nudity;Violent;Gore;Action;Indie,1
+2016,Nudity;Violent;Gore;Adventure;Casual;Simulation,1
+2016,Nudity;Violent;Gore;Adventure;Indie,1
+2016,RPG,34
+2016,RPG;Simulation;Strategy,2
+2016,RPG;Strategy,11
+2016,Racing,8
+2016,Racing;Early Access,1
+2016,Racing;RPG;Simulation;Early Access,1
+2016,Racing;Simulation,2
+2016,Racing;Simulation;Early Access,1
+2016,Racing;Simulation;Sports,10
+2016,Racing;Simulation;Sports;Strategy,1
+2016,Sexual Content;Adventure;Casual,1
+2016,Sexual Content;Adventure;Casual;Indie,1
+2016,Sexual Content;Adventure;Indie,1
+2016,Sexual Content;Casual,1
+2016,Sexual Content;Casual;Free to Play;Indie,1
+2016,Sexual Content;Casual;Indie;Simulation,1
+2016,Sexual Content;Nudity;Action;Casual;Free to Play;Indie;Simulation,1
+2016,Sexual Content;Nudity;Action;Casual;Indie;RPG;Simulation;Strategy,1
+2016,Sexual Content;Nudity;Action;Indie,1
+2016,Sexual Content;Nudity;Adventure;Casual,3
+2016,Sexual Content;Nudity;Adventure;Casual;Indie,1
+2016,Sexual Content;Nudity;Adventure;Casual;Indie;Simulation,1
+2016,Sexual Content;Nudity;Adventure;Indie,1
+2016,Sexual Content;Nudity;Adventure;Indie;RPG,1
+2016,Sexual Content;Nudity;Adventure;Simulation,1
+2016,Sexual Content;Nudity;Casual;Indie,5
+2016,Sexual Content;Nudity;Casual;Indie;Simulation,1
+2016,Sexual Content;Nudity;Indie;RPG;Simulation;Strategy,1
+2016,Sexual Content;Nudity;Indie;Strategy,1
+2016,Sexual Content;Nudity;Violent;Casual;Indie,1
+2016,Sexual Content;Nudity;Violent;Gore;Action;Adventure,1
+2016,Sexual Content;Nudity;Violent;Gore;Action;Adventure;Indie;Early Access,1
+2016,Sexual Content;Nudity;Violent;Gore;Action;Adventure;Indie;RPG;Early Access,1
+2016,Sexual Content;Nudity;Violent;Gore;Adventure;Free to Play;Indie;RPG,1
+2016,Sexual Content;Nudity;Violent;Gore;Indie;Simulation,1
+2016,Sexual Content;Violent;Adventure;Indie;Strategy,1
+2016,Sexual Content;Violent;Gore;Adventure;Indie,1
+2016,Sexual Content;Violent;Gore;Adventure;Indie;Early Access,1
+2016,Simulation,60
+2016,Simulation;Early Access,9
+2016,Simulation;Sports,12
+2016,Simulation;Sports;Early Access,2
+2016,Simulation;Sports;Strategy,3
+2016,Simulation;Strategy,31
+2016,Sports,16
+2016,Sports;Early Access,4
+2016,Strategy,67
+2016,Strategy;Early Access,2
+2016,Utilities,9
+2016,Utilities;Early Access,1
+2016,Utilities;Video Production,1
+2016,Utilities;Video Production;Early Access,2
+2016,Violent;Action,1
+2016,Violent;Action;Adventure,2
+2016,Violent;Action;Adventure;Indie,3
+2016,Violent;Action;Adventure;Indie;RPG,1
+2016,Violent;Action;Adventure;Indie;Simulation,2
+2016,Violent;Action;Adventure;Indie;Strategy;Early Access,1
+2016,Violent;Action;Adventure;RPG,1
+2016,Violent;Action;Adventure;Simulation,1
+2016,Violent;Action;Casual;Indie;Simulation;Early Access,1
+2016,Violent;Action;Casual;Indie;Simulation;Strategy,1
+2016,Violent;Action;Casual;Indie;Strategy;Early Access,1
+2016,Violent;Action;Indie,5
+2016,Violent;Action;Indie;Early Access,3
+2016,Violent;Action;Indie;Strategy;Early Access,1
+2016,Violent;Action;Massively Multiplayer;Simulation;Sports,1
+2016,Violent;Adventure;Casual,1
+2016,Violent;Adventure;Indie,2
+2016,Violent;Free to Play;Indie;Strategy;Early Access,1
+2016,Violent;Gore;Action,1
+2016,Violent;Gore;Action;Adventure;Casual;Indie,1
+2016,Violent;Gore;Action;Adventure;Free to Play;Indie;RPG;Early Access,1
+2016,Violent;Gore;Action;Adventure;Indie,3
+2016,Violent;Gore;Action;Adventure;Indie;Early Access,2
+2016,Violent;Gore;Action;Adventure;Indie;RPG,1
+2016,Violent;Gore;Action;Adventure;Indie;RPG;Early Access,1
+2016,Violent;Gore;Action;Adventure;Strategy,1
+2016,Violent;Gore;Action;Casual;Indie;Early Access,1
+2016,Violent;Gore;Action;Casual;Strategy,1
+2016,Violent;Gore;Action;Free to Play,1
+2016,Violent;Gore;Action;Indie,6
+2016,Violent;Gore;Action;Indie;Early Access,1
+2016,Violent;Gore;Action;Indie;RPG,1
+2016,Violent;Gore;Action;Indie;RPG;Early Access,1
+2016,Violent;Gore;Action;Indie;RPG;Simulation;Early Access,1
+2016,Violent;Gore;Action;Indie;Simulation,1
+2016,Violent;Gore;Adventure;Casual;Indie,3
+2016,Violent;Gore;Adventure;Indie,2
+2016,Violent;Gore;Adventure;Indie;RPG,1
+2016,Violent;Gore;Adventure;Indie;RPG;Early Access,1
+2016,Violent;Gore;Adventure;Indie;Simulation,1
+2016,Violent;Gore;Indie;Early Access,1
+2016,Violent;Indie,1
+2017,Action,126
+2017,Action;Adventure,62
+2017,Action;Adventure;Casual,16
+2017,Action;Adventure;Casual;Free to Play;Indie,3
+2017,Action;Adventure;Casual;Free to Play;Indie;Early Access,1
+2017,Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;RPG;Simulation,1
+2017,Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Racing;Simulation;Sports;Early Access,1
+2017,Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Strategy,1
+2017,Action;Adventure;Casual;Free to Play;Indie;RPG,2
+2017,Action;Adventure;Casual;Free to Play;Indie;RPG;Simulation;Strategy,1
+2017,Action;Adventure;Casual;Free to Play;Indie;Simulation;Strategy,1
+2017,Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG,1
+2017,Action;Adventure;Casual;Free to Play;Massively Multiplayer;Simulation;Sports,1
+2017,Action;Adventure;Casual;Indie,128
+2017,Action;Adventure;Casual;Indie;Early Access,8
+2017,Action;Adventure;Casual;Indie;Massively Multiplayer;Racing;RPG;Simulation;Sports;Strategy,1
+2017,Action;Adventure;Casual;Indie;Massively Multiplayer;Strategy,1
+2017,Action;Adventure;Casual;Indie;RPG,11
+2017,Action;Adventure;Casual;Indie;RPG;Early Access,3
+2017,Action;Adventure;Casual;Indie;RPG;Simulation,7
+2017,Action;Adventure;Casual;Indie;RPG;Simulation;Early Access,1
+2017,Action;Adventure;Casual;Indie;RPG;Simulation;Strategy,6
+2017,Action;Adventure;Casual;Indie;RPG;Strategy,7
+2017,Action;Adventure;Casual;Indie;Racing,1
+2017,Action;Adventure;Casual;Indie;Racing;Early Access,1
+2017,Action;Adventure;Casual;Indie;Racing;Simulation,2
+2017,Action;Adventure;Casual;Indie;Racing;Simulation;Sports,1
+2017,Action;Adventure;Casual;Indie;Racing;Simulation;Sports;Early Access,1
+2017,Action;Adventure;Casual;Indie;Racing;Simulation;Sports;Strategy,1
+2017,Action;Adventure;Casual;Indie;Racing;Simulation;Strategy;Early Access,1
+2017,Action;Adventure;Casual;Indie;Racing;Sports,1
+2017,Action;Adventure;Casual;Indie;Racing;Sports;Early Access,1
+2017,Action;Adventure;Casual;Indie;Racing;Sports;Strategy,1
+2017,Action;Adventure;Casual;Indie;Racing;Strategy,1
+2017,Action;Adventure;Casual;Indie;Simulation,22
+2017,Action;Adventure;Casual;Indie;Simulation;Early Access,1
+2017,Action;Adventure;Casual;Indie;Simulation;Sports,4
+2017,Action;Adventure;Casual;Indie;Simulation;Sports;Strategy,1
+2017,Action;Adventure;Casual;Indie;Simulation;Strategy,5
+2017,Action;Adventure;Casual;Indie;Simulation;Strategy;Early Access,2
+2017,Action;Adventure;Casual;Indie;Sports,2
+2017,Action;Adventure;Casual;Indie;Strategy,22
+2017,Action;Adventure;Casual;Indie;Strategy;Early Access,2
+2017,Action;Adventure;Casual;RPG,6
+2017,Action;Adventure;Casual;RPG;Early Access,1
+2017,Action;Adventure;Casual;Racing;Simulation;Sports,2
+2017,Action;Adventure;Casual;Simulation,4
+2017,Action;Adventure;Casual;Simulation;Sports;Strategy;Early Access,1
+2017,Action;Adventure;Casual;Sports,1
+2017,Action;Adventure;Casual;Sports;Strategy;Early Access,1
+2017,Action;Adventure;Casual;Strategy,2
+2017,Action;Adventure;Casual;Strategy;Early Access,2
+2017,Action;Adventure;Early Access,4
+2017,Action;Adventure;Free to Play,2
+2017,Action;Adventure;Free to Play;Indie,5
+2017,Action;Adventure;Free to Play;Indie;Early Access,3
+2017,Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Strategy,1
+2017,Action;Adventure;Free to Play;Indie;Massively Multiplayer;Racing;RPG;Strategy;Early Access,1
+2017,Action;Adventure;Free to Play;Indie;RPG,2
+2017,Action;Adventure;Free to Play;Indie;RPG;Early Access,1
+2017,Action;Adventure;Free to Play;Indie;RPG;Strategy,1
+2017,Action;Adventure;Free to Play;Indie;Simulation,1
+2017,Action;Adventure;Free to Play;Indie;Simulation;Strategy,2
+2017,Action;Adventure;Free to Play;Indie;Strategy;Early Access,1
+2017,Action;Adventure;Free to Play;Massively Multiplayer;RPG,5
+2017,Action;Adventure;Free to Play;Massively Multiplayer;RPG;Strategy,2
+2017,Action;Adventure;Free to Play;RPG,1
+2017,Action;Adventure;Free to Play;RPG;Early Access,1
+2017,Action;Adventure;Free to Play;RPG;Simulation;Early Access,1
+2017,Action;Adventure;Free to Play;Racing;Sports;Early Access,1
+2017,Action;Adventure;Indie,280
+2017,Action;Adventure;Indie;Early Access,35
+2017,Action;Adventure;Indie;Massively Multiplayer;Early Access,1
+2017,Action;Adventure;Indie;Massively Multiplayer;RPG,4
+2017,Action;Adventure;Indie;Massively Multiplayer;RPG;Early Access,4
+2017,Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Strategy;Early Access,1
+2017,Action;Adventure;Indie;Massively Multiplayer;Simulation,1
+2017,Action;Adventure;Indie;Massively Multiplayer;Simulation;Early Access,1
+2017,Action;Adventure;Indie;RPG,78
+2017,Action;Adventure;Indie;RPG;Early Access,25
+2017,Action;Adventure;Indie;RPG;Simulation,5
+2017,Action;Adventure;Indie;RPG;Simulation;Early Access,4
+2017,Action;Adventure;Indie;RPG;Simulation;Strategy,1
+2017,Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access,1
+2017,Action;Adventure;Indie;RPG;Sports,1
+2017,Action;Adventure;Indie;RPG;Strategy,12
+2017,Action;Adventure;Indie;RPG;Strategy;Early Access,9
+2017,Action;Adventure;Indie;Racing,6
+2017,Action;Adventure;Indie;Racing;RPG;Strategy,1
+2017,Action;Adventure;Indie;Racing;Simulation,1
+2017,Action;Adventure;Indie;Racing;Sports,2
+2017,Action;Adventure;Indie;Racing;Strategy,1
+2017,Action;Adventure;Indie;Simulation,21
+2017,Action;Adventure;Indie;Simulation;Early Access,12
+2017,Action;Adventure;Indie;Simulation;Sports,2
+2017,Action;Adventure;Indie;Simulation;Sports;Early Access,1
+2017,Action;Adventure;Indie;Simulation;Strategy,1
+2017,Action;Adventure;Indie;Simulation;Strategy;Early Access,1
+2017,Action;Adventure;Indie;Sports,4
+2017,Action;Adventure;Indie;Strategy,19
+2017,Action;Adventure;Indie;Strategy;Early Access,4
+2017,Action;Adventure;Massively Multiplayer,1
+2017,Action;Adventure;Massively Multiplayer;RPG,1
+2017,Action;Adventure;Massively Multiplayer;RPG;Simulation;Early Access,1
+2017,Action;Adventure;Massively Multiplayer;RPG;Simulation;Strategy,1
+2017,Action;Adventure;Massively Multiplayer;Racing;Simulation,1
+2017,Action;Adventure;RPG,19
+2017,Action;Adventure;RPG;Early Access,5
+2017,Action;Adventure;RPG;Simulation,1
+2017,Action;Adventure;RPG;Simulation;Sports;Strategy,1
+2017,Action;Adventure;Racing,1
+2017,Action;Adventure;Racing;Early Access,1
+2017,Action;Adventure;Racing;RPG,1
+2017,Action;Adventure;Simulation,11
+2017,Action;Adventure;Simulation;Early Access,3
+2017,Action;Adventure;Simulation;Strategy,2
+2017,Action;Adventure;Sports,2
+2017,Action;Adventure;Strategy,4
+2017,Action;Casual,21
+2017,Action;Casual;Early Access,2
+2017,Action;Casual;Free to Play,1
+2017,Action;Casual;Free to Play;Indie,12
+2017,Action;Casual;Free to Play;Indie;Massively Multiplayer,1
+2017,Action;Casual;Free to Play;Indie;Racing,1
+2017,Action;Casual;Free to Play;Indie;Simulation;Strategy,2
+2017,Action;Casual;Free to Play;Indie;Strategy,1
+2017,Action;Casual;Free to Play;Massively Multiplayer;Simulation;Strategy,1
+2017,Action;Casual;Indie,270
+2017,Action;Casual;Indie;Early Access,25
+2017,Action;Casual;Indie;Massively Multiplayer,5
+2017,Action;Casual;Indie;Massively Multiplayer;RPG;Early Access,1
+2017,Action;Casual;Indie;Massively Multiplayer;RPG;Simulation;Early Access,1
+2017,Action;Casual;Indie;Massively Multiplayer;Simulation,1
+2017,Action;Casual;Indie;Massively Multiplayer;Simulation;Strategy,1
+2017,Action;Casual;Indie;Massively Multiplayer;Sports;Early Access,1
+2017,Action;Casual;Indie;Massively Multiplayer;Strategy,1
+2017,Action;Casual;Indie;RPG;Simulation,2
+2017,Action;Casual;Indie;RPG;Sports,1
+2017,Action;Casual;Indie;RPG;Sports;Strategy;Early Access,1
+2017,Action;Casual;Indie;RPG;Strategy,1
+2017,Action;Casual;Indie;RPG;Strategy;Early Access,1
+2017,Action;Casual;Indie;Racing,13
+2017,Action;Casual;Indie;Racing;Simulation,4
+2017,Action;Casual;Indie;Racing;Simulation;Sports,1
+2017,Action;Casual;Indie;Racing;Simulation;Sports;Early Access,1
+2017,Action;Casual;Indie;Racing;Sports,3
+2017,Action;Casual;Indie;Racing;Strategy,1
+2017,Action;Casual;Indie;Simulation,31
+2017,Action;Casual;Indie;Simulation;Early Access,6
+2017,Action;Casual;Indie;Simulation;Sports,8
+2017,Action;Casual;Indie;Simulation;Sports;Early Access,1
+2017,Action;Casual;Indie;Simulation;Strategy,21
+2017,Action;Casual;Indie;Simulation;Strategy;Early Access,4
+2017,Action;Casual;Indie;Sports,22
+2017,Action;Casual;Indie;Sports;Early Access,5
+2017,Action;Casual;Indie;Sports;Strategy,1
+2017,Action;Casual;Indie;Strategy,23
+2017,Action;Casual;Indie;Strategy;Early Access,6
+2017,Action;Casual;Massively Multiplayer;Racing;Simulation;Sports;Early Access,1
+2017,Action;Casual;Massively Multiplayer;Simulation;Strategy,1
+2017,Action;Casual;RPG,1
+2017,Action;Casual;RPG;Strategy,1
+2017,Action;Casual;Racing,3
+2017,Action;Casual;Simulation,10
+2017,Action;Casual;Simulation;Early Access,3
+2017,Action;Casual;Simulation;Sports,3
+2017,Action;Casual;Simulation;Strategy,2
+2017,Action;Casual;Simulation;Strategy;Early Access,1
+2017,Action;Casual;Sports,3
+2017,Action;Casual;Strategy,4
+2017,Action;Casual;Strategy;Early Access,3
+2017,Action;Early Access,7
+2017,Action;Free to Play,9
+2017,Action;Free to Play;Early Access,3
+2017,Action;Free to Play;Indie,19
+2017,Action;Free to Play;Indie;Early Access,3
+2017,Action;Free to Play;Indie;Massively Multiplayer,3
+2017,Action;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,1
+2017,Action;Free to Play;Indie;Massively Multiplayer;RPG;Simulation,1
+2017,Action;Free to Play;Indie;Massively Multiplayer;RPG;Simulation;Strategy;Early Access,1
+2017,Action;Free to Play;Indie;Massively Multiplayer;Racing;Simulation;Early Access,1
+2017,Action;Free to Play;Indie;Massively Multiplayer;Strategy,3
+2017,Action;Free to Play;Indie;RPG;Strategy,1
+2017,Action;Free to Play;Indie;Racing;Simulation;Sports;Early Access,1
+2017,Action;Free to Play;Indie;Simulation,1
+2017,Action;Free to Play;Indie;Strategy,4
+2017,Action;Free to Play;Indie;Strategy;Early Access,1
+2017,Action;Free to Play;Massively Multiplayer,2
+2017,Action;Free to Play;Massively Multiplayer;RPG;Strategy,1
+2017,Action;Free to Play;Massively Multiplayer;Racing,2
+2017,Action;Free to Play;Massively Multiplayer;Simulation,1
+2017,Action;Free to Play;Massively Multiplayer;Strategy,2
+2017,Action;Free to Play;RPG,1
+2017,Action;Free to Play;Simulation,3
+2017,Action;Free to Play;Simulation;Strategy,1
+2017,Action;Free to Play;Sports,4
+2017,Action;Free to Play;Strategy,2
+2017,Action;Free to Play;Strategy;Early Access,3
+2017,Action;Indie,430
+2017,Action;Indie;Early Access,70
+2017,Action;Indie;Massively Multiplayer,5
+2017,Action;Indie;Massively Multiplayer;Early Access,2
+2017,Action;Indie;Massively Multiplayer;RPG;Early Access,1
+2017,Action;Indie;Massively Multiplayer;RPG;Simulation;Early Access,1
+2017,Action;Indie;Massively Multiplayer;RPG;Strategy;Early Access,1
+2017,Action;Indie;Massively Multiplayer;Simulation;Early Access,1
+2017,Action;Indie;Massively Multiplayer;Strategy,1
+2017,Action;Indie;RPG,34
+2017,Action;Indie;RPG;Early Access,10
+2017,Action;Indie;RPG;Simulation;Strategy,2
+2017,Action;Indie;RPG;Strategy,7
+2017,Action;Indie;RPG;Strategy;Early Access,3
+2017,Action;Indie;Racing,15
+2017,Action;Indie;Racing;Early Access,3
+2017,Action;Indie;Racing;RPG;Simulation;Strategy,1
+2017,Action;Indie;Racing;Simulation,2
+2017,Action;Indie;Racing;Simulation;Early Access,1
+2017,Action;Indie;Racing;Simulation;Sports,2
+2017,Action;Indie;Racing;Sports,2
+2017,Action;Indie;Racing;Sports;Early Access,1
+2017,Action;Indie;Racing;Strategy,2
+2017,Action;Indie;Simulation,19
+2017,Action;Indie;Simulation;Early Access,12
+2017,Action;Indie;Simulation;Sports,2
+2017,Action;Indie;Simulation;Sports;Early Access,5
+2017,Action;Indie;Simulation;Sports;Strategy,1
+2017,Action;Indie;Simulation;Strategy,9
+2017,Action;Indie;Simulation;Strategy;Early Access,4
+2017,Action;Indie;Sports,17
+2017,Action;Indie;Sports;Early Access,8
+2017,Action;Indie;Sports;Strategy;Early Access,1
+2017,Action;Indie;Strategy,43
+2017,Action;Indie;Strategy;Early Access,14
+2017,Action;Massively Multiplayer,1
+2017,Action;Massively Multiplayer;RPG;Early Access,1
+2017,Action;Massively Multiplayer;RPG;Strategy,1
+2017,Action;Massively Multiplayer;Simulation;Early Access,1
+2017,Action;Massively Multiplayer;Simulation;Strategy,1
+2017,Action;RPG,19
+2017,Action;RPG;Early Access,3
+2017,Action;RPG;Simulation,1
+2017,Action;RPG;Simulation;Strategy,1
+2017,Action;Racing,7
+2017,Action;Racing;Early Access,3
+2017,Action;Racing;Simulation,1
+2017,Action;Racing;Simulation;Sports,3
+2017,Action;Racing;Sports,2
+2017,Action;Racing;Strategy,1
+2017,Action;Simulation,8
+2017,Action;Simulation;Early Access,4
+2017,Action;Simulation;Sports,6
+2017,Action;Simulation;Strategy,7
+2017,Action;Sports,6
+2017,Action;Sports;Early Access,1
+2017,Action;Sports;Strategy;Early Access,1
+2017,Action;Strategy,15
+2017,Action;Strategy;Early Access,2
+2017,Adventure,90
+2017,Adventure;Casual,127
+2017,Adventure;Casual;Early Access,3
+2017,Adventure;Casual;Free to Play,7
+2017,Adventure;Casual;Free to Play;Indie,11
+2017,Adventure;Casual;Free to Play;Indie;RPG,2
+2017,Adventure;Casual;Free to Play;Indie;Simulation,1
+2017,Adventure;Casual;Free to Play;Massively Multiplayer;RPG,2
+2017,Adventure;Casual;Free to Play;Massively Multiplayer;Simulation;Sports;Early Access,1
+2017,Adventure;Casual;Free to Play;RPG,1
+2017,Adventure;Casual;Free to Play;Simulation,1
+2017,Adventure;Casual;Indie,207
+2017,Adventure;Casual;Indie;Early Access,8
+2017,Adventure;Casual;Indie;Massively Multiplayer;RPG;Strategy;Early Access,1
+2017,Adventure;Casual;Indie;Massively Multiplayer;Strategy;Early Access,1
+2017,Adventure;Casual;Indie;RPG,23
+2017,Adventure;Casual;Indie;RPG;Early Access,2
+2017,Adventure;Casual;Indie;RPG;Simulation,7
+2017,Adventure;Casual;Indie;RPG;Simulation;Early Access,5
+2017,Adventure;Casual;Indie;RPG;Simulation;Sports,1
+2017,Adventure;Casual;Indie;RPG;Simulation;Sports;Strategy,1
+2017,Adventure;Casual;Indie;RPG;Simulation;Strategy,14
+2017,Adventure;Casual;Indie;RPG;Strategy,18
+2017,Adventure;Casual;Indie;RPG;Strategy;Early Access,2
+2017,Adventure;Casual;Indie;Racing,4
+2017,Adventure;Casual;Indie;Racing;RPG;Simulation;Sports;Strategy,1
+2017,Adventure;Casual;Indie;Racing;Simulation,1
+2017,Adventure;Casual;Indie;Racing;Simulation;Early Access,1
+2017,Adventure;Casual;Indie;Racing;Simulation;Sports,1
+2017,Adventure;Casual;Indie;Racing;Simulation;Sports;Early Access,1
+2017,Adventure;Casual;Indie;Simulation,42
+2017,Adventure;Casual;Indie;Simulation;Early Access,3
+2017,Adventure;Casual;Indie;Simulation;Sports,1
+2017,Adventure;Casual;Indie;Simulation;Sports;Strategy,4
+2017,Adventure;Casual;Indie;Simulation;Strategy,3
+2017,Adventure;Casual;Indie;Simulation;Strategy;Early Access,1
+2017,Adventure;Casual;Indie;Sports,1
+2017,Adventure;Casual;Indie;Sports;Early Access,1
+2017,Adventure;Casual;Indie;Sports;Strategy,2
+2017,Adventure;Casual;Indie;Strategy,19
+2017,Adventure;Casual;Massively Multiplayer;Simulation,1
+2017,Adventure;Casual;RPG,1
+2017,Adventure;Casual;RPG;Simulation,2
+2017,Adventure;Casual;RPG;Strategy;Early Access,1
+2017,Adventure;Casual;Simulation,11
+2017,Adventure;Casual;Simulation;Design & Illustration,1
+2017,Adventure;Casual;Simulation;Strategy,9
+2017,Adventure;Casual;Sports,1
+2017,Adventure;Casual;Strategy,6
+2017,Adventure;Early Access,4
+2017,Adventure;Free to Play,7
+2017,Adventure;Free to Play;Indie,10
+2017,Adventure;Free to Play;Indie;Massively Multiplayer,1
+2017,Adventure;Free to Play;Indie;Massively Multiplayer;RPG,1
+2017,Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Strategy,1
+2017,Adventure;Free to Play;Indie;RPG,6
+2017,Adventure;Free to Play;Indie;RPG;Strategy,1
+2017,Adventure;Free to Play;Indie;Simulation,1
+2017,Adventure;Free to Play;Massively Multiplayer;RPG,1
+2017,Adventure;Free to Play;RPG,1
+2017,Adventure;Free to Play;RPG;Strategy,2
+2017,Adventure;Free to Play;Simulation,2
+2017,Adventure;Indie,255
+2017,Adventure;Indie;Early Access,12
+2017,Adventure;Indie;Massively Multiplayer;RPG;Strategy,2
+2017,Adventure;Indie;RPG,102
+2017,Adventure;Indie;RPG;Early Access,7
+2017,Adventure;Indie;RPG;Simulation,2
+2017,Adventure;Indie;RPG;Simulation;Early Access,3
+2017,Adventure;Indie;RPG;Simulation;Strategy,1
+2017,Adventure;Indie;RPG;Strategy,16
+2017,Adventure;Indie;RPG;Strategy;Early Access,5
+2017,Adventure;Indie;Racing,2
+2017,Adventure;Indie;Racing;Simulation;Early Access,1
+2017,Adventure;Indie;Racing;Simulation;Sports,1
+2017,Adventure;Indie;Racing;Strategy;Early Access,1
+2017,Adventure;Indie;Simulation,29
+2017,Adventure;Indie;Simulation;Early Access,2
+2017,Adventure;Indie;Simulation;Strategy,5
+2017,Adventure;Indie;Simulation;Strategy;Early Access,1
+2017,Adventure;Indie;Strategy,14
+2017,Adventure;Indie;Strategy;Early Access,2
+2017,Adventure;RPG,19
+2017,Adventure;RPG;Early Access,1
+2017,Adventure;RPG;Simulation,1
+2017,Adventure;RPG;Simulation;Strategy,2
+2017,Adventure;RPG;Strategy,10
+2017,Adventure;Simulation,8
+2017,Adventure;Simulation;Early Access,2
+2017,Adventure;Simulation;Sports,2
+2017,Adventure;Simulation;Strategy,3
+2017,Adventure;Strategy,5
+2017,Adventure;Strategy;Early Access,1
+2017,Animation & Modeling,1
+2017,Animation & Modeling;Audio Production;Design & Illustration;Utilities;Video Production;Web Publishing,1
+2017,Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Web Publishing;Game Development,3
+2017,Animation & Modeling;Design & Illustration;Education;Utilities;Web Publishing;Game Development,1
+2017,Animation & Modeling;Design & Illustration;Photo Editing;Utilities,1
+2017,Animation & Modeling;Design & Illustration;Utilities,1
+2017,Animation & Modeling;Design & Illustration;Utilities;Early Access,1
+2017,Animation & Modeling;Utilities,1
+2017,Animation & Modeling;Utilities;Early Access,1
+2017,Animation & Modeling;Utilities;Video Production,1
+2017,Audio Production,2
+2017,Audio Production;Utilities,1
+2017,Audio Production;Utilities;Early Access,1
+2017,Casual,94
+2017,Casual;Animation & Modeling;Design & Illustration,1
+2017,Casual;Animation & Modeling;Video Production,1
+2017,Casual;Early Access,5
+2017,Casual;Free to Play,7
+2017,Casual;Free to Play;Early Access,1
+2017,Casual;Free to Play;Indie,19
+2017,Casual;Free to Play;Indie;Early Access,2
+2017,Casual;Free to Play;Indie;Massively Multiplayer;Simulation;Sports;Strategy,1
+2017,Casual;Free to Play;Indie;Massively Multiplayer;Strategy,1
+2017,Casual;Free to Play;Indie;RPG;Simulation;Strategy;Early Access,1
+2017,Casual;Free to Play;Indie;Racing,1
+2017,Casual;Free to Play;Indie;Simulation,7
+2017,Casual;Free to Play;Indie;Simulation;Early Access,1
+2017,Casual;Free to Play;Indie;Simulation;Sports,1
+2017,Casual;Free to Play;Indie;Simulation;Strategy,4
+2017,Casual;Free to Play;Indie;Sports,1
+2017,Casual;Free to Play;Indie;Strategy,5
+2017,Casual;Free to Play;Indie;Strategy;Early Access,1
+2017,Casual;Free to Play;Massively Multiplayer,1
+2017,Casual;Free to Play;Massively Multiplayer;Education,1
+2017,Casual;Free to Play;Massively Multiplayer;RPG;Sports;Early Access,1
+2017,Casual;Free to Play;Massively Multiplayer;Simulation;Strategy,1
+2017,Casual;Free to Play;Massively Multiplayer;Sports;Strategy,1
+2017,Casual;Free to Play;Massively Multiplayer;Strategy,1
+2017,Casual;Free to Play;RPG,2
+2017,Casual;Free to Play;Simulation,10
+2017,Casual;Free to Play;Simulation;Animation & Modeling;Early Access,1
+2017,Casual;Free to Play;Sports,1
+2017,Casual;Free to Play;Sports;Strategy,1
+2017,Casual;Free to Play;Strategy,3
+2017,Casual;Indie,361
+2017,Casual;Indie;Audio Production;Early Access,1
+2017,Casual;Indie;Early Access,10
+2017,Casual;Indie;Massively Multiplayer;Early Access,1
+2017,Casual;Indie;Massively Multiplayer;RPG;Early Access,1
+2017,Casual;Indie;Massively Multiplayer;Simulation;Early Access,1
+2017,Casual;Indie;Massively Multiplayer;Strategy,2
+2017,Casual;Indie;RPG,9
+2017,Casual;Indie;RPG;Early Access,1
+2017,Casual;Indie;RPG;Simulation,3
+2017,Casual;Indie;RPG;Simulation;Early Access,1
+2017,Casual;Indie;RPG;Simulation;Sports;Strategy,1
+2017,Casual;Indie;RPG;Simulation;Strategy,2
+2017,Casual;Indie;RPG;Simulation;Strategy;Early Access,1
+2017,Casual;Indie;RPG;Strategy,4
+2017,Casual;Indie;RPG;Strategy;Early Access,1
+2017,Casual;Indie;Racing,15
+2017,Casual;Indie;Racing;Simulation,1
+2017,Casual;Indie;Racing;Simulation;Sports,2
+2017,Casual;Indie;Racing;Simulation;Sports;Early Access,1
+2017,Casual;Indie;Racing;Sports,2
+2017,Casual;Indie;Racing;Sports;Early Access,1
+2017,Casual;Indie;Racing;Strategy,1
+2017,Casual;Indie;Simulation,108
+2017,Casual;Indie;Simulation;Early Access,17
+2017,Casual;Indie;Simulation;Sports,10
+2017,Casual;Indie;Simulation;Sports;Early Access,7
+2017,Casual;Indie;Simulation;Sports;Strategy,4
+2017,Casual;Indie;Simulation;Strategy,42
+2017,Casual;Indie;Simulation;Strategy;Early Access,5
+2017,Casual;Indie;Sports,12
+2017,Casual;Indie;Sports;Early Access,2
+2017,Casual;Indie;Sports;Strategy,4
+2017,Casual;Indie;Strategy,98
+2017,Casual;Indie;Strategy;Early Access,5
+2017,Casual;Indie;Utilities,1
+2017,Casual;Massively Multiplayer;Simulation;Sports;Early Access,1
+2017,Casual;Massively Multiplayer;Simulation;Strategy,1
+2017,Casual;RPG;Simulation,2
+2017,Casual;RPG;Simulation;Strategy,1
+2017,Casual;RPG;Strategy,2
+2017,Casual;Racing,3
+2017,Casual;Racing;Simulation,1
+2017,Casual;Racing;Sports,1
+2017,Casual;Simulation,31
+2017,Casual;Simulation;Early Access,4
+2017,Casual;Simulation;Sports,4
+2017,Casual;Simulation;Sports;Early Access,1
+2017,Casual;Simulation;Sports;Strategy,2
+2017,Casual;Simulation;Strategy,5
+2017,Casual;Simulation;Strategy;Early Access,2
+2017,Casual;Sports,7
+2017,Casual;Strategy,21
+2017,Casual;Strategy;Early Access,2
+2017,Design & Illustration,3
+2017,Design & Illustration;Early Access,4
+2017,Design & Illustration;Education;Utilities,2
+2017,Design & Illustration;Photo Editing,1
+2017,Design & Illustration;Utilities,1
+2017,Design & Illustration;Utilities;Web Publishing;Early Access,1
+2017,Early Access,5
+2017,Education,5
+2017,Free to Play,6
+2017,Free to Play;Design & Illustration,2
+2017,Free to Play;Indie,10
+2017,Free to Play;Indie;Early Access,1
+2017,Free to Play;Indie;Massively Multiplayer;Strategy,2
+2017,Free to Play;Indie;RPG,1
+2017,Free to Play;Indie;RPG;Strategy,2
+2017,Free to Play;Indie;Racing;Sports,1
+2017,Free to Play;Indie;Simulation,5
+2017,Free to Play;Indie;Simulation;Strategy,3
+2017,Free to Play;Indie;Strategy,7
+2017,Free to Play;Indie;Strategy;Early Access,2
+2017,Free to Play;Massively Multiplayer,2
+2017,Free to Play;Massively Multiplayer;RPG,8
+2017,Free to Play;Massively Multiplayer;RPG;Simulation;Strategy,1
+2017,Free to Play;Massively Multiplayer;RPG;Strategy,3
+2017,Free to Play;Massively Multiplayer;Simulation,2
+2017,Free to Play;Massively Multiplayer;Simulation;Sports,1
+2017,Free to Play;Massively Multiplayer;Simulation;Strategy,1
+2017,Free to Play;Massively Multiplayer;Strategy,2
+2017,Free to Play;Massively Multiplayer;Strategy;Early Access,1
+2017,Free to Play;RPG,2
+2017,Free to Play;RPG;Simulation,1
+2017,Free to Play;RPG;Strategy,1
+2017,Free to Play;Racing;Simulation;Early Access,1
+2017,Free to Play;Simulation,7
+2017,Free to Play;Simulation;Sports,3
+2017,Free to Play;Strategy,3
+2017,Free to Play;Strategy;Early Access,1
+2017,Gore;Action,3
+2017,Gore;Action;Adventure;Casual;Indie,1
+2017,Gore;Action;Adventure;Casual;Indie;Early Access,1
+2017,Gore;Action;Adventure;Casual;Indie;Simulation;Strategy,1
+2017,Gore;Action;Adventure;Indie,4
+2017,Gore;Action;Adventure;Indie;RPG,1
+2017,Gore;Action;Casual;Indie,1
+2017,Gore;Action;Free to Play;Indie,1
+2017,Gore;Action;Indie,1
+2017,Gore;Action;Indie;RPG,1
+2017,Gore;Action;Indie;Racing;Early Access,1
+2017,Gore;Action;Indie;Strategy,1
+2017,Gore;Adventure;Casual;Free to Play;Indie,1
+2017,Gore;Adventure;Casual;Indie,4
+2017,Gore;Adventure;Indie,6
+2017,Gore;Adventure;Indie;Early Access,1
+2017,Gore;Adventure;Indie;RPG,1
+2017,Gore;Adventure;Indie;Racing,1
+2017,Gore;Adventure;Indie;Simulation,1
+2017,Gore;Casual;Indie;Simulation,1
+2017,Gore;Casual;Indie;Simulation;Strategy,1
+2017,Gore;Casual;Indie;Strategy,1
+2017,Gore;Indie,1
+2017,Indie,157
+2017,Indie;Audio Production,1
+2017,Indie;Early Access,15
+2017,Indie;Massively Multiplayer,1
+2017,Indie;Massively Multiplayer;RPG,1
+2017,Indie;Massively Multiplayer;RPG;Simulation;Strategy,1
+2017,Indie;Massively Multiplayer;Racing;Simulation;Early Access,1
+2017,Indie;Massively Multiplayer;Simulation;Early Access,2
+2017,Indie;Massively Multiplayer;Simulation;Sports;Early Access,1
+2017,Indie;Massively Multiplayer;Strategy,1
+2017,Indie;Massively Multiplayer;Strategy;Early Access,2
+2017,Indie;RPG,46
+2017,Indie;RPG;Early Access,6
+2017,Indie;RPG;Simulation,4
+2017,Indie;RPG;Simulation;Early Access,1
+2017,Indie;RPG;Simulation;Sports;Strategy,1
+2017,Indie;RPG;Simulation;Sports;Strategy;Early Access,1
+2017,Indie;RPG;Simulation;Strategy,6
+2017,Indie;RPG;Simulation;Strategy;Early Access,3
+2017,Indie;RPG;Strategy,29
+2017,Indie;RPG;Strategy;Early Access,7
+2017,Indie;Racing,10
+2017,Indie;Racing;Early Access,3
+2017,Indie;Racing;Simulation,4
+2017,Indie;Racing;Simulation;Early Access,3
+2017,Indie;Racing;Simulation;Sports,2
+2017,Indie;Racing;Sports,5
+2017,Indie;Racing;Strategy,1
+2017,Indie;Simulation,43
+2017,Indie;Simulation;Audio Production;Early Access,1
+2017,Indie;Simulation;Early Access,11
+2017,Indie;Simulation;Sports,6
+2017,Indie;Simulation;Sports;Early Access,1
+2017,Indie;Simulation;Sports;Strategy,6
+2017,Indie;Simulation;Sports;Strategy;Early Access,2
+2017,Indie;Simulation;Strategy,56
+2017,Indie;Simulation;Strategy;Early Access,20
+2017,Indie;Simulation;Web Publishing,1
+2017,Indie;Sports,11
+2017,Indie;Sports;Early Access,1
+2017,Indie;Sports;Strategy,1
+2017,Indie;Strategy,76
+2017,Indie;Strategy;Early Access,10
+2017,Massively Multiplayer;RPG,1
+2017,Massively Multiplayer;RPG;Early Access,2
+2017,Massively Multiplayer;RPG;Strategy,1
+2017,Massively Multiplayer;RPG;Utilities;Early Access,1
+2017,Massively Multiplayer;Racing;Simulation;Sports,1
+2017,Massively Multiplayer;Simulation;Early Access,1
+2017,Nudity;Action,1
+2017,Nudity;Action;Adventure,1
+2017,Nudity;Action;Adventure;Casual;Indie;Simulation;Early Access,1
+2017,Nudity;Action;Adventure;Free to Play;Massively Multiplayer;RPG,1
+2017,Nudity;Action;Adventure;Indie,1
+2017,Nudity;Action;Casual,1
+2017,Nudity;Action;Casual;Indie,1
+2017,Nudity;Action;Indie,1
+2017,Nudity;Adventure,3
+2017,Nudity;Adventure;Casual,1
+2017,Nudity;Adventure;Casual;Free to Play;Indie,1
+2017,Nudity;Adventure;Casual;Indie,4
+2017,Nudity;Adventure;Casual;Indie;Early Access,1
+2017,Nudity;Adventure;Indie;Early Access,1
+2017,Nudity;Adventure;RPG;Strategy;Early Access,1
+2017,Nudity;Casual,1
+2017,Nudity;Casual;Indie,1
+2017,Nudity;Casual;Indie;Simulation,1
+2017,Nudity;Casual;Indie;Strategy,1
+2017,Nudity;Casual;Simulation,1
+2017,Nudity;Free to Play;Simulation,1
+2017,Nudity;Gore;Action;Adventure;Indie,1
+2017,Nudity;Gore;Action;Indie,1
+2017,Nudity;Indie,1
+2017,Nudity;Indie;RPG,1
+2017,Nudity;RPG,2
+2017,Nudity;Violent;Action;Adventure;Casual;Indie;Simulation,1
+2017,Nudity;Violent;Action;Adventure;Indie,2
+2017,Nudity;Violent;Action;Adventure;Indie;Racing;Simulation;Early Access,1
+2017,Nudity;Violent;Action;Adventure;RPG,1
+2017,Nudity;Violent;Action;Indie;RPG,1
+2017,Nudity;Violent;Adventure,1
+2017,Nudity;Violent;Adventure;Casual,1
+2017,Nudity;Violent;Adventure;Casual;Indie;Simulation,1
+2017,Nudity;Violent;Adventure;Indie,2
+2017,Nudity;Violent;Adventure;Indie;RPG,1
+2017,Nudity;Violent;Gore;Action,1
+2017,Nudity;Violent;Gore;Action;Adventure,1
+2017,Nudity;Violent;Gore;Action;Adventure;Casual;Indie;RPG;Simulation;Strategy,1
+2017,Nudity;Violent;Gore;Action;Adventure;Indie,3
+2017,Nudity;Violent;Gore;Action;Adventure;Indie;Early Access,1
+2017,Nudity;Violent;Gore;Action;Adventure;Indie;RPG,1
+2017,Nudity;Violent;Gore;Action;Casual,2
+2017,Nudity;Violent;Gore;Action;Indie,1
+2017,Nudity;Violent;Gore;Action;Indie;Early Access,1
+2017,Nudity;Violent;Gore;Action;RPG,1
+2017,Nudity;Violent;Gore;Adventure;Indie;RPG;Early Access,1
+2017,Nudity;Violent;Gore;Indie;Early Access,1
+2017,Nudity;Violent;Indie;Massively Multiplayer;Early Access,1
+2017,Nudity;Violent;Strategy,1
+2017,RPG,56
+2017,RPG;Early Access,1
+2017,RPG;Simulation,1
+2017,RPG;Simulation;Strategy,2
+2017,RPG;Simulation;Strategy;Early Access,1
+2017,RPG;Strategy,8
+2017,Racing,12
+2017,Racing;Early Access,1
+2017,Racing;Simulation,1
+2017,Racing;Simulation;Early Access,1
+2017,Racing;Simulation;Sports,13
+2017,Racing;Simulation;Sports;Early Access,1
+2017,Racing;Sports,3
+2017,Sexual Content;Action,1
+2017,Sexual Content;Action;Indie,1
+2017,Sexual Content;Action;Strategy,1
+2017,Sexual Content;Adventure;Casual,2
+2017,Sexual Content;Adventure;Casual;Indie,2
+2017,Sexual Content;Adventure;Free to Play;Indie,1
+2017,Sexual Content;Adventure;Simulation,1
+2017,Sexual Content;Casual;Indie,5
+2017,Sexual Content;Casual;Indie;Simulation,2
+2017,Sexual Content;Casual;Indie;Simulation;Sports,1
+2017,Sexual Content;Free to Play;Indie;RPG,1
+2017,Sexual Content;Indie,2
+2017,Sexual Content;Indie;Simulation,1
+2017,Sexual Content;Nudity;Action,1
+2017,Sexual Content;Nudity;Action;Adventure;Indie,1
+2017,Sexual Content;Nudity;Action;Casual;Indie,3
+2017,Sexual Content;Nudity;Action;Casual;Indie;Simulation,2
+2017,Sexual Content;Nudity;Adventure,2
+2017,Sexual Content;Nudity;Adventure;Casual,5
+2017,Sexual Content;Nudity;Adventure;Casual;Indie,4
+2017,Sexual Content;Nudity;Adventure;Casual;Indie;RPG,1
+2017,Sexual Content;Nudity;Adventure;Casual;Indie;RPG;Simulation,1
+2017,Sexual Content;Nudity;Adventure;Casual;Indie;Simulation,1
+2017,Sexual Content;Nudity;Adventure;Casual;Simulation,2
+2017,Sexual Content;Nudity;Adventure;Indie,2
+2017,Sexual Content;Nudity;Adventure;Indie;Simulation;Strategy,1
+2017,Sexual Content;Nudity;Adventure;RPG,2
+2017,Sexual Content;Nudity;Adventure;Simulation,1
+2017,Sexual Content;Nudity;Casual,1
+2017,Sexual Content;Nudity;Casual;Free to Play;Indie;RPG,1
+2017,Sexual Content;Nudity;Casual;Indie,6
+2017,Sexual Content;Nudity;Casual;Indie;RPG,2
+2017,Sexual Content;Nudity;Casual;Indie;Simulation,3
+2017,Sexual Content;Nudity;Casual;Simulation,1
+2017,Sexual Content;Nudity;Gore;Action;Adventure;Casual;Indie;RPG;Simulation,1
+2017,Sexual Content;Nudity;Indie,1
+2017,Sexual Content;Nudity;Indie;RPG;Simulation,1
+2017,Sexual Content;Nudity;Violent;Action;Casual,1
+2017,Sexual Content;Nudity;Violent;Action;Indie,2
+2017,Sexual Content;Nudity;Violent;Adventure;Casual,1
+2017,Sexual Content;Nudity;Violent;Adventure;Casual;Indie,1
+2017,Sexual Content;Nudity;Violent;Adventure;Casual;Indie;Simulation,2
+2017,Sexual Content;Nudity;Violent;Adventure;Indie;RPG,1
+2017,Sexual Content;Nudity;Violent;Gore;Action,1
+2017,Sexual Content;Nudity;Violent;Gore;Action;Adventure;Indie,1
+2017,Sexual Content;Nudity;Violent;Gore;Action;Adventure;Indie;RPG,1
+2017,Sexual Content;Nudity;Violent;Gore;Action;Casual,1
+2017,Sexual Content;Nudity;Violent;Gore;Action;Indie,2
+2017,Sexual Content;Nudity;Violent;Gore;RPG,1
+2017,Sexual Content;Nudity;Violent;Gore;RPG;Early Access,1
+2017,Sexual Content;Nudity;Violent;Indie;Simulation,1
+2017,Sexual Content;Nudity;Violent;RPG;Strategy,1
+2017,Sexual Content;RPG,1
+2017,Sexual Content;Simulation,1
+2017,Sexual Content;Strategy,1
+2017,Sexual Content;Violent;Action,2
+2017,Sexual Content;Violent;Action;Casual;Indie,1
+2017,Sexual Content;Violent;Action;Indie;Massively Multiplayer;Racing;RPG;Simulation,1
+2017,Sexual Content;Violent;Action;Indie;Simulation,1
+2017,Sexual Content;Violent;Adventure;Indie;Simulation,2
+2017,Sexual Content;Violent;Free to Play,1
+2017,Sexual Content;Violent;Gore;Action;Adventure;Casual;Indie;RPG;Strategy,1
+2017,Sexual Content;Violent;Gore;Action;Casual;Free to Play;Indie,1
+2017,Sexual Content;Violent;Gore;Action;Casual;Free to Play;Indie;Strategy,1
+2017,Sexual Content;Violent;Gore;Adventure;Casual;Indie,1
+2017,Sexual Content;Violent;Gore;Adventure;Indie,3
+2017,Sexual Content;Violent;Indie,1
+2017,Sexual Content;Violent;RPG,1
+2017,Simulation,47
+2017,Simulation;Early Access,3
+2017,Simulation;Sports,17
+2017,Simulation;Sports;Early Access,2
+2017,Simulation;Sports;Strategy,4
+2017,Simulation;Strategy,21
+2017,Simulation;Strategy;Early Access,2
+2017,Software Training;Utilities,1
+2017,Sports,12
+2017,Sports;Early Access,4
+2017,Strategy,98
+2017,Strategy;Early Access,4
+2017,Utilities,4
+2017,Utilities;Early Access,2
+2017,Utilities;Video Production,1
+2017,Utilities;Web Publishing,1
+2017,Video Production,2
+2017,Violent,1
+2017,Violent;Action,14
+2017,Violent;Action;Adventure,6
+2017,Violent;Action;Adventure;Casual;Free to Play;Indie;Early Access,1
+2017,Violent;Action;Adventure;Casual;Indie,1
+2017,Violent;Action;Adventure;Casual;Indie;RPG;Early Access,1
+2017,Violent;Action;Adventure;Casual;Indie;RPG;Simulation;Strategy,1
+2017,Violent;Action;Adventure;Casual;Indie;Simulation,1
+2017,Violent;Action;Adventure;Casual;RPG;Early Access,1
+2017,Violent;Action;Adventure;Casual;Simulation;Strategy,1
+2017,Violent;Action;Adventure;Early Access,2
+2017,Violent;Action;Adventure;Free to Play;Massively Multiplayer,1
+2017,Violent;Action;Adventure;Free to Play;RPG;Simulation,1
+2017,Violent;Action;Adventure;Indie,11
+2017,Violent;Action;Adventure;Indie;Early Access,1
+2017,Violent;Action;Adventure;Indie;Massively Multiplayer;RPG,1
+2017,Violent;Action;Adventure;Indie;Massively Multiplayer;Racing;RPG;Simulation;Sports;Strategy,1
+2017,Violent;Action;Adventure;Indie;RPG,2
+2017,Violent;Action;Adventure;Indie;RPG;Early Access,1
+2017,Violent;Action;Adventure;Indie;RPG;Simulation,1
+2017,Violent;Action;Adventure;Indie;Simulation;Early Access,1
+2017,Violent;Action;Adventure;Indie;Simulation;Strategy,1
+2017,Violent;Action;Adventure;RPG,2
+2017,Violent;Action;Adventure;RPG;Early Access,1
+2017,Violent;Action;Adventure;RPG;Strategy;Early Access,1
+2017,Violent;Action;Adventure;Strategy,1
+2017,Violent;Action;Adventure;Strategy;Early Access,1
+2017,Violent;Action;Casual,3
+2017,Violent;Action;Casual;Early Access,1
+2017,Violent;Action;Casual;Free to Play;Indie,1
+2017,Violent;Action;Casual;Free to Play;Indie;Strategy,1
+2017,Violent;Action;Casual;Indie,5
+2017,Violent;Action;Casual;Indie;Early Access,1
+2017,Violent;Action;Casual;Indie;Massively Multiplayer;Racing,1
+2017,Violent;Action;Casual;Indie;Simulation,1
+2017,Violent;Action;Casual;Indie;Sports,1
+2017,Violent;Action;Casual;Indie;Strategy,1
+2017,Violent;Action;Casual;Racing,1
+2017,Violent;Action;Casual;Simulation,1
+2017,Violent;Action;Early Access,1
+2017,Violent;Action;Free to Play;Indie;Massively Multiplayer,1
+2017,Violent;Action;Indie,20
+2017,Violent;Action;Indie;Early Access,4
+2017,Violent;Action;Indie;RPG;Simulation;Strategy,1
+2017,Violent;Action;Indie;RPG;Strategy,1
+2017,Violent;Action;Indie;Racing,1
+2017,Violent;Action;Indie;Simulation,3
+2017,Violent;Action;Indie;Simulation;Strategy;Early Access,1
+2017,Violent;Action;Indie;Sports;Early Access,2
+2017,Violent;Action;Indie;Strategy,1
+2017,Violent;Action;Massively Multiplayer,1
+2017,Violent;Action;RPG,2
+2017,Violent;Action;Racing,2
+2017,Violent;Action;Simulation,2
+2017,Violent;Action;Simulation;Early Access,1
+2017,Violent;Action;Simulation;Sports,1
+2017,Violent;Action;Simulation;Strategy,1
+2017,Violent;Action;Sports,1
+2017,Violent;Action;Strategy,4
+2017,Violent;Action;Strategy;Early Access,1
+2017,Violent;Adventure,7
+2017,Violent;Adventure;Casual,3
+2017,Violent;Adventure;Casual;Free to Play;Indie,1
+2017,Violent;Adventure;Casual;Indie,2
+2017,Violent;Adventure;Casual;Indie;RPG;Simulation;Strategy,1
+2017,Violent;Adventure;Casual;Indie;Simulation,1
+2017,Violent;Adventure;Free to Play;Indie,1
+2017,Violent;Adventure;Free to Play;Indie;RPG;Early Access,1
+2017,Violent;Adventure;Indie,8
+2017,Violent;Adventure;Indie;RPG,1
+2017,Violent;Adventure;Indie;RPG;Simulation,1
+2017,Violent;Adventure;Indie;RPG;Strategy,1
+2017,Violent;Adventure;Indie;Simulation,1
+2017,Violent;Adventure;Indie;Simulation;Strategy;Early Access,1
+2017,Violent;Adventure;Indie;Strategy,1
+2017,Violent;Adventure;RPG,1
+2017,Violent;Casual;Indie,1
+2017,Violent;Casual;Indie;Strategy,1
+2017,Violent;Casual;RPG;Simulation;Strategy,1
+2017,Violent;Gore,2
+2017,Violent;Gore;Action,11
+2017,Violent;Gore;Action;Adventure,7
+2017,Violent;Gore;Action;Adventure;Casual,1
+2017,Violent;Gore;Action;Adventure;Casual;Indie,3
+2017,Violent;Gore;Action;Adventure;Casual;Indie;Massively Multiplayer;RPG;Early Access,1
+2017,Violent;Gore;Action;Adventure;Casual;Indie;RPG,1
+2017,Violent;Gore;Action;Adventure;Casual;Indie;RPG;Strategy,1
+2017,Violent;Gore;Action;Adventure;Casual;Indie;Racing;Sports,1
+2017,Violent;Gore;Action;Adventure;Casual;Indie;Simulation;Strategy;Video Production,1
+2017,Violent;Gore;Action;Adventure;Casual;Indie;Strategy,1
+2017,Violent;Gore;Action;Adventure;Casual;RPG,1
+2017,Violent;Gore;Action;Adventure;Early Access,1
+2017,Violent;Gore;Action;Adventure;Indie,26
+2017,Violent;Gore;Action;Adventure;Indie;Early Access,5
+2017,Violent;Gore;Action;Adventure;Indie;Massively Multiplayer,1
+2017,Violent;Gore;Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Early Access,1
+2017,Violent;Gore;Action;Adventure;Indie;RPG,8
+2017,Violent;Gore;Action;Adventure;Indie;RPG;Early Access,1
+2017,Violent;Gore;Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access,2
+2017,Violent;Gore;Action;Adventure;Indie;RPG;Strategy,2
+2017,Violent;Gore;Action;Adventure;Indie;Simulation,3
+2017,Violent;Gore;Action;Adventure;Indie;Simulation;Early Access,1
+2017,Violent;Gore;Action;Adventure;Indie;Simulation;Strategy,1
+2017,Violent;Gore;Action;Adventure;RPG,1
+2017,Violent;Gore;Action;Adventure;RPG;Simulation,1
+2017,Violent;Gore;Action;Adventure;Strategy,1
+2017,Violent;Gore;Action;Adventure;Strategy;Early Access,1
+2017,Violent;Gore;Action;Casual;Early Access,1
+2017,Violent;Gore;Action;Casual;Indie,2
+2017,Violent;Gore;Action;Casual;Indie;Early Access,3
+2017,Violent;Gore;Action;Casual;Indie;Strategy;Early Access,1
+2017,Violent;Gore;Action;Casual;Sports,1
+2017,Violent;Gore;Action;Free to Play;Indie,2
+2017,Violent;Gore;Action;Free to Play;Indie;Massively Multiplayer,1
+2017,Violent;Gore;Action;Indie,31
+2017,Violent;Gore;Action;Indie;Early Access,4
+2017,Violent;Gore;Action;Indie;Massively Multiplayer,1
+2017,Violent;Gore;Action;Indie;Massively Multiplayer;Early Access,1
+2017,Violent;Gore;Action;Indie;RPG;Early Access,1
+2017,Violent;Gore;Action;Indie;Simulation,3
+2017,Violent;Gore;Action;Indie;Sports;Strategy,1
+2017,Violent;Gore;Action;Indie;Strategy,1
+2017,Violent;Gore;Action;Massively Multiplayer;RPG;Simulation,1
+2017,Violent;Gore;Action;Simulation;Strategy,1
+2017,Violent;Gore;Adventure,4
+2017,Violent;Gore;Adventure;Casual;Free to Play;Indie,1
+2017,Violent;Gore;Adventure;Casual;Indie,1
+2017,Violent;Gore;Adventure;Casual;Indie;Strategy,1
+2017,Violent;Gore;Adventure;Casual;RPG,1
+2017,Violent;Gore;Adventure;Free to Play;Indie,1
+2017,Violent;Gore;Adventure;Indie,9
+2017,Violent;Gore;Adventure;Indie;Early Access,2
+2017,Violent;Gore;Adventure;Indie;RPG,5
+2017,Violent;Gore;Adventure;Indie;Simulation,2
+2017,Violent;Gore;Adventure;Indie;Strategy,1
+2017,Violent;Gore;Adventure;RPG,1
+2017,Violent;Gore;Casual;Indie,1
+2017,Violent;Gore;Casual;Indie;Simulation;Sports,1
+2017,Violent;Gore;Casual;Indie;Strategy,1
+2017,Violent;Gore;Indie,8
+2017,Violent;Gore;Indie;Strategy,1
+2017,Violent;Gore;RPG;Early Access,1
+2017,Violent;Gore;Simulation;Early Access,1
+2017,Violent;Gore;Strategy,1
+2017,Violent;Indie,4
+2017,Violent;RPG,3
+2017,Violent;RPG;Strategy,1
+2017,Violent;Simulation,1
+2017,Violent;Simulation;Sports,1
+2017,Violent;Sports,1
+2018,Action,146
+2018,Action;Adventure,59
+2018,Action;Adventure;Casual,14
+2018,Action;Adventure;Casual;Free to Play;Early Access,1
+2018,Action;Adventure;Casual;Free to Play;Indie,8
+2018,Action;Adventure;Casual;Free to Play;Indie;Early Access,1
+2018,Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Early Access,1
+2018,Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Racing;RPG;Simulation;Sports;Strategy,4
+2018,Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Simulation;Strategy,1
+2018,Action;Adventure;Casual;Free to Play;Indie;RPG,1
+2018,Action;Adventure;Casual;Free to Play;Indie;RPG;Early Access,1
+2018,Action;Adventure;Casual;Free to Play;Indie;RPG;Simulation;Strategy,1
+2018,Action;Adventure;Casual;Free to Play;Indie;RPG;Strategy,1
+2018,Action;Adventure;Casual;Free to Play;Indie;RPG;Strategy;Early Access,1
+2018,Action;Adventure;Casual;Free to Play;Indie;Racing;RPG;Simulation;Sports,4
+2018,Action;Adventure;Casual;Free to Play;Indie;Racing;RPG;Simulation;Strategy,1
+2018,Action;Adventure;Casual;Free to Play;Indie;Simulation;Early Access,1
+2018,Action;Adventure;Casual;Free to Play;Indie;Simulation;Strategy,1
+2018,Action;Adventure;Casual;Free to Play;Massively Multiplayer,1
+2018,Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG;Simulation,1
+2018,Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG;Simulation;Strategy,1
+2018,Action;Adventure;Casual;Free to Play;Massively Multiplayer;Simulation;Sports;Strategy,1
+2018,Action;Adventure;Casual;Free to Play;RPG;Strategy,1
+2018,Action;Adventure;Casual;Indie,176
+2018,Action;Adventure;Casual;Indie;Early Access,26
+2018,Action;Adventure;Casual;Indie;Massively Multiplayer,4
+2018,Action;Adventure;Casual;Indie;Massively Multiplayer;Early Access,2
+2018,Action;Adventure;Casual;Indie;Massively Multiplayer;RPG,1
+2018,Action;Adventure;Casual;Indie;Massively Multiplayer;Racing;RPG;Simulation;Sports;Strategy,1
+2018,Action;Adventure;Casual;Indie;Massively Multiplayer;Simulation;Early Access,1
+2018,Action;Adventure;Casual;Indie;RPG,36
+2018,Action;Adventure;Casual;Indie;RPG;Early Access,4
+2018,Action;Adventure;Casual;Indie;RPG;Simulation,8
+2018,Action;Adventure;Casual;Indie;RPG;Simulation;Early Access,3
+2018,Action;Adventure;Casual;Indie;RPG;Simulation;Strategy,10
+2018,Action;Adventure;Casual;Indie;RPG;Simulation;Strategy;Early Access,3
+2018,Action;Adventure;Casual;Indie;RPG;Sports,1
+2018,Action;Adventure;Casual;Indie;RPG;Strategy,6
+2018,Action;Adventure;Casual;Indie;RPG;Strategy;Early Access,2
+2018,Action;Adventure;Casual;Indie;Racing,2
+2018,Action;Adventure;Casual;Indie;Racing;Early Access,1
+2018,Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Sports;Strategy;Early Access,1
+2018,Action;Adventure;Casual;Indie;Racing;Simulation,6
+2018,Action;Adventure;Casual;Indie;Racing;Simulation;Sports,6
+2018,Action;Adventure;Casual;Indie;Racing;Simulation;Sports;Strategy,1
+2018,Action;Adventure;Casual;Indie;Simulation,21
+2018,Action;Adventure;Casual;Indie;Simulation;Early Access,5
+2018,Action;Adventure;Casual;Indie;Simulation;Sports,4
+2018,Action;Adventure;Casual;Indie;Simulation;Sports;Strategy,1
+2018,Action;Adventure;Casual;Indie;Simulation;Strategy,10
+2018,Action;Adventure;Casual;Indie;Simulation;Strategy;Early Access,1
+2018,Action;Adventure;Casual;Indie;Sports,1
+2018,Action;Adventure;Casual;Indie;Sports;Early Access,1
+2018,Action;Adventure;Casual;Indie;Sports;Strategy,1
+2018,Action;Adventure;Casual;Indie;Strategy,21
+2018,Action;Adventure;Casual;Indie;Strategy;Early Access,6
+2018,Action;Adventure;Casual;Massively Multiplayer,1
+2018,Action;Adventure;Casual;Massively Multiplayer;RPG;Simulation,1
+2018,Action;Adventure;Casual;Massively Multiplayer;RPG;Strategy;Early Access,1
+2018,Action;Adventure;Casual;RPG,1
+2018,Action;Adventure;Casual;RPG;Strategy,1
+2018,Action;Adventure;Casual;Racing,2
+2018,Action;Adventure;Casual;Racing;RPG;Early Access,1
+2018,Action;Adventure;Casual;Racing;RPG;Simulation;Sports;Strategy,1
+2018,Action;Adventure;Casual;Simulation,4
+2018,Action;Adventure;Casual;Strategy,1
+2018,Action;Adventure;Early Access,10
+2018,Action;Adventure;Free to Play,1
+2018,Action;Adventure;Free to Play;Early Access,1
+2018,Action;Adventure;Free to Play;Indie,8
+2018,Action;Adventure;Free to Play;Indie;Early Access,1
+2018,Action;Adventure;Free to Play;Indie;Massively Multiplayer,1
+2018,Action;Adventure;Free to Play;Indie;Massively Multiplayer;Early Access,1
+2018,Action;Adventure;Free to Play;Indie;Massively Multiplayer;Strategy;Early Access,1
+2018,Action;Adventure;Free to Play;Indie;RPG,1
+2018,Action;Adventure;Free to Play;Indie;RPG;Early Access,1
+2018,Action;Adventure;Free to Play;Indie;RPG;Simulation;Early Access,1
+2018,Action;Adventure;Free to Play;Indie;Simulation,2
+2018,Action;Adventure;Free to Play;Indie;Simulation;Strategy,1
+2018,Action;Adventure;Free to Play;Indie;Strategy,1
+2018,Action;Adventure;Free to Play;Massively Multiplayer,1
+2018,Action;Adventure;Free to Play;Massively Multiplayer;RPG,4
+2018,Action;Adventure;Free to Play;RPG,1
+2018,Action;Adventure;Free to Play;Simulation,2
+2018,Action;Adventure;Indie,356
+2018,Action;Adventure;Indie;Early Access,45
+2018,Action;Adventure;Indie;Massively Multiplayer,2
+2018,Action;Adventure;Indie;Massively Multiplayer;Early Access,2
+2018,Action;Adventure;Indie;Massively Multiplayer;RPG,5
+2018,Action;Adventure;Indie;Massively Multiplayer;RPG;Early Access,5
+2018,Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation,1
+2018,Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Early Access,1
+2018,Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Strategy,1
+2018,Action;Adventure;Indie;Massively Multiplayer;Simulation;Early Access,2
+2018,Action;Adventure;Indie;RPG,88
+2018,Action;Adventure;Indie;RPG;Early Access,39
+2018,Action;Adventure;Indie;RPG;Simulation,7
+2018,Action;Adventure;Indie;RPG;Simulation;Early Access,7
+2018,Action;Adventure;Indie;RPG;Simulation;Sports;Strategy,1
+2018,Action;Adventure;Indie;RPG;Simulation;Strategy,6
+2018,Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access,1
+2018,Action;Adventure;Indie;RPG;Strategy,18
+2018,Action;Adventure;Indie;RPG;Strategy;Early Access,9
+2018,Action;Adventure;Indie;Racing,4
+2018,Action;Adventure;Indie;Racing;Early Access,2
+2018,Action;Adventure;Indie;Racing;RPG;Sports,1
+2018,Action;Adventure;Indie;Racing;Simulation,2
+2018,Action;Adventure;Indie;Racing;Simulation;Early Access,1
+2018,Action;Adventure;Indie;Racing;Simulation;Sports;Early Access,1
+2018,Action;Adventure;Indie;Racing;Sports,1
+2018,Action;Adventure;Indie;Racing;Strategy,1
+2018,Action;Adventure;Indie;Simulation,26
+2018,Action;Adventure;Indie;Simulation;Early Access,11
+2018,Action;Adventure;Indie;Simulation;Sports,1
+2018,Action;Adventure;Indie;Simulation;Strategy,7
+2018,Action;Adventure;Indie;Simulation;Strategy;Early Access,4
+2018,Action;Adventure;Indie;Sports;Early Access,1
+2018,Action;Adventure;Indie;Strategy,13
+2018,Action;Adventure;Indie;Strategy;Early Access,5
+2018,Action;Adventure;Massively Multiplayer,1
+2018,Action;Adventure;Massively Multiplayer;RPG,1
+2018,Action;Adventure;Massively Multiplayer;RPG;Early Access,2
+2018,Action;Adventure;Massively Multiplayer;RPG;Simulation;Early Access,2
+2018,Action;Adventure;Massively Multiplayer;RPG;Simulation;Strategy,1
+2018,Action;Adventure;Massively Multiplayer;RPG;Strategy;Early Access,1
+2018,Action;Adventure;Massively Multiplayer;Simulation,2
+2018,Action;Adventure;RPG,17
+2018,Action;Adventure;RPG;Early Access,6
+2018,Action;Adventure;RPG;Simulation;Strategy,1
+2018,Action;Adventure;RPG;Sports;Early Access,1
+2018,Action;Adventure;RPG;Strategy,3
+2018,Action;Adventure;RPG;Strategy;Early Access,2
+2018,Action;Adventure;Racing,2
+2018,Action;Adventure;Racing;RPG,1
+2018,Action;Adventure;Racing;Simulation;Early Access,1
+2018,Action;Adventure;Simulation,7
+2018,Action;Adventure;Simulation;Early Access,1
+2018,Action;Adventure;Simulation;Strategy,3
+2018,Action;Adventure;Simulation;Strategy;Early Access,1
+2018,Action;Adventure;Sports,1
+2018,Action;Adventure;Strategy,6
+2018,Action;Casual,42
+2018,Action;Casual;Early Access,2
+2018,Action;Casual;Free to Play,4
+2018,Action;Casual;Free to Play;Indie,25
+2018,Action;Casual;Free to Play;Indie;Early Access,5
+2018,Action;Casual;Free to Play;Indie;Massively Multiplayer,1
+2018,Action;Casual;Free to Play;Indie;Massively Multiplayer;Simulation,1
+2018,Action;Casual;Free to Play;Indie;RPG,1
+2018,Action;Casual;Free to Play;Indie;Racing,2
+2018,Action;Casual;Free to Play;Indie;Racing;Simulation;Strategy,1
+2018,Action;Casual;Free to Play;Indie;Simulation,3
+2018,Action;Casual;Free to Play;Indie;Simulation;Sports,1
+2018,Action;Casual;Free to Play;Indie;Simulation;Strategy;Early Access,1
+2018,Action;Casual;Free to Play;Indie;Strategy,2
+2018,Action;Casual;Free to Play;Indie;Strategy;Early Access,1
+2018,Action;Casual;Free to Play;Massively Multiplayer;Simulation;Sports,1
+2018,Action;Casual;Free to Play;Simulation;Early Access,1
+2018,Action;Casual;Free to Play;Simulation;Strategy,1
+2018,Action;Casual;Free to Play;Strategy,1
+2018,Action;Casual;Indie,355
+2018,Action;Casual;Indie;Early Access,36
+2018,Action;Casual;Indie;Massively Multiplayer,3
+2018,Action;Casual;Indie;Massively Multiplayer;Early Access,2
+2018,Action;Casual;Indie;Massively Multiplayer;Racing,1
+2018,Action;Casual;Indie;Massively Multiplayer;Simulation,2
+2018,Action;Casual;Indie;Massively Multiplayer;Simulation;Early Access,2
+2018,Action;Casual;Indie;Massively Multiplayer;Simulation;Sports,1
+2018,Action;Casual;Indie;Massively Multiplayer;Sports;Strategy,1
+2018,Action;Casual;Indie;Massively Multiplayer;Strategy,1
+2018,Action;Casual;Indie;Massively Multiplayer;Strategy;Early Access,2
+2018,Action;Casual;Indie;RPG,6
+2018,Action;Casual;Indie;RPG;Early Access,4
+2018,Action;Casual;Indie;RPG;Simulation,1
+2018,Action;Casual;Indie;RPG;Simulation;Sports;Strategy,1
+2018,Action;Casual;Indie;RPG;Sports,1
+2018,Action;Casual;Indie;RPG;Strategy,1
+2018,Action;Casual;Indie;RPG;Strategy;Early Access,2
+2018,Action;Casual;Indie;Racing,11
+2018,Action;Casual;Indie;Racing;Early Access,2
+2018,Action;Casual;Indie;Racing;RPG;Simulation;Sports;Early Access,1
+2018,Action;Casual;Indie;Racing;Simulation,4
+2018,Action;Casual;Indie;Racing;Simulation;Sports,3
+2018,Action;Casual;Indie;Racing;Simulation;Sports;Strategy,1
+2018,Action;Casual;Indie;Racing;Simulation;Sports;Strategy;Early Access,1
+2018,Action;Casual;Indie;Racing;Simulation;Strategy,1
+2018,Action;Casual;Indie;Racing;Sports,6
+2018,Action;Casual;Indie;Racing;Sports;Early Access,1
+2018,Action;Casual;Indie;Racing;Sports;Strategy;Early Access,1
+2018,Action;Casual;Indie;Simulation,29
+2018,Action;Casual;Indie;Simulation;Early Access,3
+2018,Action;Casual;Indie;Simulation;Sports,5
+2018,Action;Casual;Indie;Simulation;Sports;Early Access,5
+2018,Action;Casual;Indie;Simulation;Strategy,11
+2018,Action;Casual;Indie;Simulation;Strategy;Early Access,3
+2018,Action;Casual;Indie;Sports,25
+2018,Action;Casual;Indie;Sports;Early Access,5
+2018,Action;Casual;Indie;Sports;Strategy,1
+2018,Action;Casual;Indie;Strategy,31
+2018,Action;Casual;Indie;Strategy;Early Access,7
+2018,Action;Casual;Massively Multiplayer,2
+2018,Action;Casual;RPG;Sports,1
+2018,Action;Casual;Racing,1
+2018,Action;Casual;Racing;Simulation;Sports,2
+2018,Action;Casual;Racing;Sports,1
+2018,Action;Casual;Simulation,13
+2018,Action;Casual;Simulation;Early Access,1
+2018,Action;Casual;Simulation;Sports,2
+2018,Action;Casual;Simulation;Sports;Strategy,1
+2018,Action;Casual;Simulation;Strategy,7
+2018,Action;Casual;Simulation;Strategy;Early Access,1
+2018,Action;Casual;Sports,1
+2018,Action;Casual;Sports;Strategy,1
+2018,Action;Casual;Strategy,3
+2018,Action;Early Access,22
+2018,Action;Free to Play,7
+2018,Action;Free to Play;Early Access,4
+2018,Action;Free to Play;Indie,35
+2018,Action;Free to Play;Indie;Early Access,14
+2018,Action;Free to Play;Indie;Massively Multiplayer,3
+2018,Action;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,1
+2018,Action;Free to Play;Indie;Massively Multiplayer;Racing;Sports;Strategy,1
+2018,Action;Free to Play;Indie;Massively Multiplayer;Strategy,1
+2018,Action;Free to Play;Indie;RPG,1
+2018,Action;Free to Play;Indie;RPG;Early Access,1
+2018,Action;Free to Play;Indie;RPG;Strategy,1
+2018,Action;Free to Play;Indie;RPG;Strategy;Early Access,1
+2018,Action;Free to Play;Indie;Racing;Strategy,1
+2018,Action;Free to Play;Indie;Simulation;Sports,1
+2018,Action;Free to Play;Indie;Simulation;Strategy,2
+2018,Action;Free to Play;Indie;Sports;Early Access,1
+2018,Action;Free to Play;Indie;Strategy,1
+2018,Action;Free to Play;Indie;Strategy;Early Access,3
+2018,Action;Free to Play;Massively Multiplayer,6
+2018,Action;Free to Play;Massively Multiplayer;Early Access,3
+2018,Action;Free to Play;Massively Multiplayer;RPG,4
+2018,Action;Free to Play;Massively Multiplayer;RPG;Strategy,1
+2018,Action;Free to Play;Massively Multiplayer;Racing;Sports;Strategy,1
+2018,Action;Free to Play;Massively Multiplayer;Simulation,1
+2018,Action;Free to Play;Massively Multiplayer;Simulation;Early Access,1
+2018,Action;Free to Play;Massively Multiplayer;Simulation;Sports,1
+2018,Action;Free to Play;Massively Multiplayer;Simulation;Strategy,1
+2018,Action;Free to Play;Massively Multiplayer;Strategy,1
+2018,Action;Free to Play;RPG,1
+2018,Action;Free to Play;Simulation;Sports,1
+2018,Action;Free to Play;Simulation;Sports;Early Access,1
+2018,Action;Free to Play;Sports;Early Access,1
+2018,Action;Free to Play;Strategy,1
+2018,Action;Indie,479
+2018,Action;Indie;Early Access,100
+2018,Action;Indie;Massively Multiplayer,5
+2018,Action;Indie;Massively Multiplayer;Early Access,7
+2018,Action;Indie;Massively Multiplayer;RPG,1
+2018,Action;Indie;Massively Multiplayer;RPG;Early Access,2
+2018,Action;Indie;Massively Multiplayer;Racing,1
+2018,Action;Indie;Massively Multiplayer;Simulation,1
+2018,Action;Indie;Massively Multiplayer;Simulation;Early Access,1
+2018,Action;Indie;Massively Multiplayer;Simulation;Strategy,1
+2018,Action;Indie;Massively Multiplayer;Simulation;Strategy;Early Access,1
+2018,Action;Indie;Massively Multiplayer;Strategy,2
+2018,Action;Indie;Massively Multiplayer;Strategy;Early Access,2
+2018,Action;Indie;RPG,45
+2018,Action;Indie;RPG;Early Access,20
+2018,Action;Indie;RPG;Simulation,1
+2018,Action;Indie;RPG;Simulation;Early Access,2
+2018,Action;Indie;RPG;Simulation;Sports;Early Access,1
+2018,Action;Indie;RPG;Simulation;Strategy,2
+2018,Action;Indie;RPG;Strategy,11
+2018,Action;Indie;RPG;Strategy;Early Access,1
+2018,Action;Indie;Racing,15
+2018,Action;Indie;Racing;Early Access,7
+2018,Action;Indie;Racing;RPG;Simulation,1
+2018,Action;Indie;Racing;Simulation,3
+2018,Action;Indie;Racing;Simulation;Sports,7
+2018,Action;Indie;Racing;Simulation;Sports;Early Access,3
+2018,Action;Indie;Racing;Sports,10
+2018,Action;Indie;Racing;Sports;Early Access,2
+2018,Action;Indie;Simulation,38
+2018,Action;Indie;Simulation;Early Access,9
+2018,Action;Indie;Simulation;Sports,13
+2018,Action;Indie;Simulation;Sports;Early Access,3
+2018,Action;Indie;Simulation;Sports;Strategy,2
+2018,Action;Indie;Simulation;Strategy,8
+2018,Action;Indie;Simulation;Strategy;Early Access,3
+2018,Action;Indie;Sports,18
+2018,Action;Indie;Sports;Early Access,1
+2018,Action;Indie;Sports;Strategy;Early Access,1
+2018,Action;Indie;Strategy,51
+2018,Action;Indie;Strategy;Early Access,15
+2018,Action;Massively Multiplayer,3
+2018,Action;Massively Multiplayer;Early Access,3
+2018,Action;Massively Multiplayer;RPG,1
+2018,Action;Massively Multiplayer;RPG;Early Access,1
+2018,Action;Massively Multiplayer;Racing,1
+2018,Action;Massively Multiplayer;Racing;Simulation,1
+2018,Action;Massively Multiplayer;Simulation,2
+2018,Action;Massively Multiplayer;Simulation;Early Access,1
+2018,Action;Massively Multiplayer;Strategy,1
+2018,Action;RPG,19
+2018,Action;RPG;Early Access,2
+2018,Action;RPG;Simulation;Early Access,1
+2018,Action;RPG;Sports;Early Access,1
+2018,Action;RPG;Strategy,5
+2018,Action;RPG;Strategy;Early Access,1
+2018,Action;Racing,12
+2018,Action;Racing;Simulation,4
+2018,Action;Racing;Simulation;Sports,3
+2018,Action;Racing;Sports;Early Access,1
+2018,Action;Simulation,12
+2018,Action;Simulation;Early Access,3
+2018,Action;Simulation;Sports,3
+2018,Action;Simulation;Strategy,5
+2018,Action;Simulation;Strategy;Early Access,1
+2018,Action;Sports,2
+2018,Action;Sports;Strategy,1
+2018,Action;Strategy,10
+2018,Action;Strategy;Early Access,3
+2018,Adventure,94
+2018,Adventure;Casual,104
+2018,Adventure;Casual;Free to Play,3
+2018,Adventure;Casual;Free to Play;Early Access,1
+2018,Adventure;Casual;Free to Play;Indie,17
+2018,Adventure;Casual;Free to Play;Indie;Massively Multiplayer;RPG;Strategy,1
+2018,Adventure;Casual;Free to Play;Indie;RPG,2
+2018,Adventure;Casual;Free to Play;Indie;RPG;Simulation,2
+2018,Adventure;Casual;Free to Play;Indie;RPG;Simulation;Strategy,3
+2018,Adventure;Casual;Free to Play;Indie;RPG;Strategy,1
+2018,Adventure;Casual;Free to Play;Indie;Simulation,1
+2018,Adventure;Casual;Free to Play;Indie;Simulation;Sports;Strategy,1
+2018,Adventure;Casual;Free to Play;Indie;Strategy,3
+2018,Adventure;Casual;Free to Play;Indie;Strategy;Early Access,1
+2018,Adventure;Casual;Free to Play;Massively Multiplayer;RPG;Simulation;Sports;Early Access,1
+2018,Adventure;Casual;Free to Play;RPG,1
+2018,Adventure;Casual;Free to Play;Simulation,2
+2018,Adventure;Casual;Free to Play;Sports,1
+2018,Adventure;Casual;Free to Play;Strategy,1
+2018,Adventure;Casual;Indie,263
+2018,Adventure;Casual;Indie;Animation & Modeling;Education;Video Production,1
+2018,Adventure;Casual;Indie;Early Access,10
+2018,Adventure;Casual;Indie;Massively Multiplayer,1
+2018,Adventure;Casual;Indie;Massively Multiplayer;RPG;Simulation;Sports;Strategy,1
+2018,Adventure;Casual;Indie;Massively Multiplayer;RPG;Strategy,1
+2018,Adventure;Casual;Indie;Massively Multiplayer;Simulation,2
+2018,Adventure;Casual;Indie;Massively Multiplayer;Strategy;Early Access,1
+2018,Adventure;Casual;Indie;RPG,59
+2018,Adventure;Casual;Indie;RPG;Early Access,3
+2018,Adventure;Casual;Indie;RPG;Simulation,6
+2018,Adventure;Casual;Indie;RPG;Simulation;Early Access,3
+2018,Adventure;Casual;Indie;RPG;Simulation;Sports,2
+2018,Adventure;Casual;Indie;RPG;Simulation;Strategy,18
+2018,Adventure;Casual;Indie;RPG;Sports,1
+2018,Adventure;Casual;Indie;RPG;Strategy,20
+2018,Adventure;Casual;Indie;RPG;Strategy;Early Access,3
+2018,Adventure;Casual;Indie;Racing,6
+2018,Adventure;Casual;Indie;Racing;RPG;Simulation;Strategy,1
+2018,Adventure;Casual;Indie;Racing;Simulation;Sports,2
+2018,Adventure;Casual;Indie;Racing;Simulation;Sports;Strategy,1
+2018,Adventure;Casual;Indie;Racing;Strategy,1
+2018,Adventure;Casual;Indie;Simulation,57
+2018,Adventure;Casual;Indie;Simulation;Accounting,1
+2018,Adventure;Casual;Indie;Simulation;Early Access,4
+2018,Adventure;Casual;Indie;Simulation;Sports,6
+2018,Adventure;Casual;Indie;Simulation;Sports;Strategy,4
+2018,Adventure;Casual;Indie;Simulation;Strategy,12
+2018,Adventure;Casual;Indie;Simulation;Strategy;Early Access,2
+2018,Adventure;Casual;Indie;Sports,3
+2018,Adventure;Casual;Indie;Sports;Strategy,2
+2018,Adventure;Casual;Indie;Strategy,21
+2018,Adventure;Casual;Indie;Strategy;Early Access,4
+2018,Adventure;Casual;Massively Multiplayer;Simulation,1
+2018,Adventure;Casual;RPG,6
+2018,Adventure;Casual;RPG;Simulation,2
+2018,Adventure;Casual;RPG;Simulation;Strategy,2
+2018,Adventure;Casual;RPG;Strategy,3
+2018,Adventure;Casual;Simulation,14
+2018,Adventure;Casual;Simulation;Strategy,4
+2018,Adventure;Casual;Strategy,5
+2018,Adventure;Casual;Strategy;Early Access,1
+2018,Adventure;Early Access,5
+2018,Adventure;Free to Play,11
+2018,Adventure;Free to Play;Indie,16
+2018,Adventure;Free to Play;Indie;Early Access,1
+2018,Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Strategy,1
+2018,Adventure;Free to Play;Indie;RPG,6
+2018,Adventure;Free to Play;Indie;RPG;Early Access,2
+2018,Adventure;Free to Play;Indie;RPG;Strategy,2
+2018,Adventure;Free to Play;Indie;Simulation,1
+2018,Adventure;Free to Play;Massively Multiplayer,1
+2018,Adventure;Free to Play;Massively Multiplayer;RPG;Simulation;Early Access,1
+2018,Adventure;Free to Play;Massively Multiplayer;RPG;Strategy,1
+2018,Adventure;Free to Play;Massively Multiplayer;Simulation;Early Access,1
+2018,Adventure;Free to Play;RPG;Strategy,1
+2018,Adventure;Free to Play;Simulation,2
+2018,Adventure;Free to Play;Sports,1
+2018,Adventure;Indie,299
+2018,Adventure;Indie;Early Access,21
+2018,Adventure;Indie;Massively Multiplayer,1
+2018,Adventure;Indie;Massively Multiplayer;RPG,1
+2018,Adventure;Indie;Massively Multiplayer;RPG;Early Access,1
+2018,Adventure;Indie;Massively Multiplayer;RPG;Simulation;Strategy;Early Access,1
+2018,Adventure;Indie;Massively Multiplayer;RPG;Strategy,1
+2018,Adventure;Indie;Massively Multiplayer;Simulation;Early Access,1
+2018,Adventure;Indie;RPG,155
+2018,Adventure;Indie;RPG;Early Access,9
+2018,Adventure;Indie;RPG;Simulation,7
+2018,Adventure;Indie;RPG;Simulation;Early Access,5
+2018,Adventure;Indie;RPG;Simulation;Strategy,9
+2018,Adventure;Indie;RPG;Simulation;Strategy;Early Access,1
+2018,Adventure;Indie;RPG;Strategy,23
+2018,Adventure;Indie;RPG;Strategy;Early Access,4
+2018,Adventure;Indie;Racing;Early Access,1
+2018,Adventure;Indie;Racing;RPG;Simulation;Early Access,1
+2018,Adventure;Indie;Simulation,51
+2018,Adventure;Indie;Simulation;Early Access,3
+2018,Adventure;Indie;Simulation;Sports,1
+2018,Adventure;Indie;Simulation;Strategy,8
+2018,Adventure;Indie;Simulation;Strategy;Early Access,3
+2018,Adventure;Indie;Sports,1
+2018,Adventure;Indie;Strategy,20
+2018,Adventure;Indie;Strategy;Early Access,6
+2018,Adventure;Massively Multiplayer;RPG,1
+2018,Adventure;Massively Multiplayer;RPG;Simulation;Early Access,1
+2018,Adventure;Massively Multiplayer;Strategy;Early Access,1
+2018,Adventure;RPG,18
+2018,Adventure;RPG;Early Access,1
+2018,Adventure;RPG;Simulation,2
+2018,Adventure;RPG;Simulation;Strategy,1
+2018,Adventure;RPG;Strategy,6
+2018,Adventure;Racing,1
+2018,Adventure;Racing;Simulation;Sports,1
+2018,Adventure;Racing;Sports,1
+2018,Adventure;Simulation,7
+2018,Adventure;Simulation;Early Access,2
+2018,Adventure;Simulation;Sports,2
+2018,Adventure;Simulation;Strategy,3
+2018,Adventure;Strategy,4
+2018,Animation & Modeling;Audio Production;Utilities,1
+2018,Animation & Modeling;Design & Illustration,1
+2018,Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Game Development,1
+2018,Animation & Modeling;Design & Illustration;Education;Video Production;Game Development;Early Access,1
+2018,Animation & Modeling;Design & Illustration;Game Development,1
+2018,Animation & Modeling;Design & Illustration;Game Development;Early Access,1
+2018,Animation & Modeling;Design & Illustration;Utilities,3
+2018,Animation & Modeling;Design & Illustration;Utilities;Early Access,2
+2018,Animation & Modeling;Software Training;Utilities;Early Access,1
+2018,Animation & Modeling;Utilities,2
+2018,Animation & Modeling;Utilities;Early Access,1
+2018,Animation & Modeling;Utilities;Video Production,1
+2018,Audio Production;Design & Illustration;Utilities;Video Production;Web Publishing,1
+2018,Audio Production;Utilities,3
+2018,Casual,153
+2018,Casual;Early Access,7
+2018,Casual;Free to Play,11
+2018,Casual;Free to Play;Early Access,1
+2018,Casual;Free to Play;Indie,37
+2018,Casual;Free to Play;Indie;Accounting;Animation & Modeling;Audio Production;Design & Illustration;Education;Photo Editing;Software Training;Utilities;Video Production;Web Publishing,1
+2018,Casual;Free to Play;Indie;Early Access,3
+2018,Casual;Free to Play;Indie;Massively Multiplayer;RPG;Simulation,1
+2018,Casual;Free to Play;Indie;Massively Multiplayer;RPG;Strategy,1
+2018,Casual;Free to Play;Indie;Massively Multiplayer;Simulation,1
+2018,Casual;Free to Play;Indie;Massively Multiplayer;Simulation;Early Access,1
+2018,Casual;Free to Play;Indie;RPG,5
+2018,Casual;Free to Play;Indie;RPG;Simulation,1
+2018,Casual;Free to Play;Indie;RPG;Simulation;Strategy,2
+2018,Casual;Free to Play;Indie;RPG;Strategy;Accounting;Animation & Modeling;Audio Production;Design & Illustration;Education;Photo Editing;Software Training;Utilities;Video Production;Web Publishing;Game Development,1
+2018,Casual;Free to Play;Indie;RPG;Strategy;Early Access,2
+2018,Casual;Free to Play;Indie;Racing;Early Access,1
+2018,Casual;Free to Play;Indie;Racing;Simulation,1
+2018,Casual;Free to Play;Indie;Racing;Sports,1
+2018,Casual;Free to Play;Indie;Simulation,10
+2018,Casual;Free to Play;Indie;Simulation;Early Access,1
+2018,Casual;Free to Play;Indie;Simulation;Sports,1
+2018,Casual;Free to Play;Indie;Simulation;Sports;Early Access,1
+2018,Casual;Free to Play;Indie;Simulation;Strategy,3
+2018,Casual;Free to Play;Indie;Simulation;Strategy;Early Access,1
+2018,Casual;Free to Play;Indie;Sports,1
+2018,Casual;Free to Play;Indie;Sports;Early Access,1
+2018,Casual;Free to Play;Indie;Strategy,8
+2018,Casual;Free to Play;Massively Multiplayer;Early Access,1
+2018,Casual;Free to Play;Massively Multiplayer;Simulation;Sports;Strategy,1
+2018,Casual;Free to Play;Massively Multiplayer;Strategy,1
+2018,Casual;Free to Play;RPG,1
+2018,Casual;Free to Play;RPG;Simulation,1
+2018,Casual;Free to Play;RPG;Simulation;Strategy,1
+2018,Casual;Free to Play;Simulation,12
+2018,Casual;Free to Play;Simulation;Early Access,1
+2018,Casual;Free to Play;Simulation;Strategy,1
+2018,Casual;Free to Play;Strategy,1
+2018,Casual;Free to Play;Strategy;Early Access,1
+2018,Casual;Indie,628
+2018,Casual;Indie;Accounting;Design & Illustration;Software Training;Web Publishing;Documentary;Tutorial,1
+2018,Casual;Indie;Early Access,22
+2018,Casual;Indie;Education,1
+2018,Casual;Indie;Massively Multiplayer,1
+2018,Casual;Indie;Massively Multiplayer;Early Access,1
+2018,Casual;Indie;Massively Multiplayer;Racing,1
+2018,Casual;Indie;Massively Multiplayer;Simulation;Sports;Early Access,1
+2018,Casual;Indie;Massively Multiplayer;Simulation;Strategy,1
+2018,Casual;Indie;Massively Multiplayer;Sports;Strategy,1
+2018,Casual;Indie;Massively Multiplayer;Strategy,2
+2018,Casual;Indie;Massively Multiplayer;Strategy;Early Access,1
+2018,Casual;Indie;RPG,26
+2018,Casual;Indie;RPG;Early Access,1
+2018,Casual;Indie;RPG;Simulation,13
+2018,Casual;Indie;RPG;Simulation;Early Access,1
+2018,Casual;Indie;RPG;Simulation;Strategy,12
+2018,Casual;Indie;RPG;Simulation;Strategy;Early Access,2
+2018,Casual;Indie;RPG;Strategy,5
+2018,Casual;Indie;RPG;Strategy;Early Access,3
+2018,Casual;Indie;Racing,26
+2018,Casual;Indie;Racing;Early Access,1
+2018,Casual;Indie;Racing;RPG;Simulation;Sports,1
+2018,Casual;Indie;Racing;Simulation,5
+2018,Casual;Indie;Racing;Simulation;Early Access,1
+2018,Casual;Indie;Racing;Simulation;Sports,3
+2018,Casual;Indie;Racing;Simulation;Sports;Early Access,2
+2018,Casual;Indie;Racing;Sports,6
+2018,Casual;Indie;Racing;Sports;Early Access,2
+2018,Casual;Indie;Racing;Strategy;Early Access,1
+2018,Casual;Indie;Simulation,155
+2018,Casual;Indie;Simulation;Animation & Modeling;Design & Illustration,1
+2018,Casual;Indie;Simulation;Audio Production,1
+2018,Casual;Indie;Simulation;Early Access,21
+2018,Casual;Indie;Simulation;Education,1
+2018,Casual;Indie;Simulation;Sports,9
+2018,Casual;Indie;Simulation;Sports;Early Access,8
+2018,Casual;Indie;Simulation;Sports;Strategy,5
+2018,Casual;Indie;Simulation;Strategy,75
+2018,Casual;Indie;Simulation;Strategy;Early Access,9
+2018,Casual;Indie;Sports,16
+2018,Casual;Indie;Sports;Early Access,6
+2018,Casual;Indie;Sports;Strategy,2
+2018,Casual;Indie;Sports;Strategy;Early Access,2
+2018,Casual;Indie;Strategy,158
+2018,Casual;Indie;Strategy;Early Access,7
+2018,Casual;Massively Multiplayer;Early Access,1
+2018,Casual;Massively Multiplayer;Simulation,1
+2018,Casual;Massively Multiplayer;Simulation;Strategy,1
+2018,Casual;RPG,3
+2018,Casual;RPG;Early Access,2
+2018,Casual;RPG;Simulation,4
+2018,Casual;RPG;Simulation;Strategy,2
+2018,Casual;Racing,3
+2018,Casual;Racing;Early Access,1
+2018,Casual;Racing;Simulation,2
+2018,Casual;Racing;Simulation;Sports,2
+2018,Casual;Simulation,33
+2018,Casual;Simulation;Animation & Modeling;Design & Illustration;Utilities,1
+2018,Casual;Simulation;Early Access,4
+2018,Casual;Simulation;Sports,9
+2018,Casual;Simulation;Sports;Strategy,1
+2018,Casual;Simulation;Strategy,11
+2018,Casual;Sports,4
+2018,Casual;Strategy,22
+2018,Casual;Strategy;Early Access,2
+2018,Design & Illustration,1
+2018,Design & Illustration;Education;Utilities;Early Access,1
+2018,Design & Illustration;Utilities;Game Development,1
+2018,Early Access,2
+2018,Education,1
+2018,Education;Software Training;Utilities,1
+2018,Free to Play,12
+2018,Free to Play;Early Access,1
+2018,Free to Play;Indie,15
+2018,Free to Play;Indie;Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Web Publishing;Early Access,1
+2018,Free to Play;Indie;Early Access,2
+2018,Free to Play;Indie;Massively Multiplayer,1
+2018,Free to Play;Indie;Massively Multiplayer;Early Access,1
+2018,Free to Play;Indie;Massively Multiplayer;RPG,1
+2018,Free to Play;Indie;Massively Multiplayer;RPG;Simulation;Strategy;Early Access,1
+2018,Free to Play;Indie;Massively Multiplayer;RPG;Strategy,3
+2018,Free to Play;Indie;Massively Multiplayer;Strategy,3
+2018,Free to Play;Indie;Massively Multiplayer;Strategy;Early Access,1
+2018,Free to Play;Indie;RPG,7
+2018,Free to Play;Indie;RPG;Strategy,2
+2018,Free to Play;Indie;Racing,2
+2018,Free to Play;Indie;Racing;Simulation,2
+2018,Free to Play;Indie;Simulation,4
+2018,Free to Play;Indie;Simulation;Early Access,2
+2018,Free to Play;Indie;Simulation;Strategy,3
+2018,Free to Play;Indie;Simulation;Strategy;Early Access,1
+2018,Free to Play;Indie;Sports;Early Access,1
+2018,Free to Play;Indie;Strategy,8
+2018,Free to Play;Indie;Strategy;Early Access,2
+2018,Free to Play;Massively Multiplayer,2
+2018,Free to Play;Massively Multiplayer;Early Access,1
+2018,Free to Play;Massively Multiplayer;RPG,5
+2018,Free to Play;Massively Multiplayer;RPG;Strategy,3
+2018,Free to Play;Massively Multiplayer;RPG;Strategy;Early Access,1
+2018,Free to Play;Massively Multiplayer;Strategy,3
+2018,Free to Play;Massively Multiplayer;Strategy;Early Access,3
+2018,Free to Play;RPG,1
+2018,Free to Play;RPG;Strategy,2
+2018,Free to Play;RPG;Strategy;Early Access,1
+2018,Free to Play;Simulation,5
+2018,Free to Play;Simulation;Animation & Modeling;Design & Illustration;Game Development,1
+2018,Free to Play;Simulation;Early Access,1
+2018,Free to Play;Simulation;Sports,1
+2018,Free to Play;Sports;Strategy,1
+2018,Free to Play;Strategy,10
+2018,Free to Play;Strategy;Early Access,1
+2018,Gore,1
+2018,Gore;Action;Adventure;Indie,3
+2018,Gore;Action;Adventure;Indie;Early Access,1
+2018,Gore;Action;Adventure;Indie;RPG;Simulation;Early Access,1
+2018,Gore;Action;Adventure;RPG;Early Access,1
+2018,Gore;Action;Adventure;Simulation;Strategy,1
+2018,Gore;Action;Casual;Indie,3
+2018,Gore;Action;Casual;Indie;Strategy,1
+2018,Gore;Action;Early Access,1
+2018,Gore;Action;Indie,5
+2018,Gore;Action;Indie;RPG,1
+2018,Gore;Action;Indie;Strategy,1
+2018,Gore;Adventure,2
+2018,Gore;Adventure;Casual;Indie;Simulation,1
+2018,Gore;Adventure;Indie,4
+2018,Gore;Adventure;Indie;RPG,1
+2018,Gore;Adventure;Simulation,1
+2018,Gore;Casual;Indie;Simulation,1
+2018,Gore;Indie;Early Access,1
+2018,Gore;Indie;Simulation;Strategy,1
+2018,Gore;Simulation;Strategy,1
+2018,Indie,248
+2018,Indie;Animation & Modeling,1
+2018,Indie;Audio Production;Utilities,1
+2018,Indie;Early Access,21
+2018,Indie;Massively Multiplayer,1
+2018,Indie;Massively Multiplayer;RPG;Early Access,1
+2018,Indie;Massively Multiplayer;RPG;Simulation;Strategy;Early Access,1
+2018,Indie;Massively Multiplayer;RPG;Strategy,3
+2018,Indie;Massively Multiplayer;RPG;Strategy;Early Access,1
+2018,Indie;Massively Multiplayer;Simulation,2
+2018,Indie;Massively Multiplayer;Simulation;Strategy;Early Access,2
+2018,Indie;Massively Multiplayer;Strategy,1
+2018,Indie;RPG,44
+2018,Indie;RPG;Early Access,5
+2018,Indie;RPG;Simulation,8
+2018,Indie;RPG;Simulation;Early Access,5
+2018,Indie;RPG;Simulation;Strategy,9
+2018,Indie;RPG;Simulation;Strategy;Early Access,3
+2018,Indie;RPG;Sports;Strategy,1
+2018,Indie;RPG;Strategy,27
+2018,Indie;RPG;Strategy;Early Access,6
+2018,Indie;Racing,15
+2018,Indie;Racing;Early Access,5
+2018,Indie;Racing;Simulation,4
+2018,Indie;Racing;Simulation;Early Access,2
+2018,Indie;Racing;Simulation;Sports,8
+2018,Indie;Racing;Simulation;Sports;Early Access,2
+2018,Indie;Racing;Sports,3
+2018,Indie;Simulation,73
+2018,Indie;Simulation;Animation & Modeling;Video Production;Early Access,1
+2018,Indie;Simulation;Audio Production;Early Access,1
+2018,Indie;Simulation;Early Access,20
+2018,Indie;Simulation;Education;Early Access,1
+2018,Indie;Simulation;Sports,16
+2018,Indie;Simulation;Sports;Early Access,4
+2018,Indie;Simulation;Sports;Strategy,13
+2018,Indie;Simulation;Sports;Strategy;Early Access,1
+2018,Indie;Simulation;Strategy,56
+2018,Indie;Simulation;Strategy;Early Access,29
+2018,Indie;Sports,7
+2018,Indie;Sports;Early Access,1
+2018,Indie;Sports;Strategy,1
+2018,Indie;Sports;Strategy;Early Access,1
+2018,Indie;Strategy,87
+2018,Indie;Strategy;Early Access,31
+2018,Massively Multiplayer;Racing;Simulation;Sports,2
+2018,Massively Multiplayer;Racing;Strategy,1
+2018,Massively Multiplayer;Strategy,1
+2018,Nudity;Adventure;Casual;Indie,1
+2018,Nudity;Adventure;Casual;Indie;RPG,1
+2018,Nudity;Adventure;Casual;Indie;RPG;Early Access,1
+2018,Nudity;Adventure;Casual;Indie;RPG;Simulation,1
+2018,Nudity;Casual;Indie,2
+2018,Nudity;Casual;Indie;Sports,1
+2018,Nudity;Casual;Indie;Strategy,1
+2018,Nudity;Free to Play;Indie;Simulation,1
+2018,Nudity;Gore;Adventure;Casual;Indie,1
+2018,Nudity;Simulation,1
+2018,Nudity;Violent;Adventure;Indie,1
+2018,Nudity;Violent;Adventure;Indie;RPG,2
+2018,Nudity;Violent;Casual;Indie;Simulation,1
+2018,Nudity;Violent;Gore;Action,1
+2018,Nudity;Violent;Gore;Action;Adventure,1
+2018,Nudity;Violent;Gore;Action;Adventure;Indie,2
+2018,Nudity;Violent;Gore;Action;Adventure;Indie;Massively Multiplayer;Racing;RPG;Simulation;Early Access,1
+2018,Nudity;Violent;Gore;Action;Adventure;Indie;RPG,1
+2018,Nudity;Violent;Gore;Action;Adventure;Indie;RPG;Simulation,1
+2018,Nudity;Violent;Gore;Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access,1
+2018,Nudity;Violent;Gore;Action;Indie;Simulation,2
+2018,Nudity;Violent;Gore;Casual;Indie,1
+2018,Nudity;Violent;Indie,1
+2018,RPG,61
+2018,RPG;Early Access,4
+2018,RPG;Simulation,3
+2018,RPG;Simulation;Sports,1
+2018,RPG;Simulation;Strategy,1
+2018,RPG;Sports;Strategy,1
+2018,RPG;Strategy,12
+2018,RPG;Strategy;Early Access,1
+2018,Racing,12
+2018,Racing;Early Access,3
+2018,Racing;Simulation,4
+2018,Racing;Simulation;Early Access,1
+2018,Racing;Simulation;Sports,12
+2018,Racing;Simulation;Sports;Early Access,3
+2018,Racing;Simulation;Strategy;Early Access,1
+2018,Racing;Sports,4
+2018,Sexual Content;Action,1
+2018,Sexual Content;Action;Adventure;Casual;Indie;RPG;Early Access,1
+2018,Sexual Content;Action;Adventure;Indie;RPG,1
+2018,Sexual Content;Action;Adventure;Indie;Racing;Simulation;Sports,1
+2018,Sexual Content;Action;Casual;Indie,1
+2018,Sexual Content;Action;Casual;Indie;Simulation;Strategy;Early Access,1
+2018,Sexual Content;Adventure,1
+2018,Sexual Content;Adventure;Casual;Indie,2
+2018,Sexual Content;Adventure;Free to Play;Indie;Simulation,1
+2018,Sexual Content;Adventure;Indie;RPG,1
+2018,Sexual Content;Adventure;Indie;Simulation,1
+2018,Sexual Content;Adventure;RPG;Strategy,1
+2018,Sexual Content;Casual,1
+2018,Sexual Content;Casual;Indie,3
+2018,Sexual Content;Free to Play;Indie,1
+2018,Sexual Content;Free to Play;Indie;Simulation,2
+2018,Sexual Content;Gore;Adventure;Indie,1
+2018,Sexual Content;Gore;RPG;Simulation;Strategy,1
+2018,Sexual Content;Indie;RPG,1
+2018,Sexual Content;Nudity,1
+2018,Sexual Content;Nudity;Action;Adventure;Indie;RPG,2
+2018,Sexual Content;Nudity;Action;Adventure;RPG,1
+2018,Sexual Content;Nudity;Action;Casual;Indie;Simulation,1
+2018,Sexual Content;Nudity;Action;Indie;RPG,1
+2018,Sexual Content;Nudity;Adventure,1
+2018,Sexual Content;Nudity;Adventure;Casual,1
+2018,Sexual Content;Nudity;Adventure;Casual;Indie,1
+2018,Sexual Content;Nudity;Adventure;Casual;Indie;RPG,1
+2018,Sexual Content;Nudity;Adventure;Casual;Indie;RPG;Strategy,1
+2018,Sexual Content;Nudity;Adventure;Casual;Indie;Simulation,2
+2018,Sexual Content;Nudity;Adventure;Free to Play;Indie;RPG,1
+2018,Sexual Content;Nudity;Adventure;Indie,2
+2018,Sexual Content;Nudity;Adventure;Simulation,1
+2018,Sexual Content;Nudity;Casual,2
+2018,Sexual Content;Nudity;Casual;Free to Play;Indie,2
+2018,Sexual Content;Nudity;Casual;Indie,7
+2018,Sexual Content;Nudity;Casual;Indie;RPG,2
+2018,Sexual Content;Nudity;Casual;Indie;Simulation,4
+2018,Sexual Content;Nudity;Casual;Indie;Simulation;Strategy,1
+2018,Sexual Content;Nudity;Casual;Indie;Strategy,1
+2018,Sexual Content;Nudity;Gore;Casual;Indie,1
+2018,Sexual Content;Nudity;Indie,1
+2018,Sexual Content;Nudity;RPG,1
+2018,Sexual Content;Nudity;Violent;Action;Adventure;Indie,2
+2018,Sexual Content;Nudity;Violent;Action;Casual;Indie,1
+2018,Sexual Content;Nudity;Violent;Casual;Indie;RPG,1
+2018,Sexual Content;Nudity;Violent;Gore;Action;Adventure;Casual;Indie;RPG,1
+2018,Sexual Content;Nudity;Violent;Gore;Action;Adventure;Casual;Indie;Simulation;Strategy,1
+2018,Sexual Content;Nudity;Violent;Gore;Action;Adventure;Indie,1
+2018,Sexual Content;Nudity;Violent;Gore;Action;Adventure;Indie;Early Access,1
+2018,Sexual Content;Nudity;Violent;Gore;Action;Adventure;Indie;RPG,1
+2018,Sexual Content;Nudity;Violent;Gore;Adventure;Casual,1
+2018,Sexual Content;Nudity;Violent;Gore;Adventure;Indie,1
+2018,Sexual Content;Nudity;Violent;Gore;Adventure;Indie;RPG,1
+2018,Sexual Content;Nudity;Violent;Gore;Adventure;Indie;Simulation;Strategy,1
+2018,Sexual Content;Nudity;Violent;Gore;Free to Play;RPG,1
+2018,Sexual Content;Nudity;Violent;Gore;RPG,1
+2018,Sexual Content;Nudity;Violent;Indie;Simulation;Strategy,1
+2018,Sexual Content;RPG,1
+2018,Sexual Content;Violent;Action,1
+2018,Sexual Content;Violent;Action;Adventure;Indie,1
+2018,Sexual Content;Violent;Action;Indie;Early Access,1
+2018,Sexual Content;Violent;Adventure;Casual,1
+2018,Sexual Content;Violent;Adventure;Casual;Indie;RPG;Simulation,1
+2018,Sexual Content;Violent;Adventure;Free to Play;Indie,1
+2018,Sexual Content;Violent;Casual;Free to Play;Indie,1
+2018,Sexual Content;Violent;Casual;Indie,1
+2018,Sexual Content;Violent;Gore;Adventure;Indie;RPG;Early Access,1
+2018,Sexual Content;Violent;Gore;Adventure;Indie;Simulation,1
+2018,Sexual Content;Violent;Gore;Casual,1
+2018,Sexual Content;Violent;Gore;Indie,1
+2018,Sexual Content;Violent;Gore;Simulation,1
+2018,Sexual Content;Violent;Indie,1
+2018,Simulation,76
+2018,Simulation;Early Access,16
+2018,Simulation;Education,1
+2018,Simulation;Education;Software Training,1
+2018,Simulation;Sports,15
+2018,Simulation;Sports;Early Access,2
+2018,Simulation;Sports;Strategy;Early Access,1
+2018,Simulation;Strategy,31
+2018,Simulation;Strategy;Early Access,5
+2018,Simulation;Utilities,1
+2018,Sports,18
+2018,Sports;Early Access,2
+2018,Sports;Strategy,1
+2018,Sports;Strategy;Early Access,1
+2018,Strategy,57
+2018,Strategy;Early Access,10
+2018,Utilities,15
+2018,Utilities;Early Access,3
+2018,Utilities;Video Production,1
+2018,Utilities;Video Production;Web Publishing;Early Access,1
+2018,Video Production,3
+2018,Violent,1
+2018,Violent;Action,4
+2018,Violent;Action;Adventure,4
+2018,Violent;Action;Adventure;Casual;Indie;Early Access,1
+2018,Violent;Action;Adventure;Casual;Indie;RPG,1
+2018,Violent;Action;Adventure;Casual;Indie;RPG;Simulation;Early Access,1
+2018,Violent;Action;Adventure;Casual;Indie;RPG;Strategy,1
+2018,Violent;Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Strategy,1
+2018,Violent;Action;Adventure;Indie,9
+2018,Violent;Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Strategy,1
+2018,Violent;Action;Adventure;Indie;RPG;Simulation;Sports,1
+2018,Violent;Action;Adventure;Indie;Simulation;Strategy,1
+2018,Violent;Action;Adventure;Indie;Simulation;Strategy;Early Access,1
+2018,Violent;Action;Adventure;Indie;Strategy,2
+2018,Violent;Action;Adventure;Strategy,1
+2018,Violent;Action;Casual,5
+2018,Violent;Action;Casual;Indie,6
+2018,Violent;Action;Casual;Indie;Early Access,5
+2018,Violent;Action;Casual;Indie;Simulation,7
+2018,Violent;Action;Casual;Indie;Sports,1
+2018,Violent;Action;Casual;Indie;Strategy;Early Access,1
+2018,Violent;Action;Casual;Simulation,1
+2018,Violent;Action;Early Access,2
+2018,Violent;Action;Free to Play;Indie,1
+2018,Violent;Action;Free to Play;Massively Multiplayer;Strategy,1
+2018,Violent;Action;Indie,13
+2018,Violent;Action;Indie;Early Access,6
+2018,Violent;Action;Indie;Massively Multiplayer,1
+2018,Violent;Action;Indie;Massively Multiplayer;RPG;Strategy;Early Access,1
+2018,Violent;Action;Indie;RPG,1
+2018,Violent;Action;Indie;RPG;Strategy,1
+2018,Violent;Action;Indie;Simulation,4
+2018,Violent;Action;Indie;Simulation;Early Access,1
+2018,Violent;Action;Simulation,1
+2018,Violent;Action;Strategy,1
+2018,Violent;Adventure,2
+2018,Violent;Adventure;Casual,1
+2018,Violent;Adventure;Casual;Free to Play;Indie;Simulation,1
+2018,Violent;Adventure;Casual;Indie,3
+2018,Violent;Adventure;Casual;Indie;RPG;Simulation,2
+2018,Violent;Adventure;Casual;Indie;Strategy;Early Access,1
+2018,Violent;Adventure;Casual;Simulation,2
+2018,Violent;Adventure;Free to Play;Massively Multiplayer;RPG;Strategy,1
+2018,Violent;Adventure;Indie,5
+2018,Violent;Adventure;Indie;Early Access,1
+2018,Violent;Adventure;Indie;RPG;Strategy,1
+2018,Violent;Casual;Indie;Strategy,1
+2018,Violent;Free to Play;Indie;Strategy,1
+2018,Violent;Gore;Action,8
+2018,Violent;Gore;Action;Adventure,4
+2018,Violent;Gore;Action;Adventure;Casual,1
+2018,Violent;Gore;Action;Adventure;Casual;Early Access,1
+2018,Violent;Gore;Action;Adventure;Casual;Indie,7
+2018,Violent;Gore;Action;Adventure;Casual;Indie;Massively Multiplayer;RPG;Strategy;Early Access,1
+2018,Violent;Gore;Action;Adventure;Casual;Indie;RPG;Early Access,1
+2018,Violent;Gore;Action;Adventure;Casual;Indie;Racing,1
+2018,Violent;Gore;Action;Adventure;Casual;Indie;Racing;Simulation;Sports,1
+2018,Violent;Gore;Action;Adventure;Casual;Indie;Simulation,1
+2018,Violent;Gore;Action;Adventure;Casual;Indie;Strategy,1
+2018,Violent;Gore;Action;Adventure;Casual;Sports,1
+2018,Violent;Gore;Action;Adventure;Free to Play,1
+2018,Violent;Gore;Action;Adventure;Free to Play;Indie,1
+2018,Violent;Gore;Action;Adventure;Indie,14
+2018,Violent;Gore;Action;Adventure;Indie;Early Access,2
+2018,Violent;Gore;Action;Adventure;Indie;Massively Multiplayer,1
+2018,Violent;Gore;Action;Adventure;Indie;RPG,4
+2018,Violent;Gore;Action;Adventure;Indie;RPG;Early Access,1
+2018,Violent;Gore;Action;Adventure;Indie;Racing,1
+2018,Violent;Gore;Action;Adventure;Indie;Racing;RPG;Simulation;Strategy,1
+2018,Violent;Gore;Action;Adventure;Indie;Simulation,4
+2018,Violent;Gore;Action;Adventure;Indie;Simulation;Early Access,2
+2018,Violent;Gore;Action;Adventure;Indie;Strategy,2
+2018,Violent;Gore;Action;Adventure;Indie;Strategy;Early Access,1
+2018,Violent;Gore;Action;Adventure;RPG,1
+2018,Violent;Gore;Action;Adventure;RPG;Simulation;Strategy;Early Access,1
+2018,Violent;Gore;Action;Adventure;Simulation,1
+2018,Violent;Gore;Action;Casual;Free to Play;Indie;Strategy;Early Access,1
+2018,Violent;Gore;Action;Casual;Indie,5
+2018,Violent;Gore;Action;Casual;Indie;Early Access,2
+2018,Violent;Gore;Action;Casual;Indie;Racing,1
+2018,Violent;Gore;Action;Free to Play;Indie,1
+2018,Violent;Gore;Action;Free to Play;Indie;Early Access,1
+2018,Violent;Gore;Action;Free to Play;Indie;Massively Multiplayer,1
+2018,Violent;Gore;Action;Indie,19
+2018,Violent;Gore;Action;Indie;Early Access,6
+2018,Violent;Gore;Action;Indie;Massively Multiplayer;RPG;Simulation;Strategy,1
+2018,Violent;Gore;Action;Indie;RPG,1
+2018,Violent;Gore;Action;Indie;RPG;Simulation;Strategy,1
+2018,Violent;Gore;Action;Indie;RPG;Strategy,2
+2018,Violent;Gore;Action;Indie;RPG;Strategy;Early Access,1
+2018,Violent;Gore;Action;Indie;Racing,2
+2018,Violent;Gore;Action;Indie;Simulation,2
+2018,Violent;Gore;Action;Indie;Simulation;Sports;Early Access,1
+2018,Violent;Gore;Action;Indie;Simulation;Sports;Strategy,1
+2018,Violent;Gore;Action;Indie;Strategy,1
+2018,Violent;Gore;Action;Simulation;Sports,1
+2018,Violent;Gore;Action;Strategy;Early Access,1
+2018,Violent;Gore;Adventure,2
+2018,Violent;Gore;Adventure;Casual;Indie;RPG,1
+2018,Violent;Gore;Adventure;Free to Play;Indie,1
+2018,Violent;Gore;Adventure;Indie,7
+2018,Violent;Gore;Adventure;Indie;Simulation;Strategy,1
+2018,Violent;Gore;Adventure;Indie;Strategy;Early Access,1
+2018,Violent;Gore;Adventure;RPG,1
+2018,Violent;Gore;Casual,1
+2018,Violent;Gore;Casual;Free to Play;Indie;Strategy,1
+2018,Violent;Gore;Casual;Indie,1
+2018,Violent;Gore;Casual;Indie;RPG;Simulation;Early Access,1
+2018,Violent;Gore;Indie,7
+2018,Violent;Gore;Indie;Early Access,1
+2018,Violent;Gore;Indie;Massively Multiplayer;Early Access,1
+2018,Violent;Gore;Indie;Sports,1
+2018,Violent;Indie,3
+2018,Violent;Indie;Early Access,2
+2018,Violent;Indie;RPG,1
+2018,Violent;Indie;Strategy;Early Access,1
+2018,Violent;RPG,1
+2018,Violent;RPG;Strategy,1
+2018,Violent;Simulation;Early Access,1
+2018,Violent;Strategy,1
+2019,Action,48
+2019,Action;Adventure,16
+2019,Action;Adventure;Casual,5
+2019,Action;Adventure;Casual;Free to Play;Early Access,1
+2019,Action;Adventure;Casual;Free to Play;Indie,1
+2019,Action;Adventure;Casual;Free to Play;Indie;Early Access,2
+2019,Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Racing;RPG;Simulation;Sports;Strategy,2
+2019,Action;Adventure;Casual;Free to Play;Indie;RPG;Simulation;Sports;Strategy,1
+2019,Action;Adventure;Casual;Free to Play;Indie;RPG;Strategy,2
+2019,Action;Adventure;Casual;Free to Play;Indie;Simulation;Strategy,1
+2019,Action;Adventure;Casual;Free to Play;Massively Multiplayer,1
+2019,Action;Adventure;Casual;Free to Play;Massively Multiplayer;Racing;RPG;Simulation,1
+2019,Action;Adventure;Casual;Free to Play;Racing;Simulation;Sports,1
+2019,Action;Adventure;Casual;Indie,30
+2019,Action;Adventure;Casual;Indie;Early Access,10
+2019,Action;Adventure;Casual;Indie;Massively Multiplayer,3
+2019,Action;Adventure;Casual;Indie;Massively Multiplayer;RPG;Simulation;Strategy;Early Access,1
+2019,Action;Adventure;Casual;Indie;Massively Multiplayer;RPG;Strategy;Early Access,1
+2019,Action;Adventure;Casual;Indie;Massively Multiplayer;Simulation,1
+2019,Action;Adventure;Casual;Indie;RPG,9
+2019,Action;Adventure;Casual;Indie;RPG;Early Access,3
+2019,Action;Adventure;Casual;Indie;RPG;Simulation,2
+2019,Action;Adventure;Casual;Indie;RPG;Simulation;Early Access,2
+2019,Action;Adventure;Casual;Indie;RPG;Simulation;Sports;Strategy,2
+2019,Action;Adventure;Casual;Indie;RPG;Simulation;Strategy,1
+2019,Action;Adventure;Casual;Indie;RPG;Strategy,5
+2019,Action;Adventure;Casual;Indie;Racing,1
+2019,Action;Adventure;Casual;Indie;Racing;Early Access,1
+2019,Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Sports,1
+2019,Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Sports;Strategy,2
+2019,Action;Adventure;Casual;Indie;Racing;Simulation,1
+2019,Action;Adventure;Casual;Indie;Racing;Strategy,1
+2019,Action;Adventure;Casual;Indie;Simulation,12
+2019,Action;Adventure;Casual;Indie;Simulation;Early Access,2
+2019,Action;Adventure;Casual;Indie;Simulation;Sports;Early Access,1
+2019,Action;Adventure;Casual;Indie;Simulation;Strategy,3
+2019,Action;Adventure;Casual;Indie;Strategy,8
+2019,Action;Adventure;Casual;Indie;Strategy;Early Access,3
+2019,Action;Adventure;Casual;Massively Multiplayer,1
+2019,Action;Adventure;Casual;RPG,2
+2019,Action;Adventure;Casual;Simulation,2
+2019,Action;Adventure;Early Access,3
+2019,Action;Adventure;Free to Play,2
+2019,Action;Adventure;Free to Play;Indie,7
+2019,Action;Adventure;Free to Play;Indie;Early Access,2
+2019,Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG,1
+2019,Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,1
+2019,Action;Adventure;Free to Play;Indie;Massively Multiplayer;Strategy;Early Access,1
+2019,Action;Adventure;Free to Play;Indie;RPG,1
+2019,Action;Adventure;Free to Play;RPG;Simulation;Early Access,1
+2019,Action;Adventure;Free to Play;RPG;Strategy;Early Access,1
+2019,Action;Adventure;Indie,97
+2019,Action;Adventure;Indie;Early Access,18
+2019,Action;Adventure;Indie;Massively Multiplayer;Early Access,1
+2019,Action;Adventure;Indie;Massively Multiplayer;RPG,2
+2019,Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Strategy;Early Access,1
+2019,Action;Adventure;Indie;Massively Multiplayer;RPG;Strategy;Early Access,1
+2019,Action;Adventure;Indie;Massively Multiplayer;Racing;Simulation,1
+2019,Action;Adventure;Indie;Massively Multiplayer;Simulation,1
+2019,Action;Adventure;Indie;Massively Multiplayer;Simulation;Early Access,1
+2019,Action;Adventure;Indie;Massively Multiplayer;Simulation;Strategy,1
+2019,Action;Adventure;Indie;RPG,26
+2019,Action;Adventure;Indie;RPG;Early Access,19
+2019,Action;Adventure;Indie;RPG;Simulation,2
+2019,Action;Adventure;Indie;RPG;Simulation;Early Access,4
+2019,Action;Adventure;Indie;RPG;Simulation;Strategy,2
+2019,Action;Adventure;Indie;RPG;Strategy,3
+2019,Action;Adventure;Indie;Racing;RPG,1
+2019,Action;Adventure;Indie;Racing;RPG;Simulation;Early Access,1
+2019,Action;Adventure;Indie;Racing;Simulation,1
+2019,Action;Adventure;Indie;Simulation,15
+2019,Action;Adventure;Indie;Simulation;Early Access,4
+2019,Action;Adventure;Indie;Simulation;Strategy;Early Access,1
+2019,Action;Adventure;Indie;Strategy,3
+2019,Action;Adventure;Indie;Strategy;Early Access,1
+2019,Action;Adventure;Massively Multiplayer,2
+2019,Action;Adventure;Massively Multiplayer;Early Access,2
+2019,Action;Adventure;Massively Multiplayer;RPG,1
+2019,Action;Adventure;Massively Multiplayer;RPG;Early Access,2
+2019,Action;Adventure;Massively Multiplayer;Racing;Early Access,1
+2019,Action;Adventure;Massively Multiplayer;Simulation;Strategy;Early Access,1
+2019,Action;Adventure;Massively Multiplayer;Strategy;Early Access,1
+2019,Action;Adventure;RPG,8
+2019,Action;Adventure;RPG;Early Access,4
+2019,Action;Adventure;RPG;Strategy,1
+2019,Action;Adventure;Racing,1
+2019,Action;Adventure;Racing;Simulation;Early Access,1
+2019,Action;Adventure;Simulation,1
+2019,Action;Adventure;Strategy,2
+2019,Action;Casual,10
+2019,Action;Casual;Early Access,1
+2019,Action;Casual;Free to Play,1
+2019,Action;Casual;Free to Play;Indie,1
+2019,Action;Casual;Free to Play;Indie;Early Access,3
+2019,Action;Casual;Free to Play;Indie;Massively Multiplayer;RPG;Simulation;Strategy,1
+2019,Action;Casual;Free to Play;Indie;RPG,1
+2019,Action;Casual;Free to Play;Indie;RPG;Simulation;Strategy,1
+2019,Action;Casual;Free to Play;Indie;Racing;Sports;Early Access,1
+2019,Action;Casual;Free to Play;Indie;Simulation;Sports,1
+2019,Action;Casual;Free to Play;Indie;Sports,1
+2019,Action;Casual;Free to Play;Massively Multiplayer,2
+2019,Action;Casual;Free to Play;Massively Multiplayer;Simulation;Strategy,1
+2019,Action;Casual;Free to Play;Massively Multiplayer;Strategy;Early Access,1
+2019,Action;Casual;Free to Play;Strategy,1
+2019,Action;Casual;Indie,85
+2019,Action;Casual;Indie;Early Access,13
+2019,Action;Casual;Indie;Massively Multiplayer,1
+2019,Action;Casual;Indie;Massively Multiplayer;RPG;Early Access,1
+2019,Action;Casual;Indie;Massively Multiplayer;Strategy,1
+2019,Action;Casual;Indie;RPG,5
+2019,Action;Casual;Indie;RPG;Simulation,3
+2019,Action;Casual;Indie;RPG;Sports;Early Access,1
+2019,Action;Casual;Indie;RPG;Strategy,1
+2019,Action;Casual;Indie;Racing,3
+2019,Action;Casual;Indie;Racing;Simulation;Sports,2
+2019,Action;Casual;Indie;Racing;Simulation;Sports;Strategy,1
+2019,Action;Casual;Indie;Racing;Simulation;Strategy,1
+2019,Action;Casual;Indie;Racing;Sports,3
+2019,Action;Casual;Indie;Racing;Sports;Early Access,1
+2019,Action;Casual;Indie;Simulation,3
+2019,Action;Casual;Indie;Simulation;Early Access,1
+2019,Action;Casual;Indie;Simulation;Sports,2
+2019,Action;Casual;Indie;Simulation;Strategy,2
+2019,Action;Casual;Indie;Simulation;Strategy;Early Access,1
+2019,Action;Casual;Indie;Sports,3
+2019,Action;Casual;Indie;Sports;Early Access,1
+2019,Action;Casual;Indie;Sports;Strategy,1
+2019,Action;Casual;Indie;Strategy,12
+2019,Action;Casual;Indie;Strategy;Early Access,1
+2019,Action;Casual;Massively Multiplayer;Strategy;Early Access,1
+2019,Action;Casual;Racing,2
+2019,Action;Casual;Racing;Simulation,1
+2019,Action;Casual;Simulation,2
+2019,Action;Casual;Simulation;Sports;Early Access,1
+2019,Action;Casual;Simulation;Strategy,1
+2019,Action;Casual;Strategy,2
+2019,Action;Early Access,10
+2019,Action;Free to Play,5
+2019,Action;Free to Play;Indie,16
+2019,Action;Free to Play;Indie;Early Access,1
+2019,Action;Free to Play;Indie;Massively Multiplayer;Early Access,1
+2019,Action;Free to Play;Indie;RPG;Early Access,1
+2019,Action;Free to Play;Indie;Simulation;Early Access,1
+2019,Action;Free to Play;Indie;Sports;Early Access,1
+2019,Action;Free to Play;Indie;Strategy;Early Access,1
+2019,Action;Free to Play;Massively Multiplayer,2
+2019,Action;Free to Play;Massively Multiplayer;RPG,1
+2019,Action;Free to Play;Massively Multiplayer;RPG;Strategy,1
+2019,Action;Free to Play;Massively Multiplayer;Strategy;Early Access,1
+2019,Action;Free to Play;RPG,1
+2019,Action;Free to Play;Simulation,1
+2019,Action;Free to Play;Strategy,1
+2019,Action;Indie,105
+2019,Action;Indie;Early Access,35
+2019,Action;Indie;Massively Multiplayer,1
+2019,Action;Indie;Massively Multiplayer;Early Access,2
+2019,Action;Indie;Massively Multiplayer;RPG,1
+2019,Action;Indie;Massively Multiplayer;Simulation;Early Access,2
+2019,Action;Indie;RPG,13
+2019,Action;Indie;RPG;Early Access,4
+2019,Action;Indie;RPG;Simulation;Early Access,2
+2019,Action;Indie;RPG;Strategy,1
+2019,Action;Indie;RPG;Strategy;Early Access,1
+2019,Action;Indie;Racing,3
+2019,Action;Indie;Racing;Early Access,1
+2019,Action;Indie;Racing;Simulation,1
+2019,Action;Indie;Racing;Simulation;Sports,1
+2019,Action;Indie;Racing;Simulation;Strategy,1
+2019,Action;Indie;Racing;Sports,3
+2019,Action;Indie;Simulation,3
+2019,Action;Indie;Simulation;Early Access,6
+2019,Action;Indie;Simulation;Sports,2
+2019,Action;Indie;Simulation;Sports;Early Access,1
+2019,Action;Indie;Simulation;Strategy,2
+2019,Action;Indie;Simulation;Strategy;Early Access,1
+2019,Action;Indie;Sports,4
+2019,Action;Indie;Sports;Early Access,2
+2019,Action;Indie;Strategy,14
+2019,Action;Indie;Strategy;Early Access,5
+2019,Action;Massively Multiplayer,1
+2019,Action;Massively Multiplayer;Early Access,3
+2019,Action;Massively Multiplayer;RPG;Early Access,1
+2019,Action;Massively Multiplayer;Racing,1
+2019,Action;Massively Multiplayer;Simulation;Early Access,1
+2019,Action;RPG,3
+2019,Action;Racing,1
+2019,Action;Simulation,1
+2019,Action;Simulation;Early Access,3
+2019,Action;Simulation;Strategy,1
+2019,Action;Simulation;Strategy;Early Access,1
+2019,Action;Sports,2
+2019,Action;Strategy,6
+2019,Adventure,42
+2019,Adventure;Casual,15
+2019,Adventure;Casual;Free to Play;Indie,8
+2019,Adventure;Casual;Free to Play;Indie;RPG,1
+2019,Adventure;Casual;Free to Play;Indie;RPG;Early Access,2
+2019,Adventure;Casual;Free to Play;Indie;RPG;Simulation,1
+2019,Adventure;Casual;Free to Play;Indie;RPG;Simulation;Strategy;Early Access,1
+2019,Adventure;Casual;Free to Play;Indie;RPG;Strategy,1
+2019,Adventure;Casual;Free to Play;Indie;Simulation,1
+2019,Adventure;Casual;Free to Play;RPG,1
+2019,Adventure;Casual;Indie,75
+2019,Adventure;Casual;Indie;Early Access,2
+2019,Adventure;Casual;Indie;Massively Multiplayer;RPG,1
+2019,Adventure;Casual;Indie;RPG,9
+2019,Adventure;Casual;Indie;RPG;Early Access,3
+2019,Adventure;Casual;Indie;RPG;Simulation,9
+2019,Adventure;Casual;Indie;RPG;Simulation;Early Access,2
+2019,Adventure;Casual;Indie;RPG;Simulation;Sports;Strategy,1
+2019,Adventure;Casual;Indie;RPG;Simulation;Strategy,4
+2019,Adventure;Casual;Indie;RPG;Strategy,3
+2019,Adventure;Casual;Indie;RPG;Strategy;Early Access,2
+2019,Adventure;Casual;Indie;Racing;Early Access,1
+2019,Adventure;Casual;Indie;Racing;Simulation;Sports,2
+2019,Adventure;Casual;Indie;Simulation,18
+2019,Adventure;Casual;Indie;Simulation;Early Access,3
+2019,Adventure;Casual;Indie;Simulation;Sports,1
+2019,Adventure;Casual;Indie;Simulation;Strategy,4
+2019,Adventure;Casual;Indie;Simulation;Strategy;Early Access,2
+2019,Adventure;Casual;Indie;Strategy,3
+2019,Adventure;Casual;Indie;Strategy;Early Access,1
+2019,Adventure;Casual;RPG,1
+2019,Adventure;Casual;RPG;Simulation,2
+2019,Adventure;Casual;RPG;Strategy,1
+2019,Adventure;Casual;Simulation,2
+2019,Adventure;Casual;Simulation;Strategy,1
+2019,Adventure;Casual;Strategy,1
+2019,Adventure;Early Access,1
+2019,Adventure;Free to Play;Indie,11
+2019,Adventure;Free to Play;Indie;Massively Multiplayer;RPG,1
+2019,Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,1
+2019,Adventure;Free to Play;Indie;RPG,3
+2019,Adventure;Free to Play;Indie;RPG;Simulation;Strategy,1
+2019,Adventure;Free to Play;Indie;RPG;Strategy,2
+2019,Adventure;Free to Play;Indie;Strategy;Early Access,1
+2019,Adventure;Free to Play;RPG,1
+2019,Adventure;Free to Play;RPG;Simulation;Strategy;Early Access,1
+2019,Adventure;Free to Play;RPG;Strategy;Early Access,1
+2019,Adventure;Free to Play;Simulation,2
+2019,Adventure;Free to Play;Simulation;Strategy,1
+2019,Adventure;Indie,104
+2019,Adventure;Indie;Early Access,7
+2019,Adventure;Indie;RPG,37
+2019,Adventure;Indie;RPG;Early Access,3
+2019,Adventure;Indie;RPG;Simulation,1
+2019,Adventure;Indie;RPG;Simulation;Early Access,3
+2019,Adventure;Indie;RPG;Simulation;Strategy,2
+2019,Adventure;Indie;RPG;Simulation;Strategy;Early Access,2
+2019,Adventure;Indie;RPG;Strategy,10
+2019,Adventure;Indie;RPG;Strategy;Early Access,3
+2019,Adventure;Indie;Racing;RPG;Simulation;Early Access,1
+2019,Adventure;Indie;Simulation,9
+2019,Adventure;Indie;Simulation;Early Access,2
+2019,Adventure;Indie;Simulation;Strategy,3
+2019,Adventure;Indie;Strategy,6
+2019,Adventure;Indie;Strategy;Early Access,5
+2019,Adventure;Massively Multiplayer;RPG,1
+2019,Adventure;RPG,5
+2019,Adventure;RPG;Simulation,1
+2019,Adventure;RPG;Strategy,3
+2019,Adventure;Simulation,3
+2019,Adventure;Simulation;Strategy,1
+2019,Adventure;Strategy,4
+2019,Animation & Modeling;Design & Illustration;Utilities;Early Access,2
+2019,Animation & Modeling;Design & Illustration;Web Publishing,1
+2019,Animation & Modeling;Utilities;Early Access,2
+2019,Casual,57
+2019,Casual;Early Access,4
+2019,Casual;Free to Play,3
+2019,Casual;Free to Play;Indie,14
+2019,Casual;Free to Play;Indie;Massively Multiplayer;Strategy,1
+2019,Casual;Free to Play;Indie;RPG,2
+2019,Casual;Free to Play;Indie;RPG;Simulation,2
+2019,Casual;Free to Play;Indie;RPG;Simulation;Strategy,1
+2019,Casual;Free to Play;Indie;Racing;Strategy,1
+2019,Casual;Free to Play;Indie;Simulation,3
+2019,Casual;Free to Play;Indie;Simulation;Early Access,1
+2019,Casual;Free to Play;Indie;Strategy,3
+2019,Casual;Free to Play;Massively Multiplayer;RPG;Early Access,1
+2019,Casual;Free to Play;Simulation,3
+2019,Casual;Free to Play;Simulation;Sports,1
+2019,Casual;Free to Play;Simulation;Strategy,1
+2019,Casual;Free to Play;Sports,1
+2019,Casual;Free to Play;Strategy,1
+2019,Casual;Free to Play;Strategy;Early Access,2
+2019,Casual;Indie,126
+2019,Casual;Indie;Early Access,6
+2019,Casual;Indie;Massively Multiplayer;Early Access,1
+2019,Casual;Indie;RPG,6
+2019,Casual;Indie;RPG;Simulation,8
+2019,Casual;Indie;RPG;Simulation;Early Access,1
+2019,Casual;Indie;RPG;Simulation;Sports;Strategy,1
+2019,Casual;Indie;RPG;Simulation;Strategy,6
+2019,Casual;Indie;RPG;Simulation;Strategy;Early Access,2
+2019,Casual;Indie;RPG;Strategy,3
+2019,Casual;Indie;Racing,3
+2019,Casual;Indie;Racing;Simulation,1
+2019,Casual;Indie;Racing;Simulation;Early Access,1
+2019,Casual;Indie;Racing;Simulation;Sports,4
+2019,Casual;Indie;Racing;Sports,1
+2019,Casual;Indie;Simulation,33
+2019,Casual;Indie;Simulation;Early Access,10
+2019,Casual;Indie;Simulation;Sports,3
+2019,Casual;Indie;Simulation;Sports;Strategy,2
+2019,Casual;Indie;Simulation;Strategy,10
+2019,Casual;Indie;Simulation;Strategy;Early Access,4
+2019,Casual;Indie;Sports;Early Access,4
+2019,Casual;Indie;Strategy,32
+2019,Casual;Indie;Strategy;Early Access,5
+2019,Casual;Massively Multiplayer;Simulation;Strategy,1
+2019,Casual;Racing;Simulation;Early Access,1
+2019,Casual;Simulation,5
+2019,Casual;Simulation;Early Access,4
+2019,Casual;Simulation;Sports,1
+2019,Casual;Simulation;Sports;Early Access,1
+2019,Casual;Simulation;Strategy,4
+2019,Casual;Simulation;Strategy;Early Access,1
+2019,Casual;Sports,1
+2019,Casual;Strategy,6
+2019,Free to Play,3
+2019,Free to Play;Indie,4
+2019,Free to Play;Indie;Early Access,1
+2019,Free to Play;Indie;Massively Multiplayer;Early Access,1
+2019,Free to Play;Indie;Massively Multiplayer;RPG;Strategy;Early Access,1
+2019,Free to Play;Indie;Massively Multiplayer;Strategy;Early Access,1
+2019,Free to Play;Indie;RPG,1
+2019,Free to Play;Indie;RPG;Early Access,1
+2019,Free to Play;Indie;RPG;Simulation;Strategy;Early Access,1
+2019,Free to Play;Indie;Simulation,2
+2019,Free to Play;Indie;Simulation;Sports,1
+2019,Free to Play;Indie;Simulation;Strategy,1
+2019,Free to Play;Indie;Sports,1
+2019,Free to Play;Indie;Strategy,6
+2019,Free to Play;Indie;Strategy;Early Access,2
+2019,Free to Play;Massively Multiplayer;RPG,2
+2019,Free to Play;Massively Multiplayer;Simulation,1
+2019,Free to Play;Massively Multiplayer;Sports,1
+2019,Free to Play;Massively Multiplayer;Strategy,1
+2019,Free to Play;RPG;Early Access,1
+2019,Free to Play;RPG;Strategy;Early Access,1
+2019,Free to Play;Simulation,3
+2019,Free to Play;Simulation;Early Access,1
+2019,Free to Play;Simulation;Strategy,1
+2019,Free to Play;Strategy,4
+2019,Free to Play;Strategy;Early Access,1
+2019,Indie,75
+2019,Indie;Early Access,7
+2019,Indie;Massively Multiplayer;RPG,2
+2019,Indie;Massively Multiplayer;RPG;Simulation;Early Access,1
+2019,Indie;Massively Multiplayer;RPG;Strategy,1
+2019,Indie;Massively Multiplayer;Racing;Simulation,1
+2019,Indie;Massively Multiplayer;Strategy,1
+2019,Indie;RPG,20
+2019,Indie;RPG;Early Access,4
+2019,Indie;RPG;Simulation,4
+2019,Indie;RPG;Simulation;Early Access,1
+2019,Indie;RPG;Simulation;Strategy,2
+2019,Indie;RPG;Simulation;Strategy;Early Access,1
+2019,Indie;RPG;Strategy,11
+2019,Indie;RPG;Strategy;Early Access,9
+2019,Indie;Racing,1
+2019,Indie;Racing;Simulation,1
+2019,Indie;Racing;Simulation;Early Access,1
+2019,Indie;Racing;Simulation;Sports,4
+2019,Indie;Racing;Simulation;Sports;Early Access,1
+2019,Indie;Racing;Sports;Early Access,1
+2019,Indie;Simulation,16
+2019,Indie;Simulation;Early Access,8
+2019,Indie;Simulation;Sports,8
+2019,Indie;Simulation;Sports;Strategy,2
+2019,Indie;Simulation;Sports;Strategy;Early Access,2
+2019,Indie;Simulation;Strategy,18
+2019,Indie;Simulation;Strategy;Early Access,16
+2019,Indie;Sports,3
+2019,Indie;Sports;Early Access,1
+2019,Indie;Sports;Strategy,1
+2019,Indie;Strategy,29
+2019,Indie;Strategy;Early Access,10
+2019,Massively Multiplayer;Early Access,1
+2019,RPG,23
+2019,RPG;Early Access,5
+2019,RPG;Simulation,3
+2019,RPG;Strategy,6
+2019,Racing,2
+2019,Racing;Simulation;Early Access,1
+2019,Racing;Simulation;Sports,2
+2019,Racing;Sports,1
+2019,Simulation,17
+2019,Simulation;Early Access,6
+2019,Simulation;Sports,1
+2019,Simulation;Sports;Strategy,1
+2019,Simulation;Strategy,5
+2019,Simulation;Strategy;Early Access,4
+2019,Sports,4
+2019,Sports;Early Access,1
+2019,Strategy,14
+2019,Strategy;Early Access,4
+2019,Utilities,6
+2019,Utilities;Game Development;Early Access,1
+2019,Utilities;Video Production,1
+2019,Violent;Action;Casual;Indie;Strategy,1
